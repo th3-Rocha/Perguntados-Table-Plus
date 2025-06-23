@@ -1,0 +1,1242 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é o nome da arte japonesa de dobrar papel em formas e figuras decorativas?",
+    "correct_answer": "Origami",
+    "incorrect_answers": ["Sumi-e", "Ukiyo-e", "Haiku"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destas pinturas não é de Caspar David Friedrich?",
+    "correct_answer": "O Mar Negro",
+    "incorrect_answers": [
+      "O Mar de Gelo",
+      "O Andarilho sobre o Mar de Névoa",
+      "O Monge ao Lado do Mar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'A Noite Estrelada'?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Pablo Picasso", "Leonardo da Vinci", "Michelangelo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista pintou o mural do final do século XV 'A Última Ceia'?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Piero della Francesca",
+      "Paolo Uccello",
+      "Luca Pacioli"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Em que ano a Mona Lisa foi concluída?",
+    "correct_answer": "1504",
+    "incorrect_answers": ["1487", "1523", "1511"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem esculpiu a estátua de David?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Gian Lorenzo Bernini", "Auguste Rodin", "Donatello"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou o mural épico Guernica?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": [
+      "Francisco Goya",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual destes não é uma variação adicional da cor púrpura?",
+    "correct_answer": "Kobicha",
+    "incorrect_answers": ["Byzantium", "Pomp and Power", "Palatinate"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual era a nacionalidade do pintor surrealista Salvador Dalí?",
+    "correct_answer": "Espanhola",
+    "incorrect_answers": ["Italiana", "Francesa", "Portuguesa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'Cisnes refletindo elefantes', 'O Sono' e 'A Persistência da Memória'?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Jackson Pollock", "Vincent van Gogh", "Edgar Degas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destes é o nome de uma marca famosa de marcadores?",
+    "correct_answer": "Copic",
+    "incorrect_answers": ["Dopix", "Cofix", "Marx"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Que cor é produzida pela mistura de preto e branco?",
+    "correct_answer": "Cinza",
+    "incorrect_answers": ["Preto", "Marrom", "Branco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual era a principal distinção entre os estilos gótico inglês e francês de arquitetura?",
+    "correct_answer": "Abóbada em leque",
+    "incorrect_answers": ["Pináculos", "Gárgulas", "Cúpulas hemisféricas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual pintura de Van Gogh retrata a vista de seu asilo em Saint-Rémy-de-Provence, no sul da França?",
+    "correct_answer": "A Noite Estrelada",
+    "incorrect_answers": [
+      "Campos de Trigo com Corvos",
+      "O Semeador com o Sol Poente",
+      "A Igreja de Auvers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é um elemento fundamental do estilo gótico de arquitetura?",
+    "correct_answer": "Arco ogival",
+    "incorrect_answers": [
+      "Tetos artesonados",
+      "Fachadas encimadas por frontões",
+      "Frescos internos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O estilo de qual artista consistia em usar pequenos pontos de cores diferentes para criar uma imagem?",
+    "correct_answer": "Georges Seurat",
+    "incorrect_answers": ["Paul Cézanne", "Vincent van Gogh", "Henri Rousseau"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Que escultor francês projetou a Estátua da Liberdade?",
+    "correct_answer": "Frédéric Auguste Bartholdi",
+    "incorrect_answers": ["Jean-Léon Gérôme", "Auguste Rodin", "Henri Matisse"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'Noite Estrelada'?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Edvard Munch", "Pablo Picasso", "Claude Monet"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual compasso é comumente conhecido como 'compasso cortado'?",
+    "correct_answer": "2/2",
+    "incorrect_answers": ["4/4", "6/8", "3/4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é a obra de ficção mais antiga conhecida no mundo?",
+    "correct_answer": "Épico de Gilgamesh",
+    "incorrect_answers": [
+      "Papiro de Ani",
+      "Código de Hamurabi",
+      "Pedra de Roseta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "A pintura 'A Noite Estrelada' de Vincent van Gogh fez parte de qual movimento artístico?",
+    "correct_answer": "Pós-Impressionismo",
+    "incorrect_answers": ["Romantismo", "Neoclassicismo", "Impressionismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Em que ano Albrecht Dürer criou a pintura 'Lebre Jovem'?",
+    "correct_answer": "1502",
+    "incorrect_answers": ["1702", "1402", "1602"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual foi a primeira técnica fotográfica bem-sucedida e comercialmente viável?",
+    "correct_answer": "O daguerreótipo",
+    "incorrect_answers": [
+      "Processo colódio",
+      "O Sudário de Turim",
+      "Filme Kodachrome"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou o afresco bíblico 'A Criação de Adão'?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo da Vinci", "Caravaggio", "Rembrandt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem desenhou o logotipo da Chupa Chups?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Pablo Picasso", "Andy Warhol", "Vincent van Gogh"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O que foram os 'ready-mades' de Marcel Duchamp?",
+    "correct_answer": "Objetos utilitários elevados ao status de arte",
+    "incorrect_answers": [
+      "Uma série focada em cor e luz em vez de linha e forma",
+      "Pinturas com um quadrado quase imperceptível delineado",
+      "Um conjunto de caixas de aço idênticas projetando-se da parede"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual pintura não foi feita por Vincent van Gogh?",
+    "correct_answer": "A Nona Onda",
+    "incorrect_answers": [
+      "Café da Manhã à Noite",
+      "Quarto em Arles",
+      "Noite Estrelada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a Capela Sistina?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo da Vinci", "Pablo Picasso", "Rafael"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "O local de nascimento e de morte de Albrecht Dürer foi em...",
+    "correct_answer": "Nürnberg",
+    "incorrect_answers": ["Augsburg", "Bamberg", "Berlim"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quantas versões em pintura e pastel de 'O Grito' acredita-se que Edvard Munch tenha produzido?",
+    "correct_answer": "4",
+    "incorrect_answers": ["1", "3", "2"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Que artista pintou 'A Traição das Imagens', uma pintura de um cachimbo com a descrição 'isto não é um cachimbo'?",
+    "correct_answer": "Magritte",
+    "incorrect_answers": ["Matisse", "Modigliani", "Munch"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O estúdio de qual artista era conhecido como 'The Factory'?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": ["Roy Lichtenstein", "David Hockney", "Peter Blake"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista é famoso por pintar girassóis?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Claude Monet", "Pablo Picasso", "Edvard Munch"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por pintar cenas da vida cotidiana japonesa em xilogravuras?",
+    "correct_answer": "Hokusai",
+    "incorrect_answers": ["Hiroshige", "Sesshū Tōyō", "Takashi Murakami"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual destes movimentos artísticos surgiu como reação ao Iluminismo?",
+    "correct_answer": "Romantismo",
+    "incorrect_answers": ["Neoclassicismo", "Cubismo", "Futurismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por pintar relógios derretendo?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Pablo Picasso", "Claude Monet", "René Magritte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual destes artistas pertence ao movimento impressionista?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": ["Andy Warhol", "Jackson Pollock", "Hieronymus Bosch"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual destas obras foi pintada por Hieronymus Bosch?",
+    "correct_answer": "O Jardim das Delícias Terrenas",
+    "incorrect_answers": ["Guernica", "A Noite Estrelada", "Las Meninas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual pintor é conhecido por seu estilo pontilhista?",
+    "correct_answer": "Georges Seurat",
+    "incorrect_answers": ["Henri Matisse", "Paul Gauguin", "Édouard Manet"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual desses é um famoso escultor renascentista?",
+    "correct_answer": "Donatello",
+    "incorrect_answers": ["Raphael", "Botticelli", "Goya"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual movimento artístico é caracterizado por linhas curvas, formas naturais e ornamentação exuberante?",
+    "correct_answer": "Art Nouveau",
+    "incorrect_answers": ["Bauhaus", "Minimalismo", "Dadaísmo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual pintor espanhol é considerado um dos precursores do Surrealismo?",
+    "correct_answer": "Joan Miró",
+    "incorrect_answers": ["Francisco Goya", "El Greco", "Diego Velázquez"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por obras feitas com latas de sopa Campbell's?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Roy Lichtenstein",
+      "Jean-Michel Basquiat",
+      "Keith Haring"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'A Última Ceia'?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Michelangelo", "Raphael", "Botticelli"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual arquiteto projetou a Sagrada Família, em Barcelona?",
+    "correct_answer": "Antoni Gaudí",
+    "incorrect_answers": ["Santiago Calatrava", "Frank Gehry", "Le Corbusier"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O que caracteriza o movimento Dadaísta?",
+    "correct_answer": "Desprezo pelas convenções artísticas e sociais",
+    "incorrect_answers": [
+      "Valorização da simetria",
+      "Foco na natureza",
+      "Uso exclusivo de cores primárias"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual pintor é famoso por retratar bailarinas?",
+    "correct_answer": "Edgar Degas",
+    "incorrect_answers": ["Paul Cézanne", "Édouard Manet", "Henri Rousseau"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual o nome do artista que esculpiu 'O Beijo' em mármore?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": ["Camille Claudel", "Canova", "Donatello"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "A técnica de pintura 'fresco' consiste em:",
+    "correct_answer": "Pintar sobre gesso ainda úmido",
+    "incorrect_answers": [
+      "Usar tinta acrílica sobre tela seca",
+      "Aplicar tinta sobre madeira envernizada",
+      "Misturar cera quente à tinta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista renascentista é conhecido por suas invenções e estudos anatômicos?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Michelangelo", "Caravaggio", "Botticelli"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual destes materiais é tradicionalmente usado na escultura?",
+    "correct_answer": "Bronze",
+    "incorrect_answers": ["Papel machê", "Vidro soprado", "Tecido"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual obra é considerada precursora do expressionismo?",
+    "correct_answer": "O Grito",
+    "incorrect_answers": [
+      "A Liberdade Guiando o Povo",
+      "Impressão, nascer do sol",
+      "A Ronda Noturna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual destes artistas é brasileiro?",
+    "correct_answer": "Tarsila do Amaral",
+    "incorrect_answers": [
+      "Diego Rivera",
+      "Frida Kahlo",
+      "Joaquín Torres-García"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destes artistas pintou o teto da Capela Sistina?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Raphael", "Giotto", "Donatello"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destes é um movimento artístico surgido no século XX?",
+    "correct_answer": "Expressionismo abstrato",
+    "incorrect_answers": ["Barroco", "Neoclassicismo", "Rococó"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem pintou a série 'As Ninféias'?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": ["Édouard Manet", "Paul Cézanne", "Gustave Courbet"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dos seguintes pintores teve uma fase azul?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": ["Henri Matisse", "Joan Miró", "Paul Klee"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual das seguintes obras foi pintada por Gustav Klimt?",
+    "correct_answer": "O Beijo",
+    "incorrect_answers": [
+      "O Nascimento de Vênus",
+      "A Liberdade Guiando o Povo",
+      "A Noite Estrelada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "O movimento Bauhaus teve origem em qual país?",
+    "correct_answer": "Alemanha",
+    "incorrect_answers": ["França", "Suíça", "Áustria"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'A Criação de Adão'?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo da Vinci", "Raphael", "Tintoretto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual das técnicas abaixo utiliza tinta à base de água e é aplicada sobre papel?",
+    "correct_answer": "Aquarela",
+    "incorrect_answers": ["Óleo", "Acrílica", "Pastel"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem é o autor da escultura 'David', além de Michelangelo?",
+    "correct_answer": "Donatello",
+    "incorrect_answers": ["Bernini", "Cellini", "Ghiberti"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por pintar autorretratos com temas mexicanos?",
+    "correct_answer": "Frida Kahlo",
+    "incorrect_answers": [
+      "Diego Rivera",
+      "Maria Izquierdo",
+      "David Alfaro Siqueiros"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dos seguintes artistas é um representante do Neoplasticismo?",
+    "correct_answer": "Piet Mondrian",
+    "incorrect_answers": ["Wassily Kandinsky", "Paul Klee", "Kazimir Malevich"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual artista foi responsável pelas obras da série 'Black Square'?",
+    "correct_answer": "Kazimir Malevich",
+    "incorrect_answers": [
+      "El Lissitzky",
+      "Wassily Kandinsky",
+      "László Moholy-Nagy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual escultor criou 'O Pensador'?",
+    "correct_answer": "Auguste Rodin",
+    "incorrect_answers": ["Alberto Giacometti", "Michelangelo", "Henry Moore"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual desses é um famoso museu localizado em Paris?",
+    "correct_answer": "Louvre",
+    "incorrect_answers": ["Prado", "Hermitage", "MET"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual foi o movimento artístico fundado por Theo van Doesburg e Piet Mondrian?",
+    "correct_answer": "De Stijl",
+    "incorrect_answers": ["Futurismo", "Dadaísmo", "Construtivismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "A obra 'Guernica', de Pablo Picasso, foi inspirada em:",
+    "correct_answer": "Bombardeio durante a Guerra Civil Espanhola",
+    "incorrect_answers": [
+      "A Primeira Guerra Mundial",
+      "A Segunda Guerra Mundial",
+      "A Revolução Francesa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "O que caracteriza o Cubismo?",
+    "correct_answer": "Fragmentação das formas",
+    "incorrect_answers": [
+      "Uso de linhas suaves",
+      "Temas religiosos",
+      "Imitação da natureza"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual o nome da técnica em que pequenos pedaços de vidro, pedra ou outro material são organizados para formar imagens?",
+    "correct_answer": "Mosaico",
+    "incorrect_answers": ["Vitral", "Fresco", "Xilogravura"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem pintou o quadro 'Las Meninas'?",
+    "correct_answer": "Diego Velázquez",
+    "incorrect_answers": ["Francisco Goya", "El Greco", "Murillo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista fundou o movimento Pop Art?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Jean-Michel Basquiat",
+      "Keith Haring",
+      "Robert Rauschenberg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O 'Vitruvian Man' é uma famosa obra de qual artista?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Albrecht Dürer", "Michelangelo", "Giotto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual das obras abaixo foi feita por Edvard Munch?",
+    "correct_answer": "O Grito",
+    "incorrect_answers": [
+      "A Noite Estrelada",
+      "Impressão, nascer do sol",
+      "A Persistência da Memória"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual artista usava colagens em seus trabalhos e fundou o Cubismo junto com Picasso?",
+    "correct_answer": "Georges Braque",
+    "incorrect_answers": ["Fernand Léger", "Juan Gris", "Robert Delaunay"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "A Monalisa está exposta em qual museu?",
+    "correct_answer": "Museu do Louvre",
+    "incorrect_answers": ["Museu do Prado", "Galeria Uffizi", "Tate Modern"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual é a principal característica do Surrealismo?",
+    "correct_answer": "Exploração do inconsciente e dos sonhos",
+    "incorrect_answers": [
+      "Valorização do realismo",
+      "Uso de linhas geométricas",
+      "Foco em paisagens naturais"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem pintou 'A Escola de Atenas'?",
+    "correct_answer": "Raphael",
+    "incorrect_answers": ["Leonardo da Vinci", "Michelangelo", "Botticelli"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "O que é uma natureza-morta?",
+    "correct_answer": "Pintura de objetos inanimados",
+    "incorrect_answers": [
+      "Retrato de animais",
+      "Cena histórica",
+      "Paisagem natural"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual desses artistas é um representante do barroco italiano?",
+    "correct_answer": "Caravaggio",
+    "incorrect_answers": ["Tiziano", "Poussin", "Delacroix"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por suas obras feitas com pontos coloridos, como em 'A Tarde de Domingo na Ilha de Grande Jatte'?",
+    "correct_answer": "Georges Seurat",
+    "incorrect_answers": ["Henri Matisse", "Paul Signac", "Paul Cézanne"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista é famoso por cortar latas de sopa em suas obras?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Roy Lichtenstein",
+      "Jackson Pollock",
+      "David Hockney"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual pintor espanhol foi um dos principais representantes do Surrealismo?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Pablo Picasso", "Juan Gris", "El Greco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual o nome do movimento artístico fundado por Hugo Ball e Tristan Tzara em Zurique?",
+    "correct_answer": "Dadaísmo",
+    "incorrect_answers": ["Cubismo", "Futurismo", "Expressionismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista ficou conhecido por pintar lírios d'água em Giverny?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Édouard Manet",
+      "Pierre-Auguste Renoir",
+      "Paul Cézanne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual artista italiano esculpiu a obra 'O Êxtase de Santa Teresa'?",
+    "correct_answer": "Gian Lorenzo Bernini",
+    "incorrect_answers": ["Donatello", "Michelangelo", "Antonio Canova"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual pintor holandês ficou conhecido por suas obras religiosas e paisagens detalhadas no século XV?",
+    "correct_answer": "Hieronymus Bosch",
+    "incorrect_answers": ["Pieter Bruegel", "Jan van Eyck", "Rembrandt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual técnica artística utiliza cera aquecida misturada com pigmentos?",
+    "correct_answer": "Encaústica",
+    "incorrect_answers": ["Guache", "Aquarela", "Óleo sobre tela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista pintou 'O Nascimento de Vênus'?",
+    "correct_answer": "Sandro Botticelli",
+    "incorrect_answers": ["Leonardo da Vinci", "Raphael", "Caravaggio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "O que é um mosaico?",
+    "correct_answer": "Imagem feita com pequenas peças coloridas",
+    "incorrect_answers": [
+      "Pintura a óleo",
+      "Desenho a carvão",
+      "Gravura em madeira"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem pintou 'As Meninas', famosa obra do século XVII?",
+    "correct_answer": "Diego Velázquez",
+    "incorrect_answers": [
+      "Francisco Goya",
+      "El Greco",
+      "Bartolomé Esteban Murillo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista francês é conhecido por suas bailarinas em pinturas e esculturas?",
+    "correct_answer": "Edgar Degas",
+    "incorrect_answers": ["Claude Monet", "Henri Matisse", "Georges Seurat"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Em qual museu está exposta a pintura 'O Casal Arnolfini'?",
+    "correct_answer": "National Gallery, Londres",
+    "incorrect_answers": ["Museu do Louvre", "Museu do Prado", "Rijksmuseum"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual a principal característica do Cubismo?",
+    "correct_answer": "Fragmentação geométrica das formas",
+    "incorrect_answers": [
+      "Uso de cores vibrantes",
+      "Retratos realistas",
+      "Pinceladas rápidas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista brasileiro é conhecido por pintar figuras humanas com corpos volumosos?",
+    "correct_answer": "Di Cavalcanti",
+    "incorrect_answers": ["Cândido Portinari", "Tarsila do Amaral", "Vik Muniz"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "A Semana de Arte Moderna de 1922 ocorreu em qual cidade brasileira?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Rio de Janeiro", "Belo Horizonte", "Brasília"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual obra foi pintada no teto da Capela Sistina?",
+    "correct_answer": "A Criação de Adão",
+    "incorrect_answers": [
+      "O Juízo Final",
+      "O Nascimento de Vênus",
+      "As Bodas de Caná"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem criou a pintura abstrata 'Composição VIII'?",
+    "correct_answer": "Wassily Kandinsky",
+    "incorrect_answers": ["Paul Klee", "Kazimir Malevich", "Piet Mondrian"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual destas é uma famosa escultura de Auguste Rodin?",
+    "correct_answer": "O Pensador",
+    "incorrect_answers": ["Davi", "Pietá", "Vênus de Milo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O que define o estilo barroco na pintura?",
+    "correct_answer": "Dramatismo e contraste de luz e sombra",
+    "incorrect_answers": [
+      "Linhas suaves e tons pastéis",
+      "Figuras geométricas",
+      "Planos monocromáticos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual desses artistas foi um dos precursores do movimento expressionista?",
+    "correct_answer": "Edvard Munch",
+    "incorrect_answers": ["Henri Rousseau", "Paul Gauguin", "Marc Chagall"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual artista é conhecido por pintar latas de sopa Campbell's?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Roy Lichtenstein",
+      "Jean-Michel Basquiat",
+      "Keith Haring"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'O Grito'?",
+    "correct_answer": "Edvard Munch",
+    "incorrect_answers": ["Claude Monet", "Vincent van Gogh", "Paul Cézanne"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual destes artistas é conhecido por usar urinóis como arte?",
+    "correct_answer": "Marcel Duchamp",
+    "incorrect_answers": ["Robert Rauschenberg", "Joseph Beuys", "Yves Klein"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou 'Impressão, nascer do sol' que deu nome ao Impressionismo?",
+    "correct_answer": "Claude Monet",
+    "incorrect_answers": [
+      "Camille Pissarro",
+      "Édouard Manet",
+      "Pierre-Auguste Renoir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual dessas é uma técnica de escultura?",
+    "correct_answer": "Entalhe",
+    "incorrect_answers": ["Aquarela", "Fresco", "Colagem"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual artista espanhol é famoso por suas pinturas negras e 'O 3 de maio de 1808'?",
+    "correct_answer": "Francisco Goya",
+    "incorrect_answers": ["Joan Miró", "Diego Velázquez", "El Greco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dessas obras foi pintada por Tarsila do Amaral?",
+    "correct_answer": "Abaporu",
+    "incorrect_answers": ["Antropofagia", "Operários", "Floresta Tropical"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Em que país nasceu Leonardo da Vinci?",
+    "correct_answer": "Itália",
+    "incorrect_answers": ["França", "Espanha", "Alemanha"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O que é uma instalação artística?",
+    "correct_answer": "Uma obra que ocupa um espaço e envolve o público",
+    "incorrect_answers": [
+      "Uma pintura realista",
+      "Uma escultura de bronze",
+      "Uma colagem em papel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem pintou 'As Meninas', uma das obras-primas da pintura barroca espanhola?",
+    "correct_answer": "Diego Velázquez",
+    "incorrect_answers": [
+      "Francisco Goya",
+      "El Greco",
+      "Bartolomé Esteban Murillo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual estilo artístico é caracterizado pelo uso de linhas fluidas e formas naturais?",
+    "correct_answer": "Art Nouveau",
+    "incorrect_answers": ["Futurismo", "Surrealismo", "Dadaísmo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a obra 'A Última Ceia'?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Michelangelo", "Donatello", "Rafael"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual movimento artístico foi fundado por Theo van Doesburg e Piet Mondrian?",
+    "correct_answer": "De Stijl",
+    "incorrect_answers": ["Futurismo", "Expressionismo", "Construtivismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual dessas cores é primária?",
+    "correct_answer": "Azul",
+    "incorrect_answers": ["Verde", "Laranja", "Roxo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou 'A Ronda Noturna'?",
+    "correct_answer": "Rembrandt",
+    "incorrect_answers": ["Vermeer", "Rubens", "Caravaggio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual desses artistas foi um dos principais nomes do Suprematismo?",
+    "correct_answer": "Kazimir Malevich",
+    "incorrect_answers": ["Wassily Kandinsky", "El Lissitzky", "Rodchenko"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual obra de Botticelli representa a deusa do amor emergindo do mar?",
+    "correct_answer": "O Nascimento de Vênus",
+    "incorrect_answers": ["Primavera", "A Adoração dos Magos", "Vênus e Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Em que século surgiu o movimento artístico Romantismo?",
+    "correct_answer": "Século XIX",
+    "incorrect_answers": ["Século XVIII", "Século XVII", "Século XX"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é o nome do famoso museu localizado em Paris?",
+    "correct_answer": "Museu do Louvre",
+    "incorrect_answers": [
+      "Museu Hermitage",
+      "Museu Britânico",
+      "Museu do Prado"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dessas técnicas é usada na gravura?",
+    "correct_answer": "Xilogravura",
+    "incorrect_answers": ["Giz pastel", "Guache", "Aquarela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem foi o pintor famoso pelo uso de pontos coloridos (pontilhismo)?",
+    "correct_answer": "Georges Seurat",
+    "incorrect_answers": ["Claude Monet", "Paul Signac", "Henri Matisse"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dessas obras é de Michelangelo?",
+    "correct_answer": "A Criação de Adão",
+    "incorrect_answers": ["A Escola de Atenas", "A Ceia", "Vênus de Milo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou 'O Nascimento de Vênus'?",
+    "correct_answer": "Sandro Botticelli",
+    "incorrect_answers": ["Giotto", "Donatello", "Michelangelo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual pintor ficou famoso por cortar parte de sua orelha?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Claude Monet", "Paul Cézanne", "Edvard Munch"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual o nome do movimento artístico liderado por Andy Warhol?",
+    "correct_answer": "Pop Art",
+    "incorrect_answers": ["Futurismo", "Cubismo", "Surrealismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é a técnica de pintura que usa pigmentos diluídos em água?",
+    "correct_answer": "Aquarela",
+    "incorrect_answers": ["Óleo", "Acrílico", "Guache"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual desses artistas pertenceu ao movimento dadaísta?",
+    "correct_answer": "Marcel Duchamp",
+    "incorrect_answers": [
+      "Wassily Kandinsky",
+      "Piet Mondrian",
+      "Jackson Pollock"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "O que é 'trompe-l'œil' na arte?",
+    "correct_answer": "Técnica para criar ilusão de ótica",
+    "incorrect_answers": [
+      "Estilo de escultura",
+      "Tipo de tinta",
+      "Forma de moldura"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista é conhecido pelas 'Latas de Sopa Campbell'?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": ["Roy Lichtenstein", "Jasper Johns", "Keith Haring"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual dessas obras foi feita por Leonardo da Vinci?",
+    "correct_answer": "A Última Ceia",
+    "incorrect_answers": ["Guernica", "O Grito", "A Noite Estrelada"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quem projetou a pirâmide de vidro do Museu do Louvre?",
+    "correct_answer": "I. M. Pei",
+    "incorrect_answers": ["Frank Gehry", "Renzo Piano", "Zaha Hadid"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "O que é 'escultura'?",
+    "correct_answer": "Arte tridimensional feita por modelagem ou entalhe",
+    "incorrect_answers": [
+      "Pintura sobre tela",
+      "Fotografia artística",
+      "Instalação sonora"
+    ]
+  }
+]

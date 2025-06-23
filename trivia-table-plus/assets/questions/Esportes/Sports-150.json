@@ -1,0 +1,1398 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos pontos LeBron James marcou em seu primeiro jogo na NBA?",
+    "correct_answer": "25",
+    "incorrect_answers": ["19", "69", "41"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual jogador da NBA disputou o maior número de partidas em sua carreira?",
+    "correct_answer": "Robert Parish",
+    "incorrect_answers": ["Kareem Abdul-Jabbar", "Kevin Garnett", "Kobe Bryant"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "O Mazda 787B venceu as 24 Horas de Le Mans em que ano?",
+    "correct_answer": "1991",
+    "incorrect_answers": ["1990", "2000", "1987"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "De qual cidade era o antigo time da NHL \"The Nordiques\"?",
+    "correct_answer": "Cidade de Quebec",
+    "incorrect_answers": ["Houston", "Montreal", "Nova York"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual seleção venceu a Copa América de 2015?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Brasil", "Paraguai"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem venceu o Campeonato Mundial de Fórmula 1 de 2016?",
+    "correct_answer": "Nico Rosberg",
+    "incorrect_answers": ["Lewis Hamilton", "Max Verstappen", "Kimi Raikkonen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em que ano nasceu a lenda do hóquei Wayne Gretzky?",
+    "correct_answer": "1961",
+    "incorrect_answers": ["1965", "1959", "1963"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem venceu o Campeonato Mundial de Fórmula 1 de 2015?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Nico Rosberg", "Sebastian Vettel", "Jenson Button"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o nome do time afiliado da AHL do Toronto Maple Leafs?",
+    "correct_answer": "Toronto Marlies",
+    "incorrect_answers": [
+      "Toronto Rock",
+      "Toronto Argonauts",
+      "Toronto Wolfpack"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o apelido do clube de rúgbi da cidade de Northampton?",
+    "correct_answer": "Saints",
+    "incorrect_answers": ["Harlequins", "Saracens", "Wasps"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual lutador profissional caiu das vigas e morreu durante um evento Pay-Per-View ao vivo em 1999?",
+    "correct_answer": "Owen Hart",
+    "incorrect_answers": ["Chris Benoit", "Lex Luger", "Al Snow"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual lutador venceu o Royal Rumble Masculino de 2019?",
+    "correct_answer": "Seth Rollins",
+    "incorrect_answers": ["Braun Strowman", "AJ Styles", "Andrade"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual piloto da Fórmula 1 era apelidado de 'O Professor'?",
+    "correct_answer": "Alain Prost",
+    "incorrect_answers": ["Ayrton Senna", "Niki Lauda", "Emerson Fittipaldi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem é frequentemente chamado de \"o Maestro\" no circuito de tênis masculino?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Bill Tilden", "Boris Becker", "Pete Sampras"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual afro-americano ajudou a integrar a liga principal de beisebol?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": ["Curt Flood", "Roy Campanella", "Satchell Paige"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Com qual time Steven Gerrard venceu a Liga dos Campeões?",
+    "correct_answer": "Liverpool",
+    "incorrect_answers": ["Real Madrid", "Chelsea", "Man City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual cidade tem todos os seus times profissionais com o mesmo esquema de cores nos uniformes?",
+    "correct_answer": "Pittsburgh",
+    "incorrect_answers": ["Nova York", "Seattle", "Tampa Bay"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual dos seguintes esportes **não** faz parte do triatlo?",
+    "correct_answer": "Hipismo",
+    "incorrect_answers": ["Ciclismo", "Natação", "Corrida"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual jogador masculino ganhou a medalha de ouro no tênis de mesa nas Olimpíadas de 2016?",
+    "correct_answer": "Ma Long (China)",
+    "incorrect_answers": [
+      "Zhang Jike (China)",
+      "Jun Mizutani (Japão)",
+      "Vladimir Samsonov (Bielorrússia)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual arremessador foi nomeado Novato do Ano da Liga Nacional em 2013?",
+    "correct_answer": "Jose Fernandez",
+    "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Em qual esporte se utiliza uma \"peteca\"?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Tênis de Mesa", "Rugby", "Críquete"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual país sediou a Copa do Mundo FIFA de 2022?",
+    "correct_answer": "Catar",
+    "incorrect_answers": ["EUA", "Japão", "Suíça"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual jogador deu um chute tipo 'kung-fu' em um torcedor do Crystal Palace em janeiro de 1995?",
+    "correct_answer": "Eric Cantona",
+    "incorrect_answers": ["David Seamen", "Ashley Cole", "Mark Hughes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Em que ano Jenson Button venceu seu primeiro Campeonato Mundial de Fórmula 1?",
+    "correct_answer": "2009",
+    "incorrect_answers": ["2010", "2007", "2006"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time venceu a Copa do Mundo FIFA de 2014 no Brasil?",
+    "correct_answer": "Alemanha",
+    "incorrect_answers": ["Argentina", "Brasil", "Holanda"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Em que ano o New Orleans Saints venceu o Super Bowl?",
+    "correct_answer": "2010",
+    "incorrect_answers": ["2008", "2009", "2011"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantas zonas de pontuação existem em um tabuleiro de dardos convencional?",
+    "correct_answer": "82",
+    "incorrect_answers": ["62", "42", "102"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantos jogos o Arsenal FC ficou invicto na temporada 2003-2004 da Premier League?",
+    "correct_answer": "38",
+    "incorrect_answers": ["51", "49", "22"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Por que o 'Green Monster' no Fenway Park foi originalmente construído?",
+    "correct_answer": "Para impedir a visualização dos jogos de fora do estádio.",
+    "incorrect_answers": [
+      "Para dificultar os home runs.",
+      "Para exibir anúncios.",
+      "Para adicionar mais assentos."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem venceu a Liga dos Campeões da UEFA em 2017?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": ["Atlético de Madrid", "AS Monaco FC", "Juventus F.C."]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual clube de futebol inglês tem o apelido de 'The Foxes' (As Raposas)?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem venceu o Grande Prêmio de Mônaco de 2018?",
+    "correct_answer": "Daniel Ricciardo",
+    "incorrect_answers": [
+      "Sebastian Vettel",
+      "Kimi Raikkonen",
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual desses jogadores marcou um hat-trick em sua estreia pelo Manchester United?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": [
+      "Cristiano Ronaldo",
+      "Robin Van Persie",
+      "David Beckham"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o time mais antigo da NFL?",
+    "correct_answer": "Arizona Cardinals",
+    "incorrect_answers": [
+      "Chicago Bears",
+      "Green Bay Packers",
+      "New York Giants"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time venceu a MLS Cup em 2016?",
+    "correct_answer": "Seattle Sounders",
+    "incorrect_answers": ["Colorado Rapids", "Toronto FC", "Montreal Impact"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual equipe foi campeã da NBA na temporada 2014–2015?",
+    "correct_answer": "Golden State Warriors",
+    "incorrect_answers": [
+      "Cleveland Cavaliers",
+      "Houston Rockets",
+      "Atlanta Hawks"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual é o nome do time afiliado da AHL do Boston Bruins?",
+    "correct_answer": "Providence Bruins",
+    "incorrect_answers": [
+      "New Haven Bruins",
+      "Cambridge Bruins",
+      "Hartford Bruins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual país sediou a Copa do Mundo FIFA de 2018?",
+    "correct_answer": "Rússia",
+    "incorrect_answers": ["Alemanha", "Estados Unidos", "Arábia Saudita"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "No golfe, como é chamado o desempenho de dois tacadas abaixo do par em um buraco?",
+    "correct_answer": "Águia (Eagle)",
+    "incorrect_answers": ["Pardal (Birdie)", "Bogey", "Albatroz (Albatross)"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem venceu a Premier League na temporada 2015–2016 após uma campanha de conto de fadas?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual jogador detém o recorde da NHL com 2.857 pontos?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": ["Mario Lemieux", "Sidney Crosby", "Gordie Howe"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Em qual corrida o Campeonato de Pilotos da F1 de 2018 foi decidido?",
+    "correct_answer": "México",
+    "incorrect_answers": ["Estados Unidos", "Bélgica", "Abu Dhabi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "No beisebol, quantas faltas (fouls) resultam em eliminação?",
+    "correct_answer": "0",
+    "incorrect_answers": ["5", "3", "2"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "De qual ilha portuguesa é natural o jogador Cristiano Ronaldo?",
+    "correct_answer": "Madeira",
+    "incorrect_answers": ["Terceira", "Santa Maria", "Porto Santo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual cidade os Lakers representavam antes de se mudarem para Los Angeles?",
+    "correct_answer": "Minneapolis",
+    "incorrect_answers": ["Filadélfia", "Chicago", "São Francisco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Antes de 2018, qual montadora japonesa foi a única a vencer as 24 Horas de Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem venceu a Stanley Cup de 2011?",
+    "correct_answer": "Boston Bruins",
+    "incorrect_answers": [
+      "Montreal Canadiens",
+      "New York Rangers",
+      "Toronto Maple Leafs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Com qual parceiro de duplas John McEnroe teve mais sucesso?",
+    "correct_answer": "Peter Fleming",
+    "incorrect_answers": ["Mark Woodforde", "Michael Stich", "Mary Carillo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual é o tipo de arremesso mais comum no beisebol?",
+    "correct_answer": "Bola rápida (Fastball)",
+    "incorrect_answers": ["Bola lenta", "Screwball", "Palmball"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o maior artilheiro da história da seleção inglesa de futebol?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": ["David Beckham", "Steven Gerrard", "Michael Owen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual time da NBA participou do maior número de finais?",
+    "correct_answer": "Los Angeles Lakers",
+    "incorrect_answers": [
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Golden State Warriors"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o artilheiro da Copa do Mundo FIFA de 2014?",
+    "correct_answer": "James Rodríguez",
+    "incorrect_answers": ["Thomas Müller", "Lionel Messi", "Neymar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Que time a Inglaterra derrotou na semifinal para chegar à final da Copa de 1966?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["Alemanha Ocidental", "União Soviética", "Brasil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos jogadores de futebol devem estar em campo ao mesmo tempo (no total)?",
+    "correct_answer": "22",
+    "incorrect_answers": ["20", "24", "26"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "De qual país se originou o Kabaddi, um esporte de contato com agarrões?",
+    "correct_answer": "Índia",
+    "incorrect_answers": ["Austrália", "Turquia", "Camboja"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual fabricante de carros venceu as 24 Horas de Le Mans em 2016?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Toyota", "Audi", "Ferrari"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o campeão da NBA na temporada 2015–2016?",
+    "correct_answer": "Cleveland Cavaliers",
+    "incorrect_answers": [
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Oklahoma City Thunders"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Com qual equipe Michael Schumacher estreou na Fórmula 1 no Grande Prêmio da Bélgica de 1991?",
+    "correct_answer": "Jordan",
+    "incorrect_answers": ["Benetton", "Ferrari", "Mercedes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quando o FC Schalke 04 foi fundado?",
+    "correct_answer": "1904",
+    "incorrect_answers": ["1909", "2008", "1999"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time a Inglaterra derrotou na final da Copa do Mundo de 1966?",
+    "correct_answer": "Alemanha Ocidental",
+    "incorrect_answers": ["União Soviética", "Portugal", "Brasil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "O que é conhecido como 'O Esporte dos Reis'?",
+    "correct_answer": "Corrida de Cavalos",
+    "incorrect_answers": ["Xadrez", "Justa", "Esgrima"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em 2016, quem venceu o Campeonato Mundial de Construtores da Fórmula 1 pela terceira vez consecutiva?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Red Bull Racing Renault"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual país sediou os Jogos Olímpicos de Verão de 2020?",
+    "correct_answer": "Japão",
+    "incorrect_answers": ["China", "Austrália", "Alemanha"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em uma partida de sinuca, qual bola vale 3 pontos?",
+    "correct_answer": "Verde",
+    "incorrect_answers": ["Amarela", "Marrom", "Azul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "O jogador de hóquei Wayne Gretzky nasceu em qual província canadense?",
+    "correct_answer": "Ontário",
+    "incorrect_answers": ["Colúmbia Britânica", "Quebec", "Alberta"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "O 'Stadium of Light' é o estádio de qual time de futebol?",
+    "correct_answer": "Sunderland FC",
+    "incorrect_answers": [
+      "Barcelona FC",
+      "Paris Saint-Germain",
+      "Manchester United"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Um 'stimpmeter' mede a velocidade da bola em qual superfície?",
+    "correct_answer": "Green de golfe",
+    "incorrect_answers": [
+      "Campo de futebol",
+      "Campo de críquete",
+      "Mesa de pinball"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o primeiro jogador a marcar 200 gols na Premier League inglesa?",
+    "correct_answer": "Alan Shearer",
+    "incorrect_answers": ["Wayne Rooney", "Robbie Fowler", "Thierry Henry"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem venceu o Campeonato Mundial de Pilotos da Fórmula 1 em 2017?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Sebastian Vettel", "Nico Rosberg", "Max Verstappen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual das seleções nacionais se classificou para a Copa do Mundo FIFA de 2018 na Rússia?",
+    "correct_answer": "Tunísia",
+    "incorrect_answers": ["Estados Unidos", "Itália", "Holanda"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual foi o ano de fundação do clube italiano de futebol Bari?",
+    "correct_answer": "1908",
+    "incorrect_answers": ["1945", "2014", "1895"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é a faixa mais alta que se pode alcançar no Taekwondo?",
+    "correct_answer": "Preta",
+    "incorrect_answers": ["Branca", "Vermelha", "Verde"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual esporte NÃO é tradicionalmente jogado durante o festival mongol Naadam?",
+    "correct_answer": "Futebol Americano",
+    "incorrect_answers": ["Luta livre", "Arco e flecha", "Corrida de cavalos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual nação sediou a Copa do Mundo da FIFA de 2006?",
+    "correct_answer": "Alemanha",
+    "incorrect_answers": ["Reino Unido", "Brasil", "África do Sul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time venceu a Premier League inglesa na temporada 2015-16?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Liverpool", "Chelsea", "Manchester United"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Na Fórmula 1, o Safety Car Virtual foi introduzido após a morte de qual piloto?",
+    "correct_answer": "Jules Bianchi",
+    "incorrect_answers": [
+      "Ayrton Senna",
+      "Ronald Ratzenberger",
+      "Gilles Villeneuve"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "No futebol canadense, marcar um 'rouge' vale quantos pontos?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual jogador da NBA foi eleito o Jogador Mais Valioso na temporada 1999-2000?",
+    "correct_answer": "Shaquille O'Neal",
+    "incorrect_answers": ["Allen Iverson", "Kobe Bryant", "Paul Pierce"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual destes torneios de Grand Slam de tênis ocorre por último no ano?",
+    "correct_answer": "US Open",
+    "incorrect_answers": ["Roland Garros", "Wimbledon", "Australian Open"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual é o nome completo do jogador 'Cristiano Ronaldo'?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem venceu a Liga dos Campeões em 1999?",
+    "correct_answer": "Manchester United",
+    "incorrect_answers": ["Barcelona", "Bayern de Munique", "Liverpool"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o time mais antigo da Major League Baseball?",
+    "correct_answer": "Atlanta Braves",
+    "incorrect_answers": [
+      "Chicago Cubs",
+      "Cincinnati Reds",
+      "St. Louis Cardinals"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quando foi jogado o primeiro jogo internacional oficial?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "A música 'Three Lions' da banda Lightning Seeds foi feita para qual evento de futebol em 1996?",
+    "correct_answer": "Campeonato Europeu",
+    "incorrect_answers": [
+      "Copa do Mundo",
+      "Liga dos Campeões",
+      "Copa das Confederações"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "O Etihad Stadium é o estádio de qual time?",
+    "correct_answer": "Manchester City",
+    "incorrect_answers": ["Manchester United", "Arsenal", "Blackpool"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time da NFL representa a região da Nova Inglaterra?",
+    "correct_answer": "Patriots",
+    "incorrect_answers": ["Chiefs", "Dolphins", "49ers"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual desses times não fazia parte da era dos 'Original Six' da NHL?",
+    "correct_answer": "Philadelphia Flyers",
+    "incorrect_answers": [
+      "New York Rangers",
+      "Toronto Maple Leafs",
+      "Boston Bruins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual dessas cidades europeias foi a primeira a sediar três vezes os Jogos Olímpicos de Verão modernos?",
+    "correct_answer": "Londres",
+    "incorrect_answers": ["Paris", "Atenas", "Roma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual time venceu mais vezes a Stanley Cup na NHL?",
+    "correct_answer": "Montreal Canadiens",
+    "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual piloto de Fórmula 1 trocou de equipe no meio da temporada de 2017?",
+    "correct_answer": "Carlos Sainz Jr.",
+    "incorrect_answers": ["Daniil Kvyat", "Jolyon Palmer", "Rio Haryanto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual time de futebol inglês é apelidado de 'The Tigers' (Os Tigres)?",
+    "correct_answer": "Hull City",
+    "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Em que ano foi realizado o terceiro Super Bowl?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1968", "1971", "1970"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual país sediou a Copa do Mundo da FIFA de 2022?",
+    "correct_answer": "Catar",
+    "incorrect_answers": ["Uganda", "Vietnã", "Bolívia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual boxeador foi banido por morder a orelha de Evander Holyfield em 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em qual esporte Fanny Chmelar compete pela Alemanha?",
+    "correct_answer": "Esqui",
+    "incorrect_answers": ["Natação", "Hipismo", "Ginástica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual ferramenta dá nome à vantagem de última pedra em uma rodada no Curling?",
+    "correct_answer": "Martelo (Hammer)",
+    "incorrect_answers": [
+      "Chave inglesa (Wrench)",
+      "Furadeira (Drill)",
+      "Chave de fenda (Screwdriver)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Onde foram realizados os Jogos da XXII Olimpíada?",
+    "correct_answer": "Moscou",
+    "incorrect_answers": ["Barcelona", "Tóquio", "Los Angeles"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos jogadores há em um time de futebol/soccer?",
+    "correct_answer": "11",
+    "incorrect_answers": ["10", "9", "8"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual seleção venceu a Eurocopa de 2016?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["França", "Alemanha", "Inglaterra"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quais dois times jogaram o Super Bowl XLII?",
+    "correct_answer": "New York Giants e New England Patriots",
+    "incorrect_answers": [
+      "Green Bay Packers e Pittsburgh Steelers",
+      "Philadelphia Eagles e New England Patriots",
+      "Seattle Seahawks e Denver Broncos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual seleção venceu a Copa do Mundo de Futebol em 2002?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["Alemanha", "Argentina", "França"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o campeão da Fórmula 1 em 1994 e 1995?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": ["Ayrton Senna", "Nelson Piquet", "Rubens Barrichello"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantas medalhas de ouro olímpicas tem a ginasta Rebeca Andrade (até 2024)?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "0"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Em que esporte Gabriel Medina se destacou mundialmente?",
+    "correct_answer": "Surfe",
+    "incorrect_answers": ["Skate", "Atletismo", "Natação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual time venceu a Copa Libertadores em 2019?",
+    "correct_answer": "Flamengo",
+    "incorrect_answers": ["Palmeiras", "River Plate", "Grêmio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual atleta brasileiro venceu a São Silvestre cinco vezes?",
+    "correct_answer": "Marilson Gomes dos Santos",
+    "incorrect_answers": [
+      "Vanderlei Cordeiro",
+      "Frank Caldeira",
+      "Ronaldo da Costa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em que cidade brasileira nasceu Ayrton Senna?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Curitiba", "Belo Horizonte", "Brasília"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual é o principal campeonato de vôlei feminino do Brasil?",
+    "correct_answer": "Superliga",
+    "incorrect_answers": ["Brasileirão", "Copa Brasil", "Liga Nacional"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual lutador brasileiro foi campeão do UFC na categoria peso médio por mais tempo?",
+    "correct_answer": "Anderson Silva",
+    "incorrect_answers": ["José Aldo", "Charles do Bronx", "Vitor Belfort"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual país venceu o vôlei masculino nas Olimpíadas de Atenas em 2004?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["Rússia", "Itália", "Cuba"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Quem foi o primeiro brasileiro a conquistar ouro olímpico no atletismo?",
+    "correct_answer": "Adhemar Ferreira da Silva",
+    "incorrect_answers": ["João do Pulo", "Maurren Maggi", "Vanderlei Cordeiro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual é o nome do estádio do Maracanã oficialmente?",
+    "correct_answer": "Estádio Jornalista Mário Filho",
+    "incorrect_answers": ["Estádio Municipal", "Arena Rio", "Estádio da Gávea"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quem é o maior artilheiro da história da Seleção Brasileira (até 2023)?",
+    "correct_answer": "Neymar",
+    "incorrect_answers": ["Pelé", "Romário", "Zico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual cidade sediou os Jogos Pan-Americanos de 2007?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": ["São Paulo", "Buenos Aires", "Lima"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em qual modalidade olímpica Isaquias Queiroz conquistou medalhas para o Brasil?",
+    "correct_answer": "Canoagem",
+    "incorrect_answers": ["Natação", "Remo", "Atletismo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Quantas medalhas olímpicas o Brasil conquistou em Tóquio 2020 (incluindo adiadas para 2021)?",
+    "correct_answer": "21",
+    "incorrect_answers": ["19", "17", "22"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o nome da principal competição de futsal entre clubes no Brasil?",
+    "correct_answer": "Liga Nacional de Futsal",
+    "incorrect_answers": [
+      "Copa do Brasil de Futsal",
+      "Supercopa",
+      "Taça Brasil"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual famoso lutador de jiu-jitsu também foi campeão do UFC?",
+    "correct_answer": "Demian Maia",
+    "incorrect_answers": ["Wanderlei Silva", "Lyoto Machida", "Pedro Rizzo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual país derrotou o Brasil na final da Copa do Mundo de 1998?",
+    "correct_answer": "França",
+    "incorrect_answers": ["Alemanha", "Itália", "Argentina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual foi o placar da final entre Brasil e Alemanha na Copa de 2014?",
+    "correct_answer": "7x1 para a Alemanha",
+    "incorrect_answers": [
+      "2x0 para a Alemanha",
+      "3x1 para o Brasil",
+      "5x0 para a Alemanha"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual brasileira foi campeã mundial de skate em 2023?",
+    "correct_answer": "Rayssa Leal",
+    "incorrect_answers": ["Letícia Bufoni", "Karen Jonz", "Pâmela Rosa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Quantas Copas do Mundo o Brasil venceu fora da América do Sul?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "3", "5"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quem foi o treinador da Seleção Brasileira na Copa de 2002?",
+    "correct_answer": "Luiz Felipe Scolari",
+    "incorrect_answers": ["Carlos Alberto Parreira", "Zagallo", "Dunga"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual piloto brasileiro venceu três vezes o GP de Mônaco na Fórmula 1?",
+    "correct_answer": "Ayrton Senna",
+    "incorrect_answers": ["Rubens Barrichello", "Felipe Massa", "Nelson Piquet"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "O que é uma cortada no vôlei?",
+    "correct_answer": "Um ataque forte e direcionado",
+    "incorrect_answers": [
+      "Um passe de defesa",
+      "Um saque fraco",
+      "Uma bola fora"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Em que ano o Brasil sediou a Copa do Mundo pela primeira vez?",
+    "correct_answer": "1950",
+    "incorrect_answers": ["1938", "1962", "1970"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual ex-jogador é conhecido como 'O Fenômeno'?",
+    "correct_answer": "Ronaldo Nazário",
+    "incorrect_answers": ["Ronaldinho Gaúcho", "Romário", "Kaká"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em qual cidade está localizada a sede do Comitê Olímpico Brasileiro (COB)?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": ["São Paulo", "Brasília", "Curitiba"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual esporte é praticado com uma prancha e ondas?",
+    "correct_answer": "Surfe",
+    "incorrect_answers": ["Skate", "Remo", "Vela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos jogadores formam uma equipe de vôlei de praia durante uma partida?",
+    "correct_answer": "2",
+    "incorrect_answers": ["4", "6", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual o tempo total de uma luta de boxe profissional masculina, considerando 12 rounds?",
+    "correct_answer": "36 minutos",
+    "incorrect_answers": ["30 minutos", "48 minutos", "24 minutos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual a principal função do líbero no vôlei?",
+    "correct_answer": "Defesa e recepção",
+    "incorrect_answers": ["Ataque", "Saque", "Bloqueio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual o número mínimo de voltas para uma corrida ser considerada válida na Fórmula 1?",
+    "correct_answer": "2 voltas completas",
+    "incorrect_answers": ["10 voltas", "50% da corrida", "5 voltas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Em que tipo de pista é disputada a maratona olímpica?",
+    "correct_answer": "Rua",
+    "incorrect_answers": ["Estádio", "Pista de atletismo", "Esteira"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos sets são necessários para vencer uma partida de tênis masculino em Grand Slams?",
+    "correct_answer": "3 de 5 sets",
+    "incorrect_answers": ["2 de 3 sets", "5 de 7 sets", "4 de 5 sets"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual o comprimento oficial de uma piscina olímpica?",
+    "correct_answer": "50 metros",
+    "incorrect_answers": ["25 metros", "100 metros", "60 metros"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o nome do aparelho onde são realizadas as provas de argolas na ginástica artística?",
+    "correct_answer": "Argolas",
+    "incorrect_answers": ["Trave", "Cavalo com alças", "Paralelas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantos jogadores compõem uma equipe de handebol em quadra?",
+    "correct_answer": "7",
+    "incorrect_answers": ["6", "5", "8"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Quantos pontos são necessários para vencer um set no vôlei, com diferença mínima obrigatória?",
+    "correct_answer": "25 pontos com 2 de diferença",
+    "incorrect_answers": ["21 pontos", "15 pontos", "30 pontos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "O que é um ippon no judô?",
+    "correct_answer": "Golpe perfeito que encerra a luta",
+    "incorrect_answers": ["Empate técnico", "Penalidade", "Pontuação parcial"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual o principal objetivo da esgrima?",
+    "correct_answer": "Tocar o adversário com a arma",
+    "incorrect_answers": [
+      "Derrubar o adversário",
+      "Desarmar o oponente",
+      "Marcar pontos com socos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantas voltas são dadas na pista para completar 10.000 metros no atletismo?",
+    "correct_answer": "25 voltas",
+    "incorrect_answers": ["20 voltas", "10 voltas", "15 voltas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual a pontuação máxima possível em uma única tacada no boliche?",
+    "correct_answer": "300 pontos",
+    "incorrect_answers": ["200 pontos", "250 pontos", "350 pontos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantos rounds tem uma luta de MMA no UFC, em disputas de cinturão?",
+    "correct_answer": "5",
+    "incorrect_answers": ["3", "4", "6"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual é a altura da rede no vôlei masculino oficial?",
+    "correct_answer": "2,43 metros",
+    "incorrect_answers": ["2,24 metros", "2,30 metros", "2,50 metros"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "No futebol, qual cartão é mostrado ao jogador que comete uma infração grave?",
+    "correct_answer": "Cartão vermelho",
+    "incorrect_answers": ["Cartão amarelo", "Cartão azul", "Cartão branco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Quantas voltas completam uma corrida de Fórmula 1 em Interlagos (Brasil)?",
+    "correct_answer": "71",
+    "incorrect_answers": ["60", "80", "66"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual o nome do salto com piruetas e giros no skate de rua?",
+    "correct_answer": "Flip",
+    "incorrect_answers": ["Backside", "Drop", "Slide"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o peso máximo da categoria peso leve no MMA masculino?",
+    "correct_answer": "70,3 kg",
+    "incorrect_answers": ["66,0 kg", "77,1 kg", "61,2 kg"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual é o objetivo no salto com vara?",
+    "correct_answer": "Ultrapassar a barra na maior altura possível",
+    "incorrect_answers": [
+      "Saltar o mais longe",
+      "Correr mais rápido",
+      "Girar no ar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Em qual esporte se utiliza a trave olímpica?",
+    "correct_answer": "Ginástica artística",
+    "incorrect_answers": ["Atletismo", "Halterofilismo", "Nado sincronizado"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual é o nome da parte inicial de uma corrida de natação?",
+    "correct_answer": "Largada",
+    "incorrect_answers": ["Partida", "Saída de pista", "Arrancada"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "O que caracteriza um 'knockout técnico' (TKO) no boxe?",
+    "correct_answer": "O árbitro encerra a luta por segurança",
+    "incorrect_answers": [
+      "O lutador cai inconsciente",
+      "O juiz erra o tempo",
+      "O lutador desiste verbalmente"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Quantos metros tem uma corrida de revezamento 4x100m?",
+    "correct_answer": "400 metros",
+    "incorrect_answers": ["100 metros", "200 metros", "800 metros"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Quantos minutos dura uma partida de futsal (tempo regulamentar)?",
+    "correct_answer": "40 minutos",
+    "incorrect_answers": ["30 minutos", "45 minutos", "35 minutos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual a distância da linha de 3 pontos no basquete FIBA?",
+    "correct_answer": "6,75 metros",
+    "incorrect_answers": ["7 metros", "6 metros", "6,25 metros"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Esportes",
+    "question": "Qual equipamento é essencial para praticar hóquei sobre grama?",
+    "correct_answer": "Taco",
+    "incorrect_answers": ["Raquete", "Bastão", "Stick de madeira"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Esportes",
+    "question": "Qual o nome do local onde o atleta salta no salto em distância?",
+    "correct_answer": "Tábua de impulsão",
+    "incorrect_answers": [
+      "Linha de chegada",
+      "Zona de arremesso",
+      "Caixa de areia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Esportes",
+    "question": "Qual é o limite de faltas por atleta no basquete FIBA?",
+    "correct_answer": "5 faltas",
+    "incorrect_answers": ["4 faltas", "6 faltas", "3 faltas"]
+  }
+]

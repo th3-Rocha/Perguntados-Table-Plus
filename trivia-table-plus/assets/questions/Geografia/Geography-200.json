@@ -1,0 +1,2974 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual é a capital de Maurício?",
+    "correct_answer": "Port Louis",
+    "incorrect_answers": ["Port Moresby", "Port Vila", "Port-au-Prince"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Quantas estrelas há na bandeira da Nova Zelândia?",
+    "correct_answer": "4",
+    "incorrect_answers": ["5", "2", "0"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos países são maiores que a Austrália?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "3", "6"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual país é completamente cercado pela África do Sul?",
+    "correct_answer": "Lesoto",
+    "incorrect_answers": ["Suazilândia", "Botsuana", "Zimbábue"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "A Groenlândia faz parte de qual reino?",
+    "correct_answer": "Dinamarca",
+    "incorrect_answers": ["Suécia", "Noruega", "Reino Unido"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Com quantos países os Estados Unidos fazem fronteira terrestre?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "3", "4"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual país reivindica a posse do estado disputado do Kosovo?",
+    "correct_answer": "Sérvia",
+    "incorrect_answers": ["Croácia", "Albânia", "Macedônia"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual destas ilhas do Mediterrâneo está sob domínio soberano da França?",
+    "correct_answer": "Córsega",
+    "incorrect_answers": ["Maiorca", "Sardenha", "Malta"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual ano está presente na bandeira do estado americano de Wisconsin?",
+    "correct_answer": "1848",
+    "incorrect_answers": ["1634", "1783", "1901"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual é o maior lago de água doce do mundo?",
+    "correct_answer": "Lago Superior",
+    "incorrect_answers": ["Mar Cáspio", "Lago Michigan", "Lago Huron"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual país NÃO fez parte da antiga Iugoslávia?",
+    "correct_answer": "Albânia",
+    "incorrect_answers": ["Croácia", "Sérvia", "Macedônia"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é o nome da capital da Turquia?",
+    "correct_answer": "Ancara",
+    "incorrect_answers": ["Istambul", "Izmir", "Bursa"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é o nome do único Grão-Ducado ainda existente no mundo?",
+    "correct_answer": "Luxemburgo",
+    "incorrect_answers": ["Montenegro", "Liechtenstein", "Andorra"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos condados existem na República da Irlanda?",
+    "correct_answer": "26",
+    "incorrect_answers": ["32", "28", "30"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Na pesquisa do Índice Global da Paz de 2016, entre 163 países, qual foi a posição dos EUA?",
+    "correct_answer": "103",
+    "incorrect_answers": ["10", "59", "79"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Onde ficam os 'Degraus Espanhóis'?",
+    "correct_answer": "Roma, Itália",
+    "incorrect_answers": [
+      "Barcelona, Espanha",
+      "Berlim, Alemanha",
+      "Londres, Inglaterra"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual das seguintes cidades NÃO é uma capital?",
+    "correct_answer": "Sydney",
+    "incorrect_answers": ["Cairo", "Moscou", "Pequim"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Que evento levou Liechtenstein a adicionar uma coroa à sua bandeira?",
+    "correct_answer": "As Olimpíadas de 1936",
+    "incorrect_answers": [
+      "Coroação do Príncipe Johann I Joseph em 1805",
+      "Decreto de Carlos VI em 1719",
+      "Assinatura da Constituição de 1862 de Liechtenstein"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é a capital do Peru?",
+    "correct_answer": "Lima",
+    "incorrect_answers": ["Santiago", "Montevidéu", "Buenos Aires"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual destas cidades NÃO fica na Inglaterra?",
+    "correct_answer": "Edimburgo",
+    "incorrect_answers": ["Oxford", "Manchester", "Southampton"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual país tem uma bandeira bicolor horizontal vermelha e branca?",
+    "correct_answer": "Mônaco",
+    "incorrect_answers": ["Bahrein", "Malta", "Liechtenstein"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual cidade alemã está localizada às margens do rio Isar?",
+    "correct_answer": "Munique",
+    "incorrect_answers": ["Berlim", "Hamburgo", "Dortmund"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual oceano banha a costa oeste dos Estados Unidos?",
+    "correct_answer": "Pacífico",
+    "incorrect_answers": ["Atlântico", "Índico", "Ártico"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual foi a nação de maioria muçulmana mais populosa em 2010?",
+    "correct_answer": "Indonésia",
+    "incorrect_answers": ["Arábia Saudita", "Irã", "Sudão"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Quantos estados federais existem na Alemanha?",
+    "correct_answer": "16",
+    "incorrect_answers": ["13", "32", "25"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual cidade possui o aeroporto mais movimentado do mundo?",
+    "correct_answer": "Atlanta, Geórgia, EUA",
+    "incorrect_answers": [
+      "Londres, Inglaterra",
+      "Chicago, Illinois, EUA",
+      "Tóquio, Japão"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quais são os estados de fronteira quádrupla dos EUA?",
+    "correct_answer": "Utah, Colorado, Arizona, Novo México",
+    "incorrect_answers": [
+      "Oregon, Idaho, Nevada, Utah",
+      "Kansas, Oklahoma, Arkansas, Louisiana",
+      "Dakota do Sul, Minnesota, Nebraska, Iowa"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o maior país em área que tem apenas um fuso horário?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Canadá", "Índia", "Rússia"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual país dentro do Reino Unido NÃO aparece na bandeira Union Jack?",
+    "correct_answer": "País de Gales",
+    "incorrect_answers": ["Escócia", "Irlanda", "Ilha de Wight"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é a capital da Estônia?",
+    "correct_answer": "Tallinn",
+    "incorrect_answers": ["Helsinque", "Tartu", "Riga"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "As montanhas dos Pireneus ficam na fronteira de quais dois países?",
+    "correct_answer": "França e Espanha",
+    "incorrect_answers": [
+      "Itália e Suíça",
+      "Noruega e Suécia",
+      "Rússia e Ucrânia"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual era a cidade mais populosa das Américas em 2015?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Nova York", "Cidade do México", "Los Angeles"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual desses países não está escrito em sua língua nativa?",
+    "correct_answer": "Slovaško",
+    "incorrect_answers": ["Suomi", "Schweiz", "Elláda"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual dos seguintes países árabes NÃO tem uma bandeira contendo apenas cores pan-árabes?",
+    "correct_answer": "Catar",
+    "incorrect_answers": ["Kuwait", "Emirados Árabes Unidos", "Jordânia"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "A cidade histórica de Timbuktu está localizada em qual país da África Ocidental?",
+    "correct_answer": "Mali",
+    "incorrect_answers": ["Senegal", "Níger", "Burkina Faso"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Quantos países fazem fronteira com o Quirguistão?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "1", "6"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos fusos horários a Rússia possui?",
+    "correct_answer": "11",
+    "incorrect_answers": ["6", "24", "16"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual ilha das Canárias foi palco de um dos piores desastres aéreos da história com a colisão de dois jumbos?",
+    "correct_answer": "Tenerife",
+    "incorrect_answers": ["Fuerteventura", "Gran Canaria", "Maui"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Onde fica o Muro de Adriano?",
+    "correct_answer": "Carlisle, Inglaterra",
+    "incorrect_answers": [
+      "Roma, Itália",
+      "Alexandria, Egito",
+      "Dublin, Irlanda"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Todos os seguintes são classificados como línguas fino-úgricas, EXCETO:",
+    "correct_answer": "Samoyedic",
+    "incorrect_answers": ["Húngaro", "Finlandês", "Estoniano"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é o maior país muçulmano do mundo?",
+    "correct_answer": "Indonésia",
+    "incorrect_answers": ["Paquistão", "Arábia Saudita", "Irã"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual desses países está MAIS distante do Mar do Sul da China?",
+    "correct_answer": "Bangladesh",
+    "incorrect_answers": ["Malásia", "Vietnã", "Filipinas"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Em qual cidade do Canadá fica o Big Nickel?",
+    "correct_answer": "Sudbury, Ontário",
+    "incorrect_answers": [
+      "Calgary, Alberta",
+      "Halifax, Nova Escócia",
+      "Victoria, Colúmbia Britânica"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o maior país do mundo?",
+    "correct_answer": "Federação Russa",
+    "incorrect_answers": ["China", "Canadá", "Brasil"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Se futebol é chamado de 'football' na Inglaterra, como é chamado o futebol americano lá?",
+    "correct_answer": "Futebol americano",
+    "incorrect_answers": ["Combball", "Handball", "Touchdown"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é a cor do círculo na bandeira do Japão?",
+    "correct_answer": "Vermelho",
+    "incorrect_answers": ["Branco", "Amarelo", "Preto"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Em qual condado inglês fica a cidade de Portsmouth?",
+    "correct_answer": "Hampshire",
+    "incorrect_answers": ["Oxfordshire", "Buckinghamshire", "Surrey"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Kuala Lumpur é a capital de qual país?",
+    "correct_answer": "Malásia",
+    "incorrect_answers": ["Indonésia", "Singapura", "Tailândia"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é a capital do Vietnã?",
+    "correct_answer": "Hanói",
+    "incorrect_answers": ["Da Nang", "Hai Phong", "Cidade de Ho Chi Minh"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual desses países NÃO faz parte do continente asiático?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Geórgia", "Rússia", "Singapura"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual foi o primeiro parque nacional designado nos Estados Unidos?",
+    "correct_answer": "Yellowstone",
+    "incorrect_answers": ["Sequoia", "Yosemite", "Montanhas Rochosas"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual cidade é a capital da Suíça?",
+    "correct_answer": "Berna",
+    "incorrect_answers": ["Zurique", "Frankfurt", "Viena"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Em qual condado inglês está localizada a Universidade de East Anglia?",
+    "correct_answer": "Norfolk",
+    "incorrect_answers": ["Suffolk", "Essex", "Cambridgeshire"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos países existem dentro do Reino Unido?",
+    "correct_answer": "Quatro",
+    "incorrect_answers": ["Dois", "Três", "Um"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Onde ficam as Linhas de Nazca?",
+    "correct_answer": "Peru",
+    "incorrect_answers": ["Brasil", "Colômbia", "Equador"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos países independentes existem na América do Sul?",
+    "correct_answer": "12",
+    "incorrect_answers": ["8", "9", "10"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Montreal está em qual província canadense?",
+    "correct_answer": "Quebec",
+    "incorrect_answers": ["Ontário", "Nova Escócia", "Alberta"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Quantos fusos horários a China possui?",
+    "correct_answer": "1",
+    "incorrect_answers": ["3", "4", "2"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual é a segunda maior cidade da Lituânia?",
+    "correct_answer": "Kaunas",
+    "incorrect_answers": ["Panevėžys", "Vilnius", "Klaipėda"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual dos seguintes é o rio mais longo da Europa?",
+    "correct_answer": "Volga",
+    "incorrect_answers": ["Danúbio", "Ural", "Dniepre"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Em qual bacia o rio Jordão deságua?",
+    "correct_answer": "Mar Morto",
+    "incorrect_answers": ["Mar de Aral", "Mar Cáspio", "Mar de Salton"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual destes países não é um estado-membro das Nações Unidas?",
+    "correct_answer": "Niue",
+    "incorrect_answers": ["Tuvalu", "Sudão do Sul", "Montenegro"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual destas cidades americanas tem menos de 1.000.000 de habitantes?",
+    "correct_answer": "São Francisco, Califórnia",
+    "incorrect_answers": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Filadélfia, Pensilvânia"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "O que é Laos?",
+    "correct_answer": "País",
+    "incorrect_answers": ["Região", "Rio", "Cidade"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é o rio mais longo do mundo?",
+    "correct_answer": "Nilo",
+    "incorrect_answers": ["Missouri", "Amazonas", "Yangtzé"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual das seguintes ilhas japonesas é a maior?",
+    "correct_answer": "Honshu",
+    "incorrect_answers": ["Hokkaido", "Shikoku", "Kyushu"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quais dois países modernos formavam a região da Rodésia entre a década de 1890 e 1980?",
+    "correct_answer": "Zâmbia e Zimbábue",
+    "incorrect_answers": [
+      "Togo e Benin",
+      "Lesoto e Suazilândia",
+      "Ruanda e Burundi"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual era o nome anterior da nação africana Zimbábue?",
+    "correct_answer": "Rodésia",
+    "incorrect_answers": ["Zâmbia", "Moçambique", "Bulawayo"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "As ilhas Molucas (conhecidas como Ilhas das Especiarias) pertencem a qual país?",
+    "correct_answer": "Indonésia",
+    "incorrect_answers": ["Chile", "Nova Zelândia", "Fiji"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é o nome da península que contém Espanha e Portugal?",
+    "correct_answer": "Península Ibérica",
+    "incorrect_answers": [
+      "Península Europeia",
+      "Península do Peloponeso",
+      "Península Escandinava"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual nome era usado historicamente para a cidade turca atualmente conhecida como Istambul?",
+    "correct_answer": "Constantinopla",
+    "incorrect_answers": ["Hüdavendigar", "Söğüt", "Adrianópolis"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual país NÃO fazia parte da União Soviética?",
+    "correct_answer": "Romênia",
+    "incorrect_answers": ["Turcomenistão", "Bielorrússia", "Tajiquistão"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual destas NÃO é uma ilha que faz parte das Filipinas?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Luzon", "Mindanao", "Palawan"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual das seguintes línguas europeias é classificada como um \"isolado linguístico\"?",
+    "correct_answer": "Basco",
+    "incorrect_answers": ["Galego", "Maltês", "Húngaro"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é a capital do estado de Nova York, EUA?",
+    "correct_answer": "Albany",
+    "incorrect_answers": ["Buffalo", "Nova York", "Rochester"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual destes países faz fronteira com a Polônia?",
+    "correct_answer": "Lituânia",
+    "incorrect_answers": ["França", "Noruega", "Países Baixos"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Qual é a cidade polonesa conhecida pelos alemães como Danzig?",
+    "correct_answer": "Gdańsk",
+    "incorrect_answers": ["Varsóvia", "Zakopane", "Poznań"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Quantas estações tem a linha Central do metrô de Londres?",
+    "correct_answer": "49",
+    "incorrect_answers": ["51", "43", "47"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual é a maior ilha do Canadá?",
+    "correct_answer": "Ilha de Baffin",
+    "incorrect_answers": [
+      "Ilha do Príncipe Eduardo",
+      "Ilha de Vancouver",
+      "Terra Nova"
+    ],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantos estados existem na Austrália?",
+    "correct_answer": "6",
+    "incorrect_answers": ["7", "8", "5"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Qual é o menor estado dos Estados Unidos?",
+    "correct_answer": "Rhode Island",
+    "incorrect_answers": ["Maine", "Vermont", "Massachusetts"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "A Universidade de Harvard está localizada em qual cidade?",
+    "correct_answer": "Cambridge",
+    "incorrect_answers": ["Providence", "Nova York", "Washington D.C."],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Qual é a maior cidade e capital comercial do Sri Lanka?",
+    "correct_answer": "Colombo",
+    "incorrect_answers": ["Moratuwa", "Negombo", "Kandy"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Quantas províncias existem nos Países Baixos?",
+    "correct_answer": "12",
+    "incorrect_answers": ["14", "10", "13"],
+    "categoria_br": "Geografia"
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual destas ilhas japonesas é a maior em área?",
+    "correct_answer": "Shikoku",
+    "incorrect_answers": ["Iki", "Odaiba", "Okinawa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome do hino nacional do Canadá?",
+    "correct_answer": "O Canada",
+    "incorrect_answers": [
+      "O Red Maple",
+      "Leaf-Spangled Banner",
+      "March of the Puck Drop"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual destes NÃO é uma província da China?",
+    "correct_answer": "Yangtze",
+    "incorrect_answers": ["Fujian", "Sichuan", "Guangdong"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "As seguintes províncias espanholas estão localizadas na região norte da Espanha, exceto:",
+    "correct_answer": "Murcia",
+    "incorrect_answers": ["Astúrias", "Navarra", "León"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado americano do Arizona?",
+    "correct_answer": "Phoenix",
+    "incorrect_answers": ["Montgomery", "Tallahassee", "Raleigh"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual desses países insulares está localizado no Caribe?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Fiji", "Maldivas", "Seicheles"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Principado de Sealand é uma micronação não reconhecida localizada na costa de qual país?",
+    "correct_answer": "Reino Unido",
+    "incorrect_answers": ["Japão", "Austrália", "Argentina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual destas cidades está localizada na longitude 4° Leste?",
+    "correct_answer": "Amsterdã",
+    "incorrect_answers": ["Rio de Janeiro", "Toronto", "Hong Kong"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual destes NÃO é uma placa tectônica real?",
+    "correct_answer": "Placa do Atlântico",
+    "incorrect_answers": [
+      "Placa Norte-Americana",
+      "Placa Euroasiática",
+      "Placa de Nazca"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o nome do antigo país sucedido por países como Sérvia, Croácia e Eslovênia?",
+    "correct_answer": "Iugoslávia",
+    "incorrect_answers": ["Tchecoslováquia", "Abecásia", "Ossétia do Sul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Indonésia?",
+    "correct_answer": "Jacarta",
+    "incorrect_answers": ["Bandung", "Medan", "Palimbão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a maior destas quatro ilhas?",
+    "correct_answer": "Bornéu",
+    "incorrect_answers": ["Grã-Bretanha", "Cuba", "Madagascar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o maior lago de água doce em volume?",
+    "correct_answer": "Lago Baikal",
+    "incorrect_answers": ["Lago Superior", "Lago Huron", "Lago Michigan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Bridgetown é a capital de qual país insular do Caribe?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Cuba", "Jamaica", "Dominica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o maior lago do continente africano?",
+    "correct_answer": "Lago Vitória",
+    "incorrect_answers": ["Lago Tanganica", "Lago Maláui", "Lago Turkana"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país tem a abreviação 'CH'?",
+    "correct_answer": "Suíça",
+    "incorrect_answers": ["China", "Canadá", "Nenhum país"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dos seguintes países NÃO reconhece a Armênia como um país independente?",
+    "correct_answer": "Paquistão",
+    "incorrect_answers": ["Irã", "Turquia", "Azerbaijão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A terra de Gotland está localizada em qual país europeu?",
+    "correct_answer": "Suécia",
+    "incorrect_answers": ["Dinamarca", "Noruega", "Alemanha"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual atração turística norte-americana é atendida pela empresa 'Maid of the Mist'?",
+    "correct_answer": "Cataratas do Niágara",
+    "incorrect_answers": [
+      "Whistler, Colúmbia Britânica",
+      "Disney World",
+      "Parque Nacional de Yosemite"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Onde está localizada a instalação de lançamento espacial mais antiga ainda em operação no mundo?",
+    "correct_answer": "Cazaquistão",
+    "incorrect_answers": ["Rússia", "Irã", "Estados Unidos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a 15ª letra do alfabeto grego?",
+    "correct_answer": "Ômicron (Ο)",
+    "incorrect_answers": ["Sigma (Σ)", "Pi (Π)", "Nu (Ν)"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado americano de Nevada?",
+    "correct_answer": "Carson City",
+    "incorrect_answers": ["Las Vegas", "Henderson", "Reno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Os Alpes são uma cadeia de montanhas localizada em qual continente?",
+    "correct_answer": "Europa",
+    "incorrect_answers": ["América do Norte", "Ásia", "África"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país africano tem o português como língua oficial?",
+    "correct_answer": "Moçambique",
+    "incorrect_answers": ["Botsuana", "Gabão", "Togo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a língua nacional oficial do Paquistão?",
+    "correct_answer": "Urdu",
+    "incorrect_answers": ["Indiano", "Punjabi", "Pashto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Índia?",
+    "correct_answer": "Nova Délhi",
+    "incorrect_answers": ["Pequim", "Montreal", "Tithi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual país não faz parte da Escandinávia?",
+    "correct_answer": "Finlândia",
+    "incorrect_answers": ["Noruega", "Suécia", "Dinamarca"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual destes não é um país da África?",
+    "correct_answer": "Guiana",
+    "incorrect_answers": ["Senegal", "Libéria", "Somália"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual nação reivindica propriedade sobre a Antártida?",
+    "correct_answer": "Nenhuma, mas há reivindicações.",
+    "incorrect_answers": ["Estados Unidos", "Nações Unidas", "Austrália"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital da província de Colúmbia Britânica, no Canadá?",
+    "correct_answer": "Victoria",
+    "incorrect_answers": ["Vancouver", "Hope", "Kelowna"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual país abriga a maior população japonesa fora do Japão?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["China", "Rússia", "Estados Unidos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o idioma oficial do Butão?",
+    "correct_answer": "Dzonga",
+    "incorrect_answers": ["Ladaque", "Karen", "Groma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "O emblema na bandeira da República do Tajiquistão apresenta um nascer do sol sobre montanhas abaixo de qual símbolo?",
+    "correct_answer": "Coroa",
+    "incorrect_answers": ["Pássaro", "Foice", "Árvore"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Em 2012, o microestado de língua alemã \"Liechtenstein\", na Europa Central, tinha uma população de quantos habitantes?",
+    "correct_answer": "36.600",
+    "incorrect_answers": ["2.400", "90.000", "323.400"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Jamaica?",
+    "correct_answer": "Kingston",
+    "incorrect_answers": ["San Juan", "Porto Príncipe", "Bridgetown"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Coreia do Sul?",
+    "correct_answer": "Seul",
+    "incorrect_answers": ["Pyongyang", "Taegu", "Kitakyushu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "A fronteira compartilhada mais longa do mundo é entre quais dois países?",
+    "correct_answer": "Canadá e Estados Unidos",
+    "incorrect_answers": [
+      "Chile e Argentina",
+      "Rússia e China",
+      "Índia e Paquistão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Em qual país fica o rio Taedong?",
+    "correct_answer": "Coreia do Norte",
+    "incorrect_answers": ["Coreia do Sul", "Japão", "China"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a montanha mais alta do mundo?",
+    "correct_answer": "Monte Everest",
+    "incorrect_answers": ["Monte Godwin Austen", "Kangchenjunga", "Annapurna"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual destes países tem a capital que começa com a letra B?",
+    "correct_answer": "Líbano",
+    "incorrect_answers": ["Jordânia", "Kuwait", "Catar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual destes países é \"duplamente sem litoral\" (rodeado por um ou mais países também sem litoral)?",
+    "correct_answer": "Uzbequistão",
+    "incorrect_answers": ["Suíça", "Bolívia", "Etiópia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a maior cidade do Marrocos?",
+    "correct_answer": "Casablanca",
+    "incorrect_answers": ["Rabat", "Fes", "Sale"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual das seguintes famílias linguísticas é a mais controversa entre os linguistas modernos?",
+    "correct_answer": "Altaica",
+    "incorrect_answers": ["Sino-Tibetana", "Dravídica", "Indo-Europeia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o apelido do estado americano de Delaware?",
+    "correct_answer": "O Primeiro Estado",
+    "incorrect_answers": [
+      "O Quinquagésimo Estado",
+      "O Segundo Estado",
+      "O Décimo Sexto Estado"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O corpo da Esfinge Egípcia foi baseado em qual animal?",
+    "correct_answer": "Leão",
+    "incorrect_answers": ["Touro", "Cavalo", "Cachorro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a faixa de terra que liga a América do Norte à América do Sul?",
+    "correct_answer": "Istmo do Panamá",
+    "incorrect_answers": ["Istmo de Suez", "Urais", "Australásia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o porto mais movimentado da Europa?",
+    "correct_answer": "Porto de Roterdã",
+    "incorrect_answers": [
+      "Porto de Antuérpia",
+      "Porto de Hamburgo",
+      "Porto de Amsterdã"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Bir Tawil, uma faixa de terra desabitada e não reivindicada por nenhum país, fica na fronteira de quais dois países?",
+    "correct_answer": "Egito e Sudão",
+    "incorrect_answers": [
+      "Israel e Jordânia",
+      "Chade e Líbia",
+      "Iraque e Arábia Saudita"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o quinto maior país em área territorial?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["Estados Unidos", "Austrália", "Índia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "A Space Needle está localizada em qual cidade?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": ["Los Angeles", "Toronto", "Vancouver"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o maior país do mundo?",
+    "correct_answer": "Rússia",
+    "incorrect_answers": ["Canadá", "China", "Estados Unidos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dos seguintes não é um país megadiverso – que abriga um grande número de espécies endêmicas do planeta?",
+    "correct_answer": "Tailândia",
+    "incorrect_answers": ["Peru", "México", "África do Sul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual país do Reino Unido tem um dragão em sua bandeira?",
+    "correct_answer": "País de Gales",
+    "incorrect_answers": ["Inglaterra", "Irlanda do Norte", "Escócia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual museu nacional está localizado em Cooperstown, Nova York?",
+    "correct_answer": "Hall da Fama do Beisebol Nacional",
+    "incorrect_answers": [
+      "Museu Metropolitano de Arte",
+      "Hall da Fama Nacional dos Brinquedos",
+      "Museu de Arte Moderna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Em qual(is) continente(s) está localizado todo o território da Espanha?",
+    "correct_answer": "Europa e África",
+    "incorrect_answers": ["Europa, África e Ásia", "Europa", "Europa e Ásia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital das Seychelles?",
+    "correct_answer": "Vitória",
+    "incorrect_answers": ["Luanda", "N'Djamena", "Trípoli"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual desses países tem a menor população?",
+    "correct_answer": "Noruega",
+    "incorrect_answers": ["Eslováquia", "Finlândia", "Hong Kong"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Com quantos países a Espanha faz fronteira terrestre?",
+    "correct_answer": "5",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "As Montanhas Hunua estão localizadas em...",
+    "correct_answer": "Nova Zelândia",
+    "incorrect_answers": ["Nepal", "China", "México"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o único país do mundo cuja bandeira não possui quatro ângulos retos?",
+    "correct_answer": "Nepal",
+    "incorrect_answers": ["Panamá", "Angola", "Egito"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Em qual condado inglês está localizado Stonehenge?",
+    "correct_answer": "Wiltshire",
+    "incorrect_answers": ["Somerset", "Cumbria", "Herefordshire"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dos seguintes países está na Zona do Euro, mas fora do Espaço Schengen?",
+    "correct_answer": "Chipre",
+    "incorrect_answers": ["Malta", "Grécia", "Portugal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Em qual continente está localizado o país Lesoto?",
+    "correct_answer": "África",
+    "incorrect_answers": ["Ásia", "América do Sul", "Europa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual dos seguintes idiomas NÃO usa o alfabeto latino?",
+    "correct_answer": "Georgiano",
+    "incorrect_answers": ["Turco", "Suaíli", "Vietnamita"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o menor país da América do Sul em área?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Brasil", "Uruguai", "Chile"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a maior ilha do mundo que não faz parte de um continente?",
+    "correct_answer": "Groenlândia",
+    "incorrect_answers": ["Nova Guiné", "Bornéu", "Madagascar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O distrito japonês Akihabara também é conhecido por qual apelido?",
+    "correct_answer": "Cidade Elétrica",
+    "incorrect_answers": [
+      "Rio Caminhada Lunar",
+      "Central Otaku",
+      "Olhos Grandes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual estado dos EUA é apelidado de \"O Estado Dourado\"?",
+    "correct_answer": "Califórnia",
+    "incorrect_answers": ["Flórida", "Novo México", "Alasca"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital da Eslovênia?",
+    "correct_answer": "Liubliana",
+    "incorrect_answers": ["Maribor", "Velenje", "Trbovlje"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual oblast russo faz fronteira com a Polônia?",
+    "correct_answer": "Kaliningrado",
+    "incorrect_answers": ["Samara", "Nizhny Novgorod", "Omsk"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome da região rochosa que abrange a maior parte do leste do Canadá?",
+    "correct_answer": "Escudo Canadense",
+    "incorrect_answers": ["Montanhas Rochosas", "Montes Apalaches", "Himalaia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital da Eslováquia?",
+    "correct_answer": "Bratislava",
+    "incorrect_answers": ["Sófia", "Liubliana", "Sarajevo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o nome do povo indígena da Nova Zelândia?",
+    "correct_answer": "Maori",
+    "incorrect_answers": ["Vikings", "Polinésios", "Samoanos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Em qual país está localizada a cidade do Rio de Janeiro?",
+    "correct_answer": "Brasil",
+    "incorrect_answers": ["Peru", "Chile", "Venezuela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O viaduto Colchester, também conhecido como \"Ponte do Homem Coelho\", está localizado onde?",
+    "correct_answer": "Condado de Fairfax, Virgínia",
+    "incorrect_answers": [
+      "Medford, Oregon",
+      "Condado de Braxton, Virgínia",
+      "Lemon Grove, Califórnia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A massa de terra da atual Turquia é chamada de quê?",
+    "correct_answer": "Anatólia",
+    "incorrect_answers": ["Ístmo de Ottoma", "Ottoma", "Ístmo da Anatólia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual destes NÃO é um estado ou território australiano?",
+    "correct_answer": "Alberta",
+    "incorrect_answers": ["Nova Gales do Sul", "Vitória", "Queensland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Com qual país a Áustria NÃO faz fronteira?",
+    "correct_answer": "França",
+    "incorrect_answers": ["Eslovênia", "Suíça", "Eslováquia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual província canadense tem Charlottetown como capital?",
+    "correct_answer": "Ilha do Príncipe Eduardo",
+    "incorrect_answers": ["Saskatchewan", "Territórios do Noroeste", "Ontário"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual das seguintes línguas inuítes foi a PRIMEIRA a usar um sistema de escrita único que não se baseia no alfabeto latino?",
+    "correct_answer": "Inuktitut",
+    "incorrect_answers": ["Inuinnaqtun", "Groenlandês", "Inupiat"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome dos antigos ricos bancos de pesca ao largo da ilha de Terra Nova, Canadá?",
+    "correct_answer": "Grand Banks",
+    "incorrect_answers": [
+      "Grande Barreira de Corais",
+      "Fossa das Marianas",
+      "Baía de Hudson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital da Groenlândia?",
+    "correct_answer": "Nuuk",
+    "incorrect_answers": ["Sisimiut", "Narsaq", "Maniitsoq"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual destes NÃO é uma cidade da Índia?",
+    "correct_answer": "Islamabad",
+    "incorrect_answers": ["Hyderabad", "Ahmedabad", "Ghaziabad"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Espanha?",
+    "correct_answer": "Madri",
+    "incorrect_answers": ["Barcelona", "Sevilha", "Toledo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O acrônimo pejorativo \"PIIGS\" refere-se a quais países europeus e suas situações econômicas?",
+    "correct_answer": "Portugal, Irlanda, Itália, Grécia, Espanha",
+    "incorrect_answers": [
+      "Polônia, Islândia, Itália, Grécia, Sérvia",
+      "Polônia, Islândia, Itália, Groenlândia, Espanha",
+      "Portugal, Islândia, Irlanda, Grécia, Sérvia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital da Lituânia?",
+    "correct_answer": "Vilnius",
+    "incorrect_answers": ["Tallinn", "Helsinque", "Riga"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Onde fica o Deserto de Sonora?",
+    "correct_answer": "América do Norte",
+    "incorrect_answers": ["América do Sul", "Ásia", "África"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual pequeno principado está localizado entre a Espanha e a França?",
+    "correct_answer": "Andorra",
+    "incorrect_answers": ["Liechtenstein", "Mônaco", "San Marino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Quantos rios existem na Arábia Saudita?",
+    "correct_answer": "0",
+    "incorrect_answers": ["1", "2", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual pequeno país está localizado entre as fronteiras da França e da Espanha?",
+    "correct_answer": "Andorra",
+    "incorrect_answers": ["San Marino", "Cidade do Vaticano", "Liechtenstein"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o idioma oficial da Costa Rica?",
+    "correct_answer": "Espanhol",
+    "incorrect_answers": ["Inglês", "Português", "Crioulo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Todas as seguintes são cidades/vilas na nação insular do Pacífico Kiribati, EXCETO:",
+    "correct_answer": "Urutora",
+    "incorrect_answers": ["Rungata", "London", "Washington"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Onde fica a área conhecida como Triângulo das Bermudas?",
+    "correct_answer": "Oceano Atlântico Norte, entre a Flórida e Porto Rico",
+    "incorrect_answers": [
+      "Oceano Pacífico Norte, entre o Japão e os EUA",
+      "No Mar do Caribe",
+      "Oceano Pacífico Sul, longe do Chile"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Em qual continente está localizado o país Angola?",
+    "correct_answer": "África",
+    "incorrect_answers": ["América do Sul", "Europa", "Ásia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome de um dos idiomas neo-aramaicos falados pela população judaica do noroeste do Iraque?",
+    "correct_answer": "Lishana Deni",
+    "incorrect_answers": ["Hulaulá", "Lishan Didan", "Neo-aramaico caldeu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Quando a Finlândia comemora seu dia da independência?",
+    "correct_answer": "6 de dezembro",
+    "incorrect_answers": ["2 de janeiro", "12 de novembro", "8 de fevereiro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado americano de Wisconsin?",
+    "correct_answer": "Madison",
+    "incorrect_answers": ["Milwaukee", "Wisconsin Dells", "Green Bay"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Quantos países fazem fronteira com o México?",
+    "correct_answer": "3",
+    "incorrect_answers": ["2", "4", "1"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o segundo maior país do mundo em área territorial?",
+    "correct_answer": "Canadá",
+    "incorrect_answers": ["Rússia", "China", "Estados Unidos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o maior estado dos Estados Unidos?",
+    "correct_answer": "Alasca",
+    "incorrect_answers": ["Califórnia", "Texas", "Washington"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Escócia?",
+    "correct_answer": "Edimburgo",
+    "incorrect_answers": ["Glasgow", "Dundee", "Londres"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do Chile?",
+    "correct_answer": "Santiago",
+    "incorrect_answers": ["Valparaíso", "Copiapó", "Antofagasta"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dos seguintes países proibiu o uso de testes genéticos pessoais de ancestralidade?",
+    "correct_answer": "Alemanha",
+    "incorrect_answers": ["Áustria", "Canadá", "Suécia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Frankenmuth, uma cidade dos EUA apelidada de \"Pequena Baviera\", está localizada em qual estado?",
+    "correct_answer": "Michigan",
+    "incorrect_answers": ["Pensilvânia", "Kentucky", "Virgínia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital dos Estados Unidos?",
+    "correct_answer": "Washington, D.C.",
+    "incorrect_answers": ["Los Angeles, CA", "Nova York, NY", "Houston, TX"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o único estado dos EUA cuja bandeira não tem formato com quatro lados?",
+    "correct_answer": "Ohio",
+    "incorrect_answers": ["Flórida", "Idaho", "Novo México"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Dinamarca?",
+    "correct_answer": "Copenhague",
+    "incorrect_answers": ["Aarhus", "Odense", "Aalborg"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual destas é a maior cidade do estado norte-americano do Tennessee?",
+    "correct_answer": "Memphis",
+    "incorrect_answers": ["Tebas", "Alexandria", "Luxor"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Todos os seguintes países têm reivindicações territoriais oficiais na Antártica, EXCETO:",
+    "correct_answer": "Estados Unidos",
+    "incorrect_answers": ["Austrália", "Chile", "Noruega"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome oficial em alemão da Ferrovia Federal Suíça?",
+    "correct_answer": "Schweizerische Bundesbahnen",
+    "incorrect_answers": [
+      "Schweizerische Nationalbahnen",
+      "Bundesbahnen der Schweiz",
+      "Schweizerische Staatsbahnen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do Brasil?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Quantas regiões geográficas o Brasil possui?",
+    "correct_answer": "5",
+    "incorrect_answers": ["3", "4", "6"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Rio São Francisco nasce em qual estado brasileiro?",
+    "correct_answer": "Minas Gerais",
+    "incorrect_answers": ["Bahia", "Pernambuco", "Goiás"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o maior arquipélago do Brasil?",
+    "correct_answer": "Ilha de Marajó",
+    "incorrect_answers": ["Fernando de Noronha", "Abrolhos", "Ilhabela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o ponto mais alto do Brasil?",
+    "correct_answer": "Pico da Neblina",
+    "incorrect_answers": [
+      "Pico das Agulhas Negras",
+      "Pico da Bandeira",
+      "Serra do Mar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o maior estado brasileiro em extensão territorial?",
+    "correct_answer": "Amazonas",
+    "incorrect_answers": ["Pará", "Mato Grosso", "Bahia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o menor estado brasileiro em área?",
+    "correct_answer": "Sergipe",
+    "incorrect_answers": ["Alagoas", "Rio de Janeiro", "Espírito Santo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Pantanal está localizado principalmente em quais estados?",
+    "correct_answer": "Mato Grosso e Mato Grosso do Sul",
+    "incorrect_answers": [
+      "Amazonas e Pará",
+      "Tocantins e Goiás",
+      "Piauí e Maranhão"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual bioma brasileiro possui a maior biodiversidade?",
+    "correct_answer": "Amazônia",
+    "incorrect_answers": ["Mata Atlântica", "Cerrado", "Pantanal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A cidade de Porto Alegre está localizada em qual região do Brasil?",
+    "correct_answer": "Sul",
+    "incorrect_answers": ["Sudeste", "Centro-Oeste", "Norte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual oceano banha a costa brasileira?",
+    "correct_answer": "Atlântico",
+    "incorrect_answers": ["Pacífico", "Índico", "Ártico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual dos estados a seguir faz fronteira com o Uruguai?",
+    "correct_answer": "Rio Grande do Sul",
+    "incorrect_answers": ["Santa Catarina", "Paraná", "São Paulo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual capital brasileira é a mais distante do litoral?",
+    "correct_answer": "Palmas",
+    "incorrect_answers": ["Cuiabá", "Brasília", "Campo Grande"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O Cristo Redentor está localizado em qual cidade?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": ["Salvador", "São Paulo", "Brasília"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o principal rio que banha a cidade de Manaus?",
+    "correct_answer": "Rio Negro",
+    "incorrect_answers": ["Rio Amazonas", "Rio Madeira", "Rio Solimões"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual o nome da planície alagável presente no Mato Grosso e Mato Grosso do Sul?",
+    "correct_answer": "Pantanal",
+    "incorrect_answers": [
+      "Campos Gerais",
+      "Chapada dos Guimarães",
+      "Serra do Roncador"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a única capital brasileira cortada pela linha do Equador?",
+    "correct_answer": "Macapá",
+    "incorrect_answers": ["Boa Vista", "Manaus", "Belém"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Quantos estados compõem a Região Norte do Brasil?",
+    "correct_answer": "7",
+    "incorrect_answers": ["5", "6", "8"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Pará?",
+    "correct_answer": "Belém",
+    "incorrect_answers": ["Manaus", "Palmas", "Macapá"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro é conhecido por ter o maior número de cavernas registradas?",
+    "correct_answer": "Minas Gerais",
+    "incorrect_answers": ["Bahia", "São Paulo", "Goiás"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o estado brasileiro com a menor densidade populacional?",
+    "correct_answer": "Roraima",
+    "incorrect_answers": ["Amapá", "Acre", "Tocantins"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual cidade brasileira é conhecida como a 'Capital Nacional do Petróleo'?",
+    "correct_answer": "Macaé",
+    "incorrect_answers": ["Camaçari", "Cubatão", "Betim"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o maior rio do Brasil em extensão?",
+    "correct_answer": "Rio Amazonas",
+    "incorrect_answers": ["Rio São Francisco", "Rio Tocantins", "Rio Madeira"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o nome da cadeia de montanhas localizada no Sudeste do Brasil?",
+    "correct_answer": "Serra da Mantiqueira",
+    "incorrect_answers": [
+      "Serra do Mar",
+      "Chapada Diamantina",
+      "Serra dos Órgãos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "O Aquífero Guarani abrange principalmente qual região do Brasil?",
+    "correct_answer": "Centro-Sul",
+    "incorrect_answers": ["Norte", "Nordeste", "Centro-Oeste"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual desses estados brasileiros não faz parte da Região Nordeste?",
+    "correct_answer": "Espírito Santo",
+    "incorrect_answers": ["Alagoas", "Pernambuco", "Maranhão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dessas capitais brasileiras está localizada na Região Centro-Oeste?",
+    "correct_answer": "Cuiabá",
+    "incorrect_answers": ["Teresina", "Florianópolis", "Aracaju"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o nome da famosa cachoeira localizada na divisa entre Brasil e Argentina?",
+    "correct_answer": "Cataratas do Iguaçu",
+    "incorrect_answers": [
+      "Cachoeira do Tabuleiro",
+      "Salto do Yucumã",
+      "Cachoeira da Fumaça"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o maior lago natural do Brasil?",
+    "correct_answer": "Lagoa dos Patos",
+    "incorrect_answers": ["Lago Paranoá", "Lagoa Mirim", "Lago de Sobradinho"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome da fronteira tripla entre Brasil, Argentina e Paraguai?",
+    "correct_answer": "Tríplice Fronteira",
+    "incorrect_answers": ["Marco das Américas", "Fronteira Sul", "Ponto Trino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o nome da cadeia montanhosa que separa o litoral do Sudeste do interior?",
+    "correct_answer": "Serra do Mar",
+    "incorrect_answers": [
+      "Serra da Canastra",
+      "Serra Geral",
+      "Serra do Espinhaço"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado da Bahia?",
+    "correct_answer": "Salvador",
+    "incorrect_answers": ["Feira de Santana", "Aracaju", "Maceió"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual bioma cobre a maior parte da Região Centro-Oeste?",
+    "correct_answer": "Cerrado",
+    "incorrect_answers": ["Pantanal", "Caatinga", "Mata Atlântica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o maior afluente do rio Amazonas em volume de água?",
+    "correct_answer": "Rio Madeira",
+    "incorrect_answers": ["Rio Tapajós", "Rio Negro", "Rio Xingu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Pernambuco?",
+    "correct_answer": "Recife",
+    "incorrect_answers": ["Natal", "João Pessoa", "Fortaleza"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A hidrelétrica de Itaipu está localizada entre o Brasil e qual país?",
+    "correct_answer": "Paraguai",
+    "incorrect_answers": ["Argentina", "Uruguai", "Bolívia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de São Paulo?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Campinas", "Santos", "Sorocaba"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual cidade é conhecida como a mais alta do Brasil?",
+    "correct_answer": "Urupema (SC)",
+    "incorrect_answers": [
+      "Campos do Jordão (SP)",
+      "Monte Verde (MG)",
+      "Gramado (RS)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual capital brasileira é famosa pelo encontro das águas?",
+    "correct_answer": "Manaus",
+    "incorrect_answers": ["Belém", "Porto Velho", "Macapá"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome do ponto mais setentrional (ao norte) do Brasil?",
+    "correct_answer": "Monte Caburaí",
+    "incorrect_answers": [
+      "Serra do Tumucumaque",
+      "Monte Roraima",
+      "Monte Pascoal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Em qual região está localizado o estado do Maranhão?",
+    "correct_answer": "Nordeste",
+    "incorrect_answers": ["Norte", "Centro-Oeste", "Sudeste"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual desses estados não possui litoral?",
+    "correct_answer": "Goiás",
+    "incorrect_answers": ["Bahia", "Paraná", "Alagoas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome da maior ilha fluviomarinha do mundo, localizada no Brasil?",
+    "correct_answer": "Ilha de Marajó",
+    "incorrect_answers": ["Ilha do Bananal", "Ilhabela", "Ilha Comprida"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o estado mais populoso da Região Norte?",
+    "correct_answer": "Pará",
+    "incorrect_answers": ["Amazonas", "Rondônia", "Tocantins"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual município brasileiro tem a maior extensão territorial?",
+    "correct_answer": "Altamira (PA)",
+    "incorrect_answers": [
+      "São Gabriel da Cachoeira (AM)",
+      "Barcelos (AM)",
+      "Oriximiná (PA)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual cidade brasileira foi a primeira capital do país?",
+    "correct_answer": "Salvador",
+    "incorrect_answers": ["Recife", "Rio de Janeiro", "Olinda"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Acre?",
+    "correct_answer": "Rio Branco",
+    "incorrect_answers": ["Porto Velho", "Macapá", "Boa Vista"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o principal rio que corta o estado do Tocantins?",
+    "correct_answer": "Rio Tocantins",
+    "incorrect_answers": ["Rio Araguaia", "Rio Xingu", "Rio Tapajós"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Rio São Francisco deságua em qual estado?",
+    "correct_answer": "Alagoas",
+    "incorrect_answers": ["Bahia", "Sergipe", "Pernambuco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Ceará?",
+    "correct_answer": "Fortaleza",
+    "incorrect_answers": ["Natal", "Recife", "João Pessoa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual capital brasileira tem a maior altitude?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": ["Belo Horizonte", "Curitiba", "Campo Grande"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o bioma predominante no estado do Rio Grande do Sul?",
+    "correct_answer": "Pampa",
+    "incorrect_answers": ["Mata Atlântica", "Cerrado", "Araucárias"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro é o maior produtor de energia hidrelétrica?",
+    "correct_answer": "Paraná",
+    "incorrect_answers": ["Amazonas", "São Paulo", "Mato Grosso"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Minas Gerais?",
+    "correct_answer": "Belo Horizonte",
+    "incorrect_answers": ["Juiz de Fora", "Uberlândia", "Ouro Preto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Espírito Santo?",
+    "correct_answer": "Vitória",
+    "incorrect_answers": ["Vila Velha", "Serra", "Cariacica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome da planície litorânea do Nordeste que se estende do Rio Grande do Norte até o Recôncavo Baiano?",
+    "correct_answer": "Zona da Mata",
+    "incorrect_answers": ["Agreste", "Chapada Diamantina", "Sertão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual rio forma a divisa entre os estados do Paraná e Mato Grosso do Sul?",
+    "correct_answer": "Rio Paraná",
+    "incorrect_answers": ["Rio Iguaçu", "Rio Tietê", "Rio São Francisco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro abriga a nascente do Rio São Francisco?",
+    "correct_answer": "Minas Gerais",
+    "incorrect_answers": ["Bahia", "Goiás", "Distrito Federal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual capital brasileira está situada às margens do Lago Paranoá?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": ["Goiânia", "Campo Grande", "Cuiabá"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Paraná?",
+    "correct_answer": "Curitiba",
+    "incorrect_answers": ["Florianópolis", "Porto Alegre", "Campo Grande"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O arquipélago de Fernando de Noronha pertence a qual estado brasileiro?",
+    "correct_answer": "Pernambuco",
+    "incorrect_answers": ["Bahia", "Rio Grande do Norte", "Ceará"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o ponto mais oriental do Brasil?",
+    "correct_answer": "Ponta do Seixas",
+    "incorrect_answers": [
+      "Cabo de São Tomé",
+      "Ilha de Itamaracá",
+      "Farol da Barra"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O que separa o estado do Rio Grande do Sul do Uruguai?",
+    "correct_answer": "Rio Quaraí",
+    "incorrect_answers": ["Rio Uruguai", "Rio Jacuí", "Rio Guaíba"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Quantas regiões compõem o Brasil?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "6", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a menor unidade federativa do Brasil em área territorial?",
+    "correct_answer": "Distrito Federal",
+    "incorrect_answers": ["Sergipe", "Alagoas", "Rio de Janeiro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O que caracteriza o clima semiárido no Brasil?",
+    "correct_answer": "Chuvas escassas e mal distribuídas",
+    "incorrect_answers": [
+      "Altas temperaturas e umidade elevada",
+      "Invernos rigorosos e verões amenos",
+      "Neve frequente e seca prolongada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o nome do planalto onde está localizada a cidade de Brasília?",
+    "correct_answer": "Planalto Central",
+    "incorrect_answers": [
+      "Planalto Meridional",
+      "Planalto Nordestino",
+      "Planalto da Borborema"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o nome da maior reserva indígena do Brasil em extensão territorial?",
+    "correct_answer": "Reserva Yanomami",
+    "incorrect_answers": [
+      "Reserva Raposa Serra do Sol",
+      "Terra Indígena Xingu",
+      "Terra Indígena Parque do Tumucumaque"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual destes estados pertence à Região Sudeste?",
+    "correct_answer": "Minas Gerais",
+    "incorrect_answers": ["Bahia", "Goiás", "Paraná"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Pantanal se localiza, principalmente, em quais estados?",
+    "correct_answer": "Mato Grosso e Mato Grosso do Sul",
+    "incorrect_answers": [
+      "Paraná e São Paulo",
+      "Goiás e Minas Gerais",
+      "Pará e Tocantins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a única capital brasileira localizada totalmente ao norte da linha do Equador?",
+    "correct_answer": "Macapá",
+    "incorrect_answers": ["Boa Vista", "Belém", "Manaus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Rio de Janeiro?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": ["Niterói", "Nova Iguaçu", "Petrópolis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O rio Araguaia é afluente de qual outro rio?",
+    "correct_answer": "Rio Tocantins",
+    "incorrect_answers": ["Rio São Francisco", "Rio Xingu", "Rio Madeira"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual formação geológica do Brasil é rica em minérios metálicos?",
+    "correct_answer": "Escudo Brasileiro",
+    "incorrect_answers": [
+      "Bacia Sedimentar",
+      "Depressão Periférica",
+      "Dobramentos modernos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Tocantins?",
+    "correct_answer": "Palmas",
+    "incorrect_answers": ["Araguaína", "Imperatriz", "Gurupi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Quantos estados compõem a Região Norte do Brasil?",
+    "correct_answer": "7",
+    "incorrect_answers": ["6", "8", "9"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A cidade de Blumenau está localizada em qual estado?",
+    "correct_answer": "Santa Catarina",
+    "incorrect_answers": ["Paraná", "Rio Grande do Sul", "São Paulo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a cidade mais populosa da Região Norte do Brasil?",
+    "correct_answer": "Manaus",
+    "incorrect_answers": ["Belém", "Porto Velho", "Macapá"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a cidade brasileira conhecida como a “Veneza Brasileira”?",
+    "correct_answer": "Recife",
+    "incorrect_answers": ["Belém", "Salvador", "Florianópolis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O estado de Santa Catarina faz divisa com qual destes estados?",
+    "correct_answer": "Rio Grande do Sul",
+    "incorrect_answers": ["Minas Gerais", "Espírito Santo", "Bahia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a capital brasileira mais próxima da linha do Equador?",
+    "correct_answer": "Macapá",
+    "incorrect_answers": ["Belém", "Manaus", "Boa Vista"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o maior estado brasileiro em extensão territorial?",
+    "correct_answer": "Amazonas",
+    "incorrect_answers": ["Pará", "Mato Grosso", "Bahia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O Brasil faz fronteira com quantos países?",
+    "correct_answer": "10",
+    "incorrect_answers": ["9", "11", "8"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o estado mais novo do Brasil?",
+    "correct_answer": "Tocantins",
+    "incorrect_answers": ["Amapá", "Roraima", "Acre"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual rio forma o famoso arquipélago fluvial de Anavilhanas?",
+    "correct_answer": "Rio Negro",
+    "incorrect_answers": ["Rio Solimões", "Rio Madeira", "Rio Tapajós"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual cidade abriga o maior porto da América Latina?",
+    "correct_answer": "Santos",
+    "incorrect_answers": ["Rio de Janeiro", "Salvador", "Vitória"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dessas capitais está situada no litoral brasileiro?",
+    "correct_answer": "Natal",
+    "incorrect_answers": ["Brasília", "Belo Horizonte", "Palmas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Pernambuco?",
+    "correct_answer": "Recife",
+    "incorrect_answers": ["João Pessoa", "Maceió", "Natal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o maior arquipélago do litoral brasileiro?",
+    "correct_answer": "Fernando de Noronha",
+    "incorrect_answers": ["Ilha Grande", "Ilhabela", "Abrolhos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o ponto mais ocidental do território brasileiro?",
+    "correct_answer": "Serra da Contamana (Acre)",
+    "incorrect_answers": [
+      "Monte Caburaí (Roraima)",
+      "Serra do Divisor (Acre)",
+      "Serra da Mantiqueira (Minas Gerais)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual o rio que forma as Cataratas do Iguaçu?",
+    "correct_answer": "Rio Iguaçu",
+    "incorrect_answers": ["Rio Paraná", "Rio São Francisco", "Rio Tietê"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual cidade brasileira é conhecida como a “Capital do Pantanal”?",
+    "correct_answer": "Corumbá",
+    "incorrect_answers": ["Cuiabá", "Campo Grande", "Poconé"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Goiás?",
+    "correct_answer": "Goiânia",
+    "incorrect_answers": ["Anápolis", "Aparecida de Goiânia", "Rio Verde"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual das alternativas contém apenas estados da Região Nordeste?",
+    "correct_answer": "Bahia, Sergipe, Alagoas",
+    "incorrect_answers": [
+      "Bahia, Espírito Santo, Alagoas",
+      "Alagoas, Pernambuco, Goiás",
+      "Paraíba, Piauí, Tocantins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual a principal formação vegetal da Região Sul do Brasil?",
+    "correct_answer": "Mata de Araucárias",
+    "incorrect_answers": ["Mata Atlântica", "Cerrado", "Caatinga"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro tem a sigla 'AM'?",
+    "correct_answer": "Amazonas",
+    "incorrect_answers": ["Amapá", "Alagoas", "Acre"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual dessas cidades é cortada pelo Trópico de Capricórnio?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Rio Branco", "Belém", "Fortaleza"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a altitude aproximada do Pico da Neblina?",
+    "correct_answer": "2.995 metros",
+    "incorrect_answers": ["2.750 metros", "3.121 metros", "2.650 metros"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Rondônia?",
+    "correct_answer": "Porto Velho",
+    "incorrect_answers": ["Boa Vista", "Palmas", "Rio Branco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a formação geológica predominante da Bacia Amazônica?",
+    "correct_answer": "Bacia Sedimentar",
+    "incorrect_answers": [
+      "Escudo Cristalino",
+      "Dobramentos modernos",
+      "Depressão periférica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual cidade brasileira possui o maior número de habitantes?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Rio de Janeiro", "Salvador", "Belo Horizonte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o estado mais populoso do Brasil?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": ["Minas Gerais", "Bahia", "Rio de Janeiro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é o principal rio que abastece a cidade de São Paulo?",
+    "correct_answer": "Rio Tietê",
+    "incorrect_answers": ["Rio Pinheiros", "Rio Paraíba do Sul", "Rio Paraná"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual bioma ocupa a maior área do território brasileiro?",
+    "correct_answer": "Amazônia",
+    "incorrect_answers": ["Cerrado", "Mata Atlântica", "Caatinga"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado do Pará?",
+    "correct_answer": "Belém",
+    "incorrect_answers": ["Macapá", "Manaus", "São Luís"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual destas cidades é banhada pelo Rio São Francisco?",
+    "correct_answer": "Petrolina",
+    "incorrect_answers": ["Campina Grande", "Ilhéus", "Juazeiro do Norte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro tem o maior número de municípios?",
+    "correct_answer": "Minas Gerais",
+    "incorrect_answers": ["Bahia", "São Paulo", "Paraná"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual oceano banha a costa leste do Brasil?",
+    "correct_answer": "Atlântico",
+    "incorrect_answers": ["Pacífico", "Índico", "Ártico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual é a capital do estado de Roraima?",
+    "correct_answer": "Boa Vista",
+    "incorrect_answers": ["Rio Branco", "Macapá", "Manaus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a única capital brasileira localizada no hemisfério norte?",
+    "correct_answer": "Macapá",
+    "incorrect_answers": ["Boa Vista", "Manaus", "Belém"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "A Floresta Amazônica está presente em quantos países além do Brasil?",
+    "correct_answer": "8",
+    "incorrect_answers": ["6", "4", "10"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual desses estados faz fronteira com o Uruguai?",
+    "correct_answer": "Rio Grande do Sul",
+    "incorrect_answers": ["Paraná", "Santa Catarina", "Mato Grosso do Sul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual estado brasileiro é conhecido como 'o celeiro do Brasil' pela produção agrícola?",
+    "correct_answer": "Mato Grosso",
+    "incorrect_answers": ["Paraná", "Minas Gerais", "Bahia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Em qual estado está localizado o Parque Nacional da Chapada dos Veadeiros?",
+    "correct_answer": "Goiás",
+    "incorrect_answers": ["Bahia", "Minas Gerais", "Mato Grosso"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual cidade é a capital do estado de Alagoas?",
+    "correct_answer": "Maceió",
+    "incorrect_answers": ["João Pessoa", "Natal", "Aracaju"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O Rio São Francisco deságua em qual estado?",
+    "correct_answer": "Alagoas",
+    "incorrect_answers": ["Sergipe", "Bahia", "Pernambuco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o maior país do mundo em extensão territorial?",
+    "correct_answer": "Rússia",
+    "incorrect_answers": ["Canadá", "China", "Estados Unidos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da França?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Londres", "Berlim", "Roma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O rio Nilo deságua em qual mar?",
+    "correct_answer": "Mar Mediterrâneo",
+    "incorrect_answers": ["Mar Vermelho", "Oceano Atlântico", "Mar Arábico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual país tem a maior quantidade de ilhas no mundo?",
+    "correct_answer": "Suécia",
+    "incorrect_answers": ["Indonésia", "Filipinas", "Noruega"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país faz fronteira com a maior quantidade de países?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Rússia", "Brasil", "Alemanha"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Argentina?",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": ["Santiago", "Montevidéu", "Lima"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "O Monte Everest está localizado em qual cordilheira?",
+    "correct_answer": "Himalaia",
+    "incorrect_answers": ["Andes", "Alpes", "Rochosas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país africano tem a maior população?",
+    "correct_answer": "Nigéria",
+    "incorrect_answers": ["Egito", "África do Sul", "Etiópia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a capital do Cazaquistão?",
+    "correct_answer": "Astana",
+    "incorrect_answers": ["Almaty", "Tashkent", "Bishkek"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país é conhecido como 'Terra dos Mil Lagos'?",
+    "correct_answer": "Finlândia",
+    "incorrect_answers": ["Canadá", "Suécia", "Noruega"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital do Japão?",
+    "correct_answer": "Tóquio",
+    "incorrect_answers": ["Osaka", "Kyoto", "Seul"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual deserto cobre grande parte do norte da África?",
+    "correct_answer": "Saara",
+    "incorrect_answers": ["Kalahari", "Gobi", "Atacama"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o menor país do mundo em área territorial?",
+    "correct_answer": "Vaticano",
+    "incorrect_answers": ["Mônaco", "Nauru", "San Marino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é o continente com mais países?",
+    "correct_answer": "África",
+    "incorrect_answers": ["Ásia", "Europa", "América"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "A cidade de Istambul está localizada em qual país?",
+    "correct_answer": "Turquia",
+    "incorrect_answers": ["Grécia", "Armênia", "Irã"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual oceano é o maior em extensão?",
+    "correct_answer": "Pacífico",
+    "incorrect_answers": ["Atlântico", "Índico", "Ártico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é o ponto mais profundo conhecido nos oceanos?",
+    "correct_answer": "Fossa das Marianas",
+    "incorrect_answers": [
+      "Dorsal Mesoatlântica",
+      "Fossa de Tonga",
+      "Fossa de Java"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Itália?",
+    "correct_answer": "Roma",
+    "incorrect_answers": ["Milão", "Veneza", "Nápoles"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual país é banhado pelos oceanos Atlântico e Índico?",
+    "correct_answer": "África do Sul",
+    "incorrect_answers": ["Austrália", "Índia", "Argentina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a capital da Nova Zelândia?",
+    "correct_answer": "Wellington",
+    "incorrect_answers": ["Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "O rio Yangtzé corre em qual país?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Tailândia", "Vietnã", "Índia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual cidade é a capital administrativa da África do Sul?",
+    "correct_answer": "Pretória",
+    "incorrect_answers": ["Cidade do Cabo", "Joanesburgo", "Durban"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual continente é conhecido por ter o maior deserto quente do mundo?",
+    "correct_answer": "África",
+    "incorrect_answers": ["Ásia", "América do Sul", "Oceania"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual mar separa a Arábia da África?",
+    "correct_answer": "Mar Vermelho",
+    "incorrect_answers": ["Mar Mediterrâneo", "Mar Arábico", "Golfo Pérsico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual é a capital do Butão?",
+    "correct_answer": "Thimphu",
+    "incorrect_answers": ["Katmandu", "Daca", "Colombo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual o nome da maior ilha do mundo?",
+    "correct_answer": "Groenlândia",
+    "incorrect_answers": ["Austrália", "Nova Guiné", "Borneo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geografia",
+    "question": "Qual o menor país da América do Sul em área territorial?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Guiana", "Uruguai", "Equador"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geografia",
+    "question": "Qual é a capital da Alemanha?",
+    "correct_answer": "Berlim",
+    "incorrect_answers": ["Frankfurt", "Hamburgo", "Munique"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geografia",
+    "question": "Qual cidade é a capital do Canadá?",
+    "correct_answer": "Ottawa",
+    "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+  }
+]
