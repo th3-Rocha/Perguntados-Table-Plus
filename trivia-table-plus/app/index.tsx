@@ -22,7 +22,7 @@ export default function HomeScreen() {
       route: "Esportes",
     },
     {
-      image: require("@/assets/images/cardCience.png"),
+      image: require("@/assets/images/cardGeography.png"),
       name: "Geografia",
       route: "Geografia",
     },
@@ -37,7 +37,7 @@ export default function HomeScreen() {
       route: "Historia",
     },
     {
-      image: require("@/assets/images/cardCience.png"),
+      image: require("@/assets/images/cardEnterteriment.png"),
       name: "Entretenimento",
       route: "Entretenimento",
     },

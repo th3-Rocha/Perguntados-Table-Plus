@@ -1,2417 +1,2998 @@
-{
-  "metadata": {
-    "total_questions": 200,
-    "category": "Science%20%26%20Nature",
-    "scraped_at": "2025-06-23 02:27:08",
-    "difficulties": [
-      "easy",
-      "hard",
-      "medium"
-    ],
-    "types": [
-      "multiple"
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Um pósitron é a antipartícula de qual dessas?",
+    "correct_answer": "Elétron",
+    "incorrect_answers": ["Nêutron", "Próton", "Fóton"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "O cinturão de asteroides está localizado entre quais dois planetas?",
+    "correct_answer": "Marte e Júpiter",
+    "incorrect_answers": [
+      "Júpiter e Saturno",
+      "Mercúrio e Vênus",
+      "Terra e Marte"
     ]
   },
-  "questions": [
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "A positron is an antiparticle of a what?",
-      "correct_answer": "Electron",
-      "incorrect_answers": [
-        "Neutron",
-        "Proton",
-        "Photon"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "The asteroid belt is located between which two planets?",
-      "correct_answer": "Mars and Jupiter",
-      "incorrect_answers": [
-        "Jupiter and Saturn",
-        "Mercury and Venus",
-        "Earth and Mars"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "How many planets are in our Solar System?",
-      "correct_answer": "Eight",
-      "incorrect_answers": [
-        "Nine",
-        "Seven",
-        "Ten"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
-      "correct_answer": "Lift",
-      "incorrect_answers": [
-        "Thrust",
-        "Drag",
-        "Weight "
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
-      "correct_answer": "Noether's Theorem",
-      "incorrect_answers": [
-        "Bell's Theorem",
-        "Wick's Theorem",
-        "Carnot's Theorem"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
-      "correct_answer": "Gale",
-      "incorrect_answers": [
-        "Storm",
-        "Hurricane",
-        "Breeze"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is radiation measured in?",
-      "correct_answer": "Gray ",
-      "incorrect_answers": [
-        "Watt",
-        "Decibel",
-        "Kelvin"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following are cells of the adaptive immune system?",
-      "correct_answer": "Cytotoxic T cells",
-      "incorrect_answers": [
-        "Dendritic cells",
-        "Natural killer cells",
-        "White blood cells"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which element has the highest melting point?",
-      "correct_answer": "Carbon",
-      "incorrect_answers": [
-        "Tungsten",
-        "Platinum",
-        "Osmium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the atomic number of the element Strontium?",
-      "correct_answer": "38",
-      "incorrect_answers": [
-        "73",
-        "47",
-        "11"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What part of the brain takes its name from the Greek for seahorse?",
-      "correct_answer": "Hippocampus",
-      "incorrect_answers": [
-        "Cerebellum",
-        "Thalamus",
-        "Amygdala"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the powerhouse of the cell?",
-      "correct_answer": "Mitochondria",
-      "incorrect_answers": [
-        "Ribosome",
-        "Redbull",
-        "Nucleus"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
-      "correct_answer": "Dunning-Kruger effect",
-      "incorrect_answers": [
-        "Meyers-Briggs effect",
-        "Müller-Lyer effect",
-        "Freud-Hall effect"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What animal takes part in Schrödinger's most famous thought experiment?",
-      "correct_answer": "Cat",
-      "incorrect_answers": [
-        "Dog",
-        "Bat",
-        "Butterfly"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which element has the atomic number of 7?",
-      "correct_answer": "Nitrogen",
-      "incorrect_answers": [
-        "Oxygen",
-        "Hydrogen",
-        "Neon"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What did Gregory Mendel use to test genetic crossovers?",
-      "correct_answer": "Peas",
-      "incorrect_answers": [
-        "Cats",
-        "Flowers",
-        "Parrots"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "How many laws of thermodynamics are there?",
-      "correct_answer": "Four",
-      "incorrect_answers": [
-        "Three",
-        "Two",
-        "Five"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Burning which of these metals will produce a bright white flame?",
-      "correct_answer": "Magnesium",
-      "incorrect_answers": [
-        "Copper",
-        "Lithium",
-        "Lead"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
-      "correct_answer": "Carl Jung",
-      "incorrect_answers": [
-        "Jean Piaget",
-        "Alice Miller",
-        "Hermann Rorschach"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the unit of electrical resistance?",
-      "correct_answer": "Ohm",
-      "incorrect_answers": [
-        "Mho",
-        "Tesla",
-        "Joule"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Who developed the first successful polio vaccine in the 1950s?",
-      "correct_answer": "Jonas Salk",
-      "incorrect_answers": [
-        "John F. Enders",
-        "Thomas Weller",
-        "Frederick Robbins"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "The Western Lowland Gorilla is scientifically know as?",
-      "correct_answer": "Gorilla Gorilla Gorilla",
-      "incorrect_answers": [
-        "Gorilla Gorilla Diehli",
-        "Gorilla Beringei Graueri",
-        "Gorilla Beringei Beringei"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What organelle aids in synthesis of DNA in cells?",
-      "correct_answer": "Ribosomes",
-      "incorrect_answers": [
-        "Nuclei",
-        "Lysosomes",
-        "Mitochondria"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these bones is hardest to break?",
-      "correct_answer": "Femur",
-      "incorrect_answers": [
-        "Cranium",
-        "Humerus",
-        "Tibia"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
-      "correct_answer": "Sputnik 1",
-      "incorrect_answers": [
-        "Soyuz 7K-OK",
-        "Zenit-2",
-        "Voskhod 3KV"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
-      "correct_answer": "Sneeze",
-      "incorrect_answers": [
-        "Cough",
-        "Yawn",
-        "Hiccup"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What causes the sound of a heartbeat?",
-      "correct_answer": "Closure of the heart valves",
-      "incorrect_answers": [
-        "Contraction of the heart chambers",
-        "Blood exiting the heart",
-        "Relaxation of the heart chambers"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is \"Stenoma\"?",
-      "correct_answer": "A genus of moths",
-      "incorrect_answers": [
-        "A combat stimulant from WW2",
-        "A type of seasoning",
-        "A port city in the carribean"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
-      "correct_answer": "Jacob's Syndrome",
-      "incorrect_answers": [
-        "Klinefelter's Syndrome",
-        "Turner's Syndrome",
-        "Down Syndrome"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What are the smallest blood vessels in the human body?",
-      "correct_answer": "Capillaries",
-      "incorrect_answers": [
-        "Arterioles",
-        "Veinules",
-        "Lymphatics"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the thin, outermost layer of the Earth?",
-      "correct_answer": "Crust",
-      "incorrect_answers": [
-        "Exosphere",
-        "Mantle",
-        "Outer Core"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the chemical makeup of water?",
-      "correct_answer": "H20",
-      "incorrect_answers": [
-        "C12H6O2",
-        "CO2",
-        "H"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "How many planets make up our Solar System?",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "7",
-        "9",
-        "6"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Muscle fiber is constructed of bundles small long organelles called what?",
-      "correct_answer": "Myofibrils",
-      "incorrect_answers": [
-        "Epimysium",
-        "Myofiaments",
-        "Myocardium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these is NOT a part of the structure of a typical neuron?",
-      "correct_answer": "Islets of Langerhans",
-      "incorrect_answers": [
-        "Node of Ranvier",
-        "Schwann cell",
-        "Myelin sheath"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the chemical symbol for lead?",
-      "correct_answer": "Pb",
-      "incorrect_answers": [
-        "Ld",
-        "Le",
-        "Pm"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the half-life of Uranium-235?",
-      "correct_answer": "703,800,000 years",
-      "incorrect_answers": [
-        "4,300,400,000 years",
-        "1,260,900,000 years",
-        "Uranium-235 is a stable isotope"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "When was the first mammal successfully cloned?",
-      "correct_answer": "1996",
-      "incorrect_answers": [
-        "2009",
-        "1999",
-        "1985"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the hottest planet in the solar system",
-      "correct_answer": "Venus",
-      "incorrect_answers": [
-        "Jupiter",
-        "Mercury ",
-        "Mars"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which part of the body does glaucoma affect?",
-      "correct_answer": "Eyes",
-      "incorrect_answers": [
-        "Throat",
-        "Stomach",
-        "Blood"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which noble gas has the lowest atomic number?",
-      "correct_answer": "Helium",
-      "incorrect_answers": [
-        "Neon",
-        "Argon",
-        "Krypton"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
-      "correct_answer": "24",
-      "incorrect_answers": [
-        "8",
-        "16",
-        "32"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these elements on the Periodic Table is a Noble Gas?",
-      "correct_answer": "Neon",
-      "incorrect_answers": [
-        "Potassium",
-        "Iodine",
-        "Colbalt"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
-      "correct_answer": "C18H27NO3",
-      "incorrect_answers": [
-        "C21H23NO3",
-        "C6H4Cl2",
-        "C13H25NO4"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these choices is not one of the phases of mitosis?",
-      "correct_answer": "Diplophase",
-      "incorrect_answers": [
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the scientific name of the red fox?",
-      "correct_answer": "Vulpes Vulpes",
-      "incorrect_answers": [
-        "Vulpes Redus",
-        "Red Fox",
-        "Vulpes Vulpie"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the standard SI unit for temperature?",
-      "correct_answer": "Kelvin",
-      "incorrect_answers": [
-        "Fahrenheit",
-        "Celsius",
-        "Rankine"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Gannymede is the largest moon of which planet?",
-      "correct_answer": "Jupiter",
-      "incorrect_answers": [
-        "Uranus",
-        "Neptune",
-        "Mars"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
-      "correct_answer": "Boron",
-      "incorrect_answers": [
-        "Oxygen",
-        "Carbon",
-        "Iron"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The human right lung has how many lobes?",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "4",
-        "2",
-        "1"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The Sun consists of mostly which two elements?",
-      "correct_answer": "Hydrogen & Helium",
-      "incorrect_answers": [
-        "Hydrogen & Nitrogen",
-        "Carbon & Nitrogen",
-        "Carbon & Helium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What does LASER stand for?",
-      "correct_answer": "Light amplification by stimulated emission of radiation",
-      "incorrect_answers": [
-        "Lite analysing by stereo ecorazer",
-        "Light amplifier by standby energy of radio",
-        "Life antimatter by standing entry of range"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What lies at the center of our galaxy?",
-      "correct_answer": "A black hole",
-      "incorrect_answers": [
-        "A wormhole",
-        "A supernova",
-        "A quasar"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "0",
-        "1",
-        "5"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The medical condition osteoporosis affects which part of the body?",
-      "correct_answer": "Bones",
-      "incorrect_answers": [
-        "Skin",
-        "Brain",
-        "Heart"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What name is given to all baby marsupials?",
-      "correct_answer": "Joey",
-      "incorrect_answers": [
-        "Calf",
-        "Pup",
-        "Cub"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the most potent toxin known?",
-      "correct_answer": "Botulinum toxin",
-      "incorrect_answers": [
-        "Ricin",
-        "Cyanide",
-        "Asbestos"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following blood vessels carries deoxygenated blood?",
-      "correct_answer": "Pulmonary Artery",
-      "incorrect_answers": [
-        "Pulmonary Vein",
-        "Aorta",
-        "Coronary Artery"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which element has the chemical symbol 'Fe'?",
-      "correct_answer": "Iron",
-      "incorrect_answers": [
-        "Gold",
-        "Silver",
-        "Tin"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What nucleotide pairs with guanine?",
-      "correct_answer": "Cytosine",
-      "incorrect_answers": [
-        "Thymine",
-        "Adenine",
-        "Uracil"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is isobutylphenylpropanoic acid more commonly known as?",
-      "correct_answer": "Ibuprofen",
-      "incorrect_answers": [
-        "Morphine",
-        "Ketamine",
-        "Aspirin"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Who made the discovery of X-rays?",
-      "correct_answer": "Wilhelm Conrad Röntgen",
-      "incorrect_answers": [
-        "Thomas Alva Edison",
-        "James Watt",
-        "Albert Einstein"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What does the letter 'S' stand for in 'NASA'?",
-      "correct_answer": "Space",
-      "incorrect_answers": [
-        "Science",
-        "Society",
-        "Star"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the molecular formula of Glucose?",
-      "correct_answer": "C6H12O6",
-      "incorrect_answers": [
-        "C2H4O2",
-        "K+",
-        "CH4"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these animals belongs in class Chondrichthyes?",
-      "correct_answer": "Great white shark",
-      "incorrect_answers": [
-        "Octopus",
-        "Killer whale",
-        "Catfish"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the chemical formula for ammonia?",
-      "correct_answer": "NH3",
-      "incorrect_answers": [
-        "CO2",
-        "NO3",
-        "CH4"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is an alternative name for multiple personality disorder?",
-      "correct_answer": "Dissociative identity disorder",
-      "incorrect_answers": [
-        "Body integrity identity disorder",
-        "Identity crisis",
-        "Schizophrenia"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What are human nails made of?",
-      "correct_answer": "Keratin",
-      "incorrect_answers": [
-        "Bone",
-        "Chitin",
-        "Calcium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What does DNA stand for?",
-      "correct_answer": "Deoxyribonucleic Acid",
-      "incorrect_answers": [
-        "Deoxyribogenetic Acid",
-        "Deoxyribogenetic Atoms",
-        "Detoxic Acid"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
-      "correct_answer": "21",
-      "incorrect_answers": [
-        "23",
-        "15",
-        "24"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "3",
-        "5",
-        "6"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
-      "correct_answer": "Reactivity",
-      "incorrect_answers": [
-        "Health",
-        "Flammability",
-        "Radioactivity"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the scientific term for 'taste'?",
-      "correct_answer": "Gustatory Perception",
-      "incorrect_answers": [
-        "Olfaction",
-        "Somatosensation",
-        "Auditory Perception"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is not one of the groups on the periodic table?",
-      "correct_answer": "Fluorines",
-      "incorrect_answers": [
-        "Alkali Metals",
-        "Halogens",
-        "Noble Gases"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the molecular formula of Ozone?",
-      "correct_answer": "O3",
-      "incorrect_answers": [
-        "C6H2O6",
-        "N2O",
-        "SO4"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
-      "correct_answer": "Interphase",
-      "incorrect_answers": [
-        "Prophase",
-        "Stasis",
-        "Telophase"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "The human heart has how many chambers?",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "2",
-        "6",
-        "3"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which scientific unit is named after an Italian nobleman?",
-      "correct_answer": "Volt",
-      "incorrect_answers": [
-        "Pascal",
-        "Ohm",
-        "Hertz"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "How many protons are in an oxygen atom?",
-      "correct_answer": "Eight",
-      "incorrect_answers": [
-        "Four",
-        "Two",
-        "Six"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these Elements is a metalloid?",
-      "correct_answer": "Antimony",
-      "incorrect_answers": [
-        "Tin",
-        "Bromine",
-        "Rubidium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "How many bones are in the human body?",
-      "correct_answer": "206",
-      "incorrect_answers": [
-        "203",
-        "209",
-        "200"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which chemical element has the lowest boiling point?",
-      "correct_answer": "Helium",
-      "incorrect_answers": [
-        "Hydrogen",
-        "Neon",
-        "Nitrogen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which type of rock is created by intense heat AND pressure?",
-      "correct_answer": "Metamorphic",
-      "incorrect_answers": [
-        "Sedimentary",
-        "Igneous",
-        "Diamond"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Approximately how long is a year on Uranus?",
-      "correct_answer": "84 Earth years",
-      "incorrect_answers": [
-        "47 Earth years",
-        "62 Earth years",
-        "109 Earth years"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the unit of electrical capacitance?",
-      "correct_answer": "Farad",
-      "incorrect_answers": [
-        "Gauss",
-        "Henry",
-        "Watt"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
-      "correct_answer": "low, all",
-      "incorrect_answers": [
-        "low, some",
-        "high, all",
-        "high, some"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the same in Celsius and Fahrenheit?",
-      "correct_answer": "-40",
-      "incorrect_answers": [
-        "32",
-        "-39",
-        "-42"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "How much radiation does a banana emit?",
-      "correct_answer": "0.1 Microsievert",
-      "incorrect_answers": [
-        "0.3 Microsievert",
-        "0.5 Microsievert",
-        "0.7 Microsievert"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the atomic number of Uranium ",
-      "correct_answer": "92",
-      "incorrect_answers": [
-        "235",
-        "17",
-        "167"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which is not a type of neuron?",
-      "correct_answer": "Perceptual Neuron",
-      "incorrect_answers": [
-        "Sensory Neuron",
-        "Motor Neuron",
-        "Interneuron"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
-      "correct_answer": "Cretaceous-Paleogene",
-      "incorrect_answers": [
-        "Triassic–Jurassic",
-        "Permian–Triassic",
-        "Ordovician–Silurian"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which is the most abundant element in the universe?",
-      "correct_answer": "Hydrogen",
-      "incorrect_answers": [
-        "Helium",
-        "Lithium",
-        "Oxygen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Approximately what percentage of Earth's atmosphere is Oxygen?",
-      "correct_answer": "21%",
-      "incorrect_answers": [
-        "54%",
-        "78%",
-        "7%"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The \"Tibia\" is found in which part of the body?",
-      "correct_answer": "Leg",
-      "incorrect_answers": [
-        "Arm",
-        "Hand",
-        "Head"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the Linnean name of the domestic apple tree?",
-      "correct_answer": "Malus pumila",
-      "incorrect_answers": [
-        "Malus americana",
-        "Pomus domestica",
-        "Appelus delectica"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the common name of the chemical compound \"dihydrogen monoxide\"?",
-      "correct_answer": "Water",
-      "incorrect_answers": [
-        "Methane",
-        "Ammonia ",
-        "Laughing Gas"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "The medical term for the belly button is which of the following?",
-      "correct_answer": "Umbilicus",
-      "incorrect_answers": [
-        "Nevus",
-        "Nares",
-        "Paxillus"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the primary addictive substance found in tobacco?",
-      "correct_answer": "Nicotine",
-      "incorrect_answers": [
-        "Cathinone",
-        "Ephedrine",
-        "Glaucine"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What do you study if you are studying entomology?",
-      "correct_answer": "Insects",
-      "incorrect_answers": [
-        "Humans",
-        "the Brain",
-        "Fish"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the speed of light in a vacuum?",
-      "correct_answer": "299,792,458 m/s",
-      "incorrect_answers": [
-        "50,461 m/s",
-        "308,215,043 m/s",
-        "751,665,014,151 m/s"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
-      "correct_answer": "Polyvinylchloride (PVC) ",
-      "incorrect_answers": [
-        "Polyethylene (PE)",
-        "Polypropylene (PP)",
-        "Polystyrene (PS)"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is NOT a word used to describe an earthquake?",
-      "correct_answer": "Drop-slide",
-      "incorrect_answers": [
-        "Foreshock",
-        "Strike-slip",
-        "Temblor"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Botanically speaking, which of these fruits is NOT a berry?",
-      "correct_answer": "Strawberry",
-      "incorrect_answers": [
-        "Blueberry",
-        "Banana",
-        "Concord Grape"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following spacecraft never touched the moon?",
-      "correct_answer": "Mariner 4",
-      "incorrect_answers": [
-        "Apollo 11",
-        "Luna 2",
-        "SMART-1"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Alzheimer's disease primarily affects which part of the human body?",
-      "correct_answer": "Brain",
-      "incorrect_answers": [
-        "Lungs",
-        "Skin",
-        "Heart"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The medial meniscus forms which part of what joint in the human body?",
-      "correct_answer": "Knee",
-      "incorrect_answers": [
-        "Elbow",
-        "Ankle",
-        "Shoulder"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "After which Danish city is the 72th element on the periodic table named?",
-      "correct_answer": "Copenhagen",
-      "incorrect_answers": [
-        "Odense",
-        "Herning",
-        "Skagen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the hottest planet in the Solar System?",
-      "correct_answer": "Venus",
-      "incorrect_answers": [
-        "Mars",
-        "Mercury",
-        "Jupiter"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
-      "correct_answer": "Stamen",
-      "incorrect_answers": [
-        "Sepal",
-        "Pistil",
-        "Petal"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
-      "correct_answer": "Titan",
-      "incorrect_answers": [
-        "Europa",
-        "Miranda",
-        "Callisto"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the standard atomic weight of a Plutonium nucleus?",
-      "correct_answer": "244",
-      "incorrect_answers": [
-        "94",
-        "481",
-        "128"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "How many types of quarks are there in the standard model of physics?",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
-      "correct_answer": "Graviton",
-      "incorrect_answers": [
-        "Z boson",
-        "Tau neutrino",
-        "Gluon"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Myopia is the scientific term for which condition?",
-      "correct_answer": "Shortsightedness",
-      "incorrect_answers": [
-        "Farsightedness",
-        "Double Vision",
-        "Clouded Vision"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the atomic mass of Carbon?",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "14",
-        "16",
-        "10"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these is a stop codon in DNA?",
-      "correct_answer": "TAA",
-      "incorrect_answers": [
-        "ACT",
-        "ACA",
-        "GTA"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "In Psychology, which need appears highest in the \"Maslow's hierarchy of needs\" pyramid?",
-      "correct_answer": "Esteem",
-      "incorrect_answers": [
-        "Love",
-        "Safety",
-        "Physiological"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "The word \"science\" stems from the word \"scire\" meaning what?",
-      "correct_answer": "To know",
-      "incorrect_answers": [
-        "To measure",
-        "To live",
-        "To count"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which one of these is scientific term for \"Brain Freeze\"?",
-      "correct_answer": "Sphenopalatine Ganglioneuralgia",
-      "incorrect_answers": [
-        "Hyacinthoides Italica",
-        "Amaranthus Retroflexus",
-        "Amblyomma Americanum"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
-      "correct_answer": "Gossypiboma",
-      "incorrect_answers": [
-        "Gongoozler",
-        "Jentacular",
-        "Meupareunia"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is considered the rarest form of color blindness?",
-      "correct_answer": "Blue",
-      "incorrect_answers": [
-        "Red",
-        "Green",
-        "Purple"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the elemental symbol for mercury?",
-      "correct_answer": "Hg",
-      "incorrect_answers": [
-        "Me",
-        "Mc",
-        "Hy"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
-      "correct_answer": "Nitrogen",
-      "incorrect_answers": [
-        "Helium",
-        "Carbon",
-        "Hydrogen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What polymer is used to make CDs, safety goggles and riot shields?",
-      "correct_answer": "Polycarbonate",
-      "incorrect_answers": [
-        "Rubber",
-        "Nylon",
-        "Bakelite"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "71% of the Earth's surface is made up of",
-      "correct_answer": "Water",
-      "incorrect_answers": [
-        "Deserts",
-        "Continents",
-        "Forests"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the largest planet in the Solar System?",
-      "correct_answer": "Jupiter",
-      "incorrect_answers": [
-        "Saturn",
-        "Earth",
-        "Mars"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "The 'Islets of Langerhans' is found in which human organ?",
-      "correct_answer": "Pancreas",
-      "incorrect_answers": [
-        "Kidney",
-        "Liver",
-        "Brain"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following bones is not in the leg?",
-      "correct_answer": "Radius",
-      "incorrect_answers": [
-        "Patella",
-        "Tibia",
-        "Fibula "
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following men does not have a chemical element named after him?",
-      "correct_answer": "Sir Isaac Newton",
-      "incorrect_answers": [
-        "Albert Einstein",
-        "Niels Bohr",
-        "Enrico Fermi"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these is a semiconductor amplifying device?",
-      "correct_answer": "transistor",
-      "incorrect_answers": [
-        "tube",
-        "diode",
-        "P-N junction"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Folic acid is the synthetic form of which vitamin?",
-      "correct_answer": "Vitamin B",
-      "incorrect_answers": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "When the Falcon Heavy was launched on it's test flight, what was the only part of the operation that failed?",
-      "correct_answer": "Center Core Landing",
-      "incorrect_answers": [
-        "Side Booster Landing",
-        "Deployment of Starman",
-        "Ignition and Liftoff"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the lowest layer of the Earth's atmosphere named?",
-      "correct_answer": "Troposphere",
-      "incorrect_answers": [
-        "Stratosphere",
-        "Mesosphere",
-        "Thermosphere"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The humerus, paired radius, and ulna come together to form what joint?",
-      "correct_answer": "Elbow",
-      "incorrect_answers": [
-        "Knee",
-        "Sholder",
-        "Ankle"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which color cannot be produced in Roses, even through genetic alteration?",
-      "correct_answer": "Blue",
-      "incorrect_answers": [
-        "Black",
-        "Orange",
-        "Brown"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which planet in the Solar System is the closest to the Sun?",
-      "correct_answer": "Mercury",
-      "incorrect_answers": [
-        "Earth",
-        "Mars",
-        "Venus"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "How old is the universe?",
-      "correct_answer": "13.8 Billion Years",
-      "incorrect_answers": [
-        "4.5 Billion Years",
-        "7.9 Billion Years",
-        "16.2 Billion Years"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is NOT a passive electrical component?",
-      "correct_answer": "Transistor",
-      "incorrect_answers": [
-        "Resistor",
-        "Capacitor",
-        "Inductor"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the unit of electrical inductance?",
-      "correct_answer": "Henry",
-      "incorrect_answers": [
-        "Weber",
-        "Coulomb",
-        "Mho"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What mineral has the lowest number on the Mohs scale?",
-      "correct_answer": "Talc",
-      "incorrect_answers": [
-        "Quartz",
-        "Diamond",
-        "Gypsum"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
-      "correct_answer": "Nose",
-      "incorrect_answers": [
-        "Ears",
-        "Chin",
-        "Neck"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "In the Scoville scale, what is the hottest chemical?",
-      "correct_answer": "Resiniferatoxin",
-      "incorrect_answers": [
-        "Capsaicin",
-        "Dihydrocapsaicin",
-        "Tinyatoxin"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
-      "correct_answer": "8 Minutes",
-      "incorrect_answers": [
-        "6 Minutes",
-        "2 Minutes",
-        "12 Minutes"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
-      "correct_answer": "Gauss's Law",
-      "incorrect_answers": [
-        "Faraday's Law",
-        "Ampere's Law",
-        "Biot-Savart Law"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What was the first organic compound to be synthesized from inorganic compounds?",
-      "correct_answer": "Urea",
-      "incorrect_answers": [
-        "Propane",
-        "Ethanol",
-        "Formaldehyde"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the colour of unoxidized blood?",
-      "correct_answer": "Red",
-      "incorrect_answers": [
-        "Blue",
-        "Purple",
-        "Green"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following liquids is least viscous? Assume temperature is 25°C.",
-      "correct_answer": "Acetone",
-      "incorrect_answers": [
-        "Water",
-        "Mercury",
-        "Benzene"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Where in the human body is the Pineal Gland located?",
-      "correct_answer": "Brain",
-      "incorrect_answers": [
-        "Groin",
-        "Chest",
-        "Throat"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these chemical compounds is NOT found in gastric acid?",
-      "correct_answer": "Sulfuric acid",
-      "incorrect_answers": [
-        "Hydrochloric acid",
-        "Potassium chloride",
-        "Sodium chloride"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What was the first living creature in space?",
-      "correct_answer": "Fruit Flies ",
-      "incorrect_answers": [
-        "Monkey",
-        "Dog",
-        "Mouse"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Dry ice is the solid form of what substance?",
-      "correct_answer": "Carbon dioxide",
-      "incorrect_answers": [
-        "Nitrogen",
-        "Ammonia",
-        "Oxygen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is a major muscle of the back?",
-      "correct_answer": "Trapezius",
-      "incorrect_answers": [
-        "Trapezium",
-        "Trapezoid",
-        "Triquetrum"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Where did the Great Storm of 1987 make landfall at, first?",
-      "correct_answer": "Cornwall",
-      "incorrect_answers": [
-        "Surrey",
-        "Wales",
-        "The Midlands"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Stars consist mainly of hydrogen and which other gas?",
-      "correct_answer": "Helium",
-      "incorrect_answers": [
-        "Oxygen",
-        "Argon",
-        "Nitrogen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which is the longest bone in the human body? ",
-      "correct_answer": "Femur",
-      "incorrect_answers": [
-        "Scapula",
-        "Fibula",
-        "Ulna"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
-      "correct_answer": "The presence or absence of a nucleus",
-      "incorrect_answers": [
-        "The overall size",
-        "The presence or absence of certain organelles",
-        "The mode of reproduction"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the largest living organism currently known to man?",
-      "correct_answer": "Honey Fungus",
-      "incorrect_answers": [
-        "Blue Whale",
-        "Redwood Tree",
-        "The Coral Reef"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "An organism described as \"heliotropic\" has a tendancy to move towards which of these things?",
-      "correct_answer": "Light",
-      "incorrect_answers": [
-        "Water",
-        "Trees",
-        "Pollen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "How many legs is it biologically impossible for a centipede to have?",
-      "correct_answer": "100",
-      "incorrect_answers": [
-        "26",
-        "50",
-        "74"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the scientific name of the knee cap?",
-      "correct_answer": "Patella",
-      "incorrect_answers": [
-        "Femur",
-        "Foramen Magnum",
-        "Scapula"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Human cells typically have how many copies of each gene?",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "1",
-        "4",
-        "3"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Deuterium is an isotope of which element?",
-      "correct_answer": "Hydrogen",
-      "incorrect_answers": [
-        "Nitrogen",
-        "Helium",
-        "Neon"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What does the term \"isolation\" refer to in microbiology?",
-      "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
-      "incorrect_answers": [
-        "A lack of nutrition in microenviroments",
-        "The nitrogen level in soil",
-        "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Who is the chemical element Curium named after?",
-      "correct_answer": "Marie & Pierre Curie",
-      "incorrect_answers": [
-        "The Curiosity Rover",
-        "Curious George",
-        "Stephen Curry"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Au on the Periodic Table refers to which element?",
-      "correct_answer": "Gold",
-      "incorrect_answers": [
-        "Silver",
-        "Oxygen",
-        "Nickel"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "About how old is Earth?",
-      "correct_answer": "4.5 Billion Years",
-      "incorrect_answers": [
-        "3.5 Billion Years",
-        "2.5 Billion Years",
-        "5.5 Billion Years"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What medication was once commonly used as rat poison?",
-      "correct_answer": "Coumadin",
-      "incorrect_answers": [
-        "Aspirin",
-        "Eliquis",
-        "Tylenol"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these stars is the largest?",
-      "correct_answer": "UY Scuti",
-      "incorrect_answers": [
-        "VY Canis Majoris",
-        "Betelgeuse",
-        "RW Cephei"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which desert is the only desert in the world where the \"Saguaro\" cactus grows indigenously?",
-      "correct_answer": "The Sonoran Desert",
-      "incorrect_answers": [
-        "The Gobi Desert",
-        "The Yuma Desert",
-        "The Arabian Desert"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
-      "correct_answer": "Carbon",
-      "incorrect_answers": [
-        "Nitrogen",
-        "Oxygen",
-        "Hydrogen"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the largest animal currently on Earth?",
-      "correct_answer": "Blue Whale",
-      "incorrect_answers": [
-        "Orca",
-        "Colossal Squid",
-        "Giraffe"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of the following is NOT a real element?",
-      "correct_answer": "Vitrainium",
-      "incorrect_answers": [
-        "Praseodymium",
-        "Hassium",
-        "Lutetium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the official name of the star located closest to the North Celestial Pole?",
-      "correct_answer": "Polaris",
-      "incorrect_answers": [
-        "Eridanus",
-        "Gamma Cephei",
-        "Iota Cephei"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "How many chromosomes are in your body cells?",
-      "correct_answer": "23",
-      "incorrect_answers": [
-        "21",
-        "22",
-        "24"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
-      "correct_answer": "Shepard Tone",
-      "incorrect_answers": [
-        "Glissandro Illusion",
-        "Fransen Effect",
-        "McGurck Effect"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the \"powerhouse\" of the Eukaryotic animal cell?",
-      "correct_answer": "Mitochondria",
-      "incorrect_answers": [
-        "Nucleus",
-        "Chloroplast",
-        "Endoplasmic Reticulum"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which horizon in a soil profile consists of bedrock?",
-      "correct_answer": "R",
-      "incorrect_answers": [
-        "O",
-        "B",
-        "D"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Coulrophobia is the irrational fear of what?",
-      "correct_answer": "Clowns",
-      "incorrect_answers": [
-        "Cemeteries",
-        "Needles",
-        "Tunnels"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the study of the cells and tissues of plants and animals?",
-      "correct_answer": "Histology",
-      "incorrect_answers": [
-        "Microbiology",
-        "Anatomy",
-        "Biochemistry"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
-      "correct_answer": "Female Flower",
-      "incorrect_answers": [
-        "Leaves",
-        "Male Flower",
-        "Root Ball"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the first element on the periodic table?",
-      "correct_answer": "Hydrogen",
-      "incorrect_answers": [
-        "Helium",
-        "Oxygen",
-        "Lithium"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
-      "correct_answer": "Uranus",
-      "incorrect_answers": [
-        "Jupiter",
-        "Venus",
-        "Neptune"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "At what temperature does water boil?",
-      "correct_answer": "212°F",
-      "incorrect_answers": [
-        "200°F",
-        "181°F",
-        "178°F"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "On the periodic table of elements, what is the symbol for Tin?",
-      "correct_answer": "Sn",
-      "incorrect_answers": [
-        "Ti",
-        "Ni",
-        "Na"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
-      "correct_answer": "Cognitive Dissonance",
-      "incorrect_answers": [
-        "Flip-Flop Syndrome",
-        "Split-Brain",
-        "Blind Sight"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "An organic compound is considered an alcohol if it has what functional group?",
-      "correct_answer": "Hydroxyl",
-      "incorrect_answers": [
-        "Carbonyl",
-        "Alkyl",
-        "Aldehyde"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "What term is best associated with Sigmund Freud?",
-      "correct_answer": "Psychoanalysis",
-      "incorrect_answers": [
-        "Cognitive-Behavioral Therapy",
-        "Theory of Gravity",
-        "Dialectical Behavior Therapy"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "Science%20%26%20Nature",
-      "question": "Which Apollo mission was the first one to land on the Moon?",
-      "correct_answer": "Apollo 11",
-      "incorrect_answers": [
-        "Apollo 10",
-        "Apollo 9",
-        "Apollo 13"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Where did the dog breed \"Chihuahua\" originate?",
-      "correct_answer": "Mexico",
-      "incorrect_answers": [
-        "France",
-        "Spain",
-        "Russia"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
-      "correct_answer": "Beryllium",
-      "incorrect_answers": [
-        "Gallium",
-        "Caesium",
-        "Mercury"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
-      "correct_answer": "Abnormal Shrimp",
-      "incorrect_answers": [
-        "Deformed Fish",
-        "Strange Crab",
-        "Anomalous Clam"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Where is the Gluteus Maximus muscle located?",
-      "correct_answer": "Butt",
-      "incorrect_answers": [
-        "Arm",
-        "Head",
-        "Torso"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "Which constellation contains the center of the Milky Way?",
-      "correct_answer": "Sagittarius",
-      "incorrect_answers": [
-        "Scorpius",
-        "Ophiuchus",
-        "Capricornus"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Deionized water is water with which of the following removed?",
-      "correct_answer": "Iron",
-      "incorrect_answers": [
-        "Oxygen",
-        "Hydrogen",
-        "Uncharged atoms"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What is the scientific name for the extinct hominin known as \"Lucy\"?",
-      "correct_answer": "Australopithecus Afarensis",
-      "incorrect_answers": [
-        "Australopithecus Africanus",
-        "Australopithecus Architeuthis",
-        "Australopithecus Antaris"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "hard",
-      "category": "Science%20%26%20Nature",
-      "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
-      "correct_answer": "Shin Splints",
-      "incorrect_answers": [
-        "Tennis Elbow",
-        "Carpal Tunnel",
-        "Housemaid's Knee"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which planet did the \"Viking 1\" spacecraft send surface images of, starting in 1976?",
-      "correct_answer": "Mars",
-      "incorrect_answers": [
-        "Saturn",
-        "Jupiter",
-        "Venus"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these is a type of stretch/deep tendon reflex?",
-      "correct_answer": "Ankle jerk reflex",
-      "incorrect_answers": [
-        "Gag reflex",
-        "Pupillary light reflex",
-        "Scratch reflex"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which of these two plates are best know for forming earthquakes and tsunami's? ",
-      "correct_answer": "Convergent Plate Boundaries/Oceanic Crust",
-      "incorrect_answers": [
-        "Divergent Plate Boundaries/Convergent/Oceanic Crust",
-        "Transform Plate Boundaries/Divergent Plate Boundaries",
-        "Oceanic & Continental Crust/Transform Plate Boundaries"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "medium",
-      "category": "Science%20%26%20Nature",
-      "question": "Which chemical element was originally known as Alabamine?",
-      "correct_answer": "Astatine",
-      "incorrect_answers": [
-        "Selenium",
-        "Antimony",
-        "Molybdenum"
-      ]
-    }
-  ]
-}
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Quantos planetas existem no nosso Sistema Solar?",
+    "correct_answer": "Oito",
+    "incorrect_answers": ["Nove", "Sete", "Dez"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Na aeronáutica, flaps e slats são usados para controlar o quê em uma aeronave?",
+    "correct_answer": "Sustentação",
+    "incorrect_answers": ["Empuxo", "Arrasto", "Peso"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Na física, a conservação da energia e a conservação do momento são consequências de qual destes teoremas?",
+    "correct_answer": "Teorema de Noether",
+    "incorrect_answers": [
+      "Teorema de Bell",
+      "Teorema de Wick",
+      "Teorema de Carnot"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Na Escala de Beaufort da força do vento, qual nome é dado ao número 8?",
+    "correct_answer": "Vendaval",
+    "incorrect_answers": ["Tempestade", "Furacão", "Brisa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "A radiação é medida em qual unidade?",
+    "correct_answer": "Gray",
+    "incorrect_answers": ["Watt", "Decibel", "Kelvin"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Quais destas são células do sistema imune adaptativo?",
+    "correct_answer": "Linfócitos T citotóxicos",
+    "incorrect_answers": [
+      "Células dendríticas",
+      "Células natural killer",
+      "Glóbulos brancos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual elemento tem o maior ponto de fusão?",
+    "correct_answer": "Carbono",
+    "incorrect_answers": ["Tungstênio", "Platina", "Ósmio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual é o número atômico do Estrôncio?",
+    "correct_answer": "38",
+    "incorrect_answers": ["73", "47", "11"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual parte do cérebro tem o nome derivado do grego para cavalo-marinho?",
+    "correct_answer": "Hipocampo",
+    "incorrect_answers": ["Cerebelo", "Tálamo", "Amígdala"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual é a usina de energia da célula?",
+    "correct_answer": "Mitocôndria",
+    "incorrect_answers": ["Ribossomo", "Redbull", "Núcleo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual é o nome do viés cognitivo onde pessoas com pouca habilidade acham que são melhores do que realmente são?",
+    "correct_answer": "Efeito Dunning-Kruger",
+    "incorrect_answers": [
+      "Efeito Meyers-Briggs",
+      "Efeito Müller-Lyer",
+      "Efeito Freud-Hall"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual animal participa do experimento mental mais famoso de Schrödinger?",
+    "correct_answer": "Gato",
+    "incorrect_answers": ["Cachorro", "Morcego", "Borboleta"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual elemento tem o número atômico 7?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Oxigênio", "Hidrogênio", "Neônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "O que Gregor Mendel usou para estudar cruzamentos genéticos?",
+    "correct_answer": "Ervilhas",
+    "incorrect_answers": ["Gatos", "Flores", "Papagaios"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Quantas leis da termodinâmica existem?",
+    "correct_answer": "Quatro",
+    "incorrect_answers": ["Três", "Duas", "Cinco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Queimar qual destes metais produz uma chama branca intensa?",
+    "correct_answer": "Magnésio",
+    "incorrect_answers": ["Cobre", "Lítio", "Chumbo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual psicólogo suíço é sinônimo dos conceitos de personalidade introvertida e extrovertida?",
+    "correct_answer": "Carl Jung",
+    "incorrect_answers": ["Jean Piaget", "Alice Miller", "Hermann Rorschach"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual é a unidade de resistência elétrica?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": ["Mho", "Tesla", "Joule"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Quem desenvolveu a primeira vacina eficaz contra a poliomielite nos anos 1950?",
+    "correct_answer": "Jonas Salk",
+    "incorrect_answers": [
+      "John F. Enders",
+      "Thomas Weller",
+      "Frederick Robbins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "O Gorila-do-ocidente-de-planície é cientificamente conhecido como?",
+    "correct_answer": "Gorilla Gorilla Gorilla",
+    "incorrect_answers": [
+      "Gorilla Gorilla Diehli",
+      "Gorilla Beringei Graueri",
+      "Gorilla Beringei Beringei"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual organela auxilia na síntese de DNA nas células?",
+    "correct_answer": "Ribossomos",
+    "incorrect_answers": ["Núcleos", "Lisossomos", "Mitocôndrias"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual destes ossos é o mais difícil de quebrar?",
+    "correct_answer": "Fêmur",
+    "incorrect_answers": ["Crânio", "Úmero", "Tíbia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual foi o nome do primeiro satélite artificial da Terra, lançado pela União Soviética em 1957?",
+    "correct_answer": "Sputnik 1",
+    "incorrect_answers": ["Soyuz 7K-OK", "Zenit-2", "Voskhod 3KV"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "A síndrome dominante-autossômica de espirro ao ver o Sol é a necessidade de fazer o quê?",
+    "correct_answer": "Espirrar",
+    "incorrect_answers": ["Tossir", "Bocejar", "Solucar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "O que causa o som das batidas do coração?",
+    "correct_answer": "Fechamento das válvulas cardíacas",
+    "incorrect_answers": [
+      "Contração das câmaras cardíacas",
+      "Saída do sangue do coração",
+      "Relaxamento das câmaras cardíacas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "O que é \"Stenoma\"?",
+    "correct_answer": "Um gênero de mariposas",
+    "incorrect_answers": [
+      "Um estimulante de combate da 2ª Guerra Mundial",
+      "Um tipo de tempero",
+      "Uma cidade portuária no Caribe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual doença genética é causada pela presença de um cromossomo Y extra (XYY)?",
+    "correct_answer": "Síndrome de Jacob",
+    "incorrect_answers": [
+      "Síndrome de Klinefelter",
+      "Síndrome de Turner",
+      "Síndrome de Down"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Quais são os menores vasos sanguíneos do corpo humano?",
+    "correct_answer": "Capilares",
+    "incorrect_answers": ["Arteríolas", "Vênulas", "Vasos linfáticos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Ácido isobutilfenilpropiônico é mais conhecido como?",
+    "correct_answer": "Ibuprofeno",
+    "incorrect_answers": ["Morfina", "Cetamina", "Aspirina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Quem descobriu os raios-X?",
+    "correct_answer": "Wilhelm Conrad Röntgen",
+    "incorrect_answers": ["Thomas Alva Edison", "James Watt", "Albert Einstein"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "O que a letra 'S' representa em 'NASA'?",
+    "correct_answer": "Espaço",
+    "incorrect_answers": ["Ciência", "Sociedade", "Estrela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual é a fórmula molecular da glicose?",
+    "correct_answer": "C6H12O6",
+    "incorrect_answers": ["C2H4O2", "K+", "CH4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual desses animais pertence à classe Chondrichthyes?",
+    "correct_answer": "Tubarão-branco",
+    "incorrect_answers": ["Polvo", "Orca", "Bagre"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é a fórmula química da amônia?",
+    "correct_answer": "NH3",
+    "incorrect_answers": ["CO2", "NO3", "CH4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é outro nome para transtorno de personalidade múltipla?",
+    "correct_answer": "Transtorno dissociativo de identidade",
+    "incorrect_answers": [
+      "Transtorno de identidade corporal",
+      "Crise de identidade",
+      "Esquizofrenia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "As unhas humanas são feitas de quê?",
+    "correct_answer": "Queratina",
+    "incorrect_answers": ["Osso", "Quitina", "Cálcio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "O que significa DNA?",
+    "correct_answer": "Ácido desoxirribonucleico",
+    "incorrect_answers": [
+      "Ácido desoxirribogenético",
+      "Átomos desoxirribogenéticos",
+      "Ácido detoxificante"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "A Síndrome de Down geralmente é causada por uma cópia extra de qual cromossomo?",
+    "correct_answer": "21",
+    "incorrect_answers": ["23", "15", "24"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Na Química, quantos isômeros o Butanol (C4H9OH) possui?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "5", "6"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "O que o losango amarelo no diagrama de risco NFPA 704 representa?",
+    "correct_answer": "Reatividade",
+    "incorrect_answers": ["Saúde", "Inflamabilidade", "Radioatividade"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é o termo científico para 'paladar'?",
+    "correct_answer": "Percepção gustativa",
+    "incorrect_answers": ["Olfato", "Somatossensação", "Percepção auditiva"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual dos seguintes não é um grupo da tabela periódica?",
+    "correct_answer": "Fluoretos",
+    "incorrect_answers": ["Metais alcalinos", "Halogênios", "Gases nobres"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual é a fórmula molecular do ozônio?",
+    "correct_answer": "O3",
+    "incorrect_answers": ["C6H2O6", "N2O", "SO4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Em qual estágio do desenvolvimento as células eucarióticas passam a maior parte de sua vida?",
+    "correct_answer": "Interfase",
+    "incorrect_answers": ["Prófase", "Estase", "Telófase"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "O coração humano tem quantas câmaras?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "6", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual unidade científica tem o nome de um nobre italiano?",
+    "correct_answer": "Volt",
+    "incorrect_answers": ["Pascal", "Ohm", "Hertz"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Quantos prótons há em um átomo de oxigênio?",
+    "correct_answer": "Oito",
+    "incorrect_answers": ["Quatro", "Dois", "Seis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual destes elementos é um metalóide?",
+    "correct_answer": "Antimônio",
+    "incorrect_answers": ["Estanho", "Bromo", "Rubídio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Quantos ossos há no corpo humano?",
+    "correct_answer": "206",
+    "incorrect_answers": ["203", "209", "200"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual elemento químico tem o menor ponto de ebulição?",
+    "correct_answer": "Hélio",
+    "incorrect_answers": ["Hidrogênio", "Neônio", "Nitrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual tipo de rocha é formada por calor e pressão intensos?",
+    "correct_answer": "Metamórfica",
+    "incorrect_answers": ["Sedimentar", "Ígnea", "Diamante"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Aproximadamente quanto dura um ano em Urano?",
+    "correct_answer": "84 anos terrestres",
+    "incorrect_answers": [
+      "47 anos terrestres",
+      "62 anos terrestres",
+      "109 anos terrestres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é a unidade de capacitância elétrica?",
+    "correct_answer": "Farad",
+    "incorrect_answers": ["Gauss", "Henry", "Watt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "O Axioma da Medicina Preventiva afirma que pessoas com ___ risco para uma doença devem ser rastreadas e devemos tratar ___ dessas pessoas.",
+    "correct_answer": "baixo, todas",
+    "incorrect_answers": ["baixo, algumas", "alto, todas", "alto, algumas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual é a temperatura igual em Celsius e Fahrenheit?",
+    "correct_answer": "-40",
+    "incorrect_answers": ["32", "-39", "-42"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Quanta radiação uma banana emite?",
+    "correct_answer": "0,1 Microsievert",
+    "incorrect_answers": [
+      "0,3 Microsievert",
+      "0,5 Microsievert",
+      "0,7 Microsievert"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é o número atômico do Urânio?",
+    "correct_answer": "92",
+    "incorrect_answers": ["235", "17", "167"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual das opções não é um tipo de neurônio?",
+    "correct_answer": "Neurônio perceptual",
+    "incorrect_answers": [
+      "Neurônio sensorial",
+      "Neurônio motor",
+      "Interneurônio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual é a camada mais fina e externa da Terra?",
+    "correct_answer": "Crosta",
+    "incorrect_answers": ["Exosfera", "Manto", "Núcleo externo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual é a composição química da água?",
+    "correct_answer": "H2O",
+    "incorrect_answers": ["C12H6O2", "CO2", "H"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Quantos planetas compõem o nosso Sistema Solar?",
+    "correct_answer": "8",
+    "incorrect_answers": ["7", "9", "6"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "A fibra muscular é formada por feixes de organelas longas chamadas de quê?",
+    "correct_answer": "Miofibrilas",
+    "incorrect_answers": ["Epimísio", "Miofilamentos", "Miocárdio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual dessas NÃO faz parte da estrutura típica de um neurônio?",
+    "correct_answer": "Ilhotas de Langerhans",
+    "incorrect_answers": [
+      "Nódulo de Ranvier",
+      "Célula de Schwann",
+      "Bainha de mielina"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é o símbolo químico do chumbo?",
+    "correct_answer": "Pb",
+    "incorrect_answers": ["Ld", "Le", "Pm"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é a meia-vida do Urânio-235?",
+    "correct_answer": "703.800.000 anos",
+    "incorrect_answers": [
+      "4.300.400.000 anos",
+      "1.260.900.000 anos",
+      "O Urânio-235 é um isótopo estável"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Quando foi clonado com sucesso o primeiro mamífero?",
+    "correct_answer": "1996",
+    "incorrect_answers": ["2009", "1999", "1985"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual é o planeta mais quente do sistema solar?",
+    "correct_answer": "Vênus",
+    "incorrect_answers": ["Júpiter", "Mercúrio", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual parte do corpo é afetada pelo glaucoma?",
+    "correct_answer": "Olhos",
+    "incorrect_answers": ["Garganta", "Estômago", "Sangue"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual gás nobre tem o menor número atômico?",
+    "correct_answer": "Hélio",
+    "incorrect_answers": ["Neônio", "Argônio", "Criptônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Na biologia humana, um ritmo circadiano se refere a um período de aproximadamente quantas horas?",
+    "correct_answer": "24",
+    "incorrect_answers": ["8", "16", "32"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual desses elementos da Tabela Periódica é um gás nobre?",
+    "correct_answer": "Neônio",
+    "incorrect_answers": ["Potássio", "Iodo", "Cobalto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual é a fórmula molecular do componente ativo da pimenta (capsaicina)?",
+    "correct_answer": "C18H27NO3",
+    "incorrect_answers": ["C21H23NO3", "C6H4Cl2", "C13H25NO4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Qual destas opções não é uma fase da mitose?",
+    "correct_answer": "Diplófase",
+    "incorrect_answers": ["Metáfase", "Anáfase", "Telófase"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual é o nome científico da raposa-vermelha?",
+    "correct_answer": "Vulpes Vulpes",
+    "incorrect_answers": ["Vulpes Redus", "Raposa Vermelha", "Vulpes Vulpie"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual é a unidade padrão SI para temperatura?",
+    "correct_answer": "Kelvin",
+    "incorrect_answers": ["Fahrenheit", "Celsius", "Rankine"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Ganimedes é a maior lua de qual planeta?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Urano", "Netuno", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual dos seguintes elementos é tipicamente usado na dopagem do silício semicondutor?",
+    "correct_answer": "Boro",
+    "incorrect_answers": ["Oxigênio", "Carbono", "Ferro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "O pulmão direito humano possui quantos lobos?",
+    "correct_answer": "3",
+    "incorrect_answers": ["4", "2", "1"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "O Sol é composto principalmente por quais dois elementos?",
+    "correct_answer": "Hidrogênio e Hélio",
+    "incorrect_answers": [
+      "Hidrogênio e Nitrogênio",
+      "Carbono e Nitrogênio",
+      "Carbono e Hélio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "O que significa a sigla LASER?",
+    "correct_answer": "Amplificação de luz por emissão estimulada de radiação",
+    "incorrect_answers": [
+      "Análise de luz por eco estéreo",
+      "Amplificador de luz por energia em espera do rádio",
+      "Antimatéria vital por entrada em pé da faixa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "O que está localizado no centro da nossa galáxia?",
+    "correct_answer": "Um buraco negro",
+    "incorrect_answers": ["Um buraco de minhoca", "Uma supernova", "Um quasar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "Quantos planetas anões oficialmente reconhecidos no sistema solar são nomeados com base em divindades polinésias?",
+    "correct_answer": "2",
+    "incorrect_answers": ["0", "1", "5"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "question": "A osteoporose afeta qual parte do corpo?",
+    "correct_answer": "Ossos",
+    "incorrect_answers": ["Pele", "Cérebro", "Coração"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual é o nome dado a todos os filhotes de marsupiais?",
+    "correct_answer": "Joey",
+    "incorrect_answers": ["Bezerro", "Filhote", "Cubs"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual é a toxina mais potente conhecida?",
+    "correct_answer": "Toxina botulínica",
+    "incorrect_answers": ["Ricina", "Cianeto", "Amianto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual dos seguintes vasos sanguíneos transporta sangue sem oxigênio?",
+    "correct_answer": "Artéria pulmonar",
+    "incorrect_answers": ["Veia pulmonar", "Aorta", "Artéria coronária"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "question": "Qual elemento tem o símbolo químico 'Fe'?",
+    "correct_answer": "Ferro",
+    "incorrect_answers": ["Ouro", "Prata", "Estanho"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "question": "Qual nucleotídeo se emparelha com a guanina?",
+    "correct_answer": "Citosina",
+    "incorrect_answers": ["Timina", "Adenina", "Uracila"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual é considerada a forma mais rara de daltonismo?",
+    "correct_answer": "Azul",
+    "incorrect_answers": ["Vermelho", "Verde", "Roxo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual é o símbolo elementar do mercúrio?",
+    "correct_answer": "Hg",
+    "incorrect_answers": ["Me", "Mc", "Hy"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Junto com o oxigênio, qual elemento é principalmente responsável por o céu parecer azul?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Hélio", "Carbono", "Hidrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual polímero é usado para fabricar CDs, óculos de segurança e escudos anti-motim?",
+    "correct_answer": "Policarbonato",
+    "incorrect_answers": ["Borracha", "Nylon", "Baquelite"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "71% da superfície da Terra é composta por",
+    "correct_answer": "Água",
+    "incorrect_answers": ["Desertos", "Continentes", "Florestas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual é o maior planeta do Sistema Solar?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Saturno", "Terra", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "As 'Ilhotas de Langerhans' são encontradas em qual órgão humano?",
+    "correct_answer": "Pâncreas",
+    "incorrect_answers": ["Rim", "Fígado", "Cérebro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Qual dos seguintes ossos não está na perna?",
+    "correct_answer": "Rádio",
+    "incorrect_answers": ["Patela", "Tíbia", "Fíbula"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual desses homens não tem um elemento químico nomeado em sua homenagem?",
+    "correct_answer": "Sir Isaac Newton",
+    "incorrect_answers": ["Albert Einstein", "Niels Bohr", "Enrico Fermi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual desses é um dispositivo amplificador semicondutor?",
+    "correct_answer": "Transistor",
+    "incorrect_answers": ["Tubo", "Diodo", "Junção P-N"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Ácido fólico é a forma sintética de qual vitamina?",
+    "correct_answer": "Vitamina B",
+    "incorrect_answers": ["Vitamina A", "Vitamina C", "Vitamina D"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Quando o Falcon Heavy foi lançado em seu voo de teste, qual foi a única parte da operação que falhou?",
+    "correct_answer": "Pouso do Núcleo Central",
+    "incorrect_answers": [
+      "Pouso dos Propulsores Laterais",
+      "Liberação do Starman",
+      "Ignição e Decolagem"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Como se chama a camada mais baixa da atmosfera terrestre?",
+    "correct_answer": "Troposfera",
+    "incorrect_answers": ["Estratosfera", "Mesosfera", "Termosfera"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "O úmero, rádio e ulna formam juntos qual articulação?",
+    "correct_answer": "Cotovelo",
+    "incorrect_answers": ["Joelho", "Ombro", "Tornozelo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual cor não pode ser produzida em rosas, mesmo com alteração genética?",
+    "correct_answer": "Azul",
+    "incorrect_answers": ["Preto", "Laranja", "Marrom"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual planeta do Sistema Solar é o mais próximo do Sol?",
+    "correct_answer": "Mercúrio",
+    "incorrect_answers": ["Terra", "Marte", "Vênus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual é a idade do universo?",
+    "correct_answer": "13,8 bilhões de anos",
+    "incorrect_answers": [
+      "4,5 bilhões de anos",
+      "7,9 bilhões de anos",
+      "16,2 bilhões de anos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual dos seguintes NÃO é um componente elétrico passivo?",
+    "correct_answer": "Transistor",
+    "incorrect_answers": ["Resistor", "Capacitor", "Indutor"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual é a unidade de indutância elétrica?",
+    "correct_answer": "Henry",
+    "incorrect_answers": ["Weber", "Coulomb", "Mho"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual mineral tem o menor número na escala de Mohs?",
+    "correct_answer": "Talco",
+    "incorrect_answers": ["Quartzo", "Diamante", "Gesso"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência e Natureza",
+    "question": "Rinoplastia é um procedimento cirúrgico em qual parte do corpo humano?",
+    "correct_answer": "Nariz",
+    "incorrect_answers": ["Orelhas", "Queixo", "Pescoço"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Na escala de Scoville, qual é o composto químico mais quente?",
+    "correct_answer": "Resiniferatoxina",
+    "incorrect_answers": ["Capsaicina", "Dihidrocapsaicina", "Tinyatoxina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Aproximadamente quanto tempo a luz leva para viajar do Sol até a Terra?",
+    "correct_answer": "8 minutos",
+    "incorrect_answers": ["6 minutos", "2 minutos", "12 minutos"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual princípio da física relaciona o fluxo elétrico líquido de uma superfície fechada à carga elétrica dentro dela?",
+    "correct_answer": "Lei de Gauss",
+    "incorrect_answers": [
+      "Lei de Faraday",
+      "Lei de Ampère",
+      "Lei de Biot-Savart"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual foi o primeiro composto orgânico sintetizado a partir de compostos inorgânicos?",
+    "correct_answer": "Ureia",
+    "incorrect_answers": ["Propano", "Etanol", "Formaldeído"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual a cor do sangue não oxidado?",
+    "correct_answer": "Vermelho",
+    "incorrect_answers": ["Azul", "Roxo", "Verde"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual desses líquidos é o menos viscoso? Considere a temperatura de 25°C.",
+    "correct_answer": "Acetona",
+    "incorrect_answers": ["Água", "Mercúrio", "Benzeno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Onde no corpo humano está localizada a glândula pineal?",
+    "correct_answer": "Cérebro",
+    "incorrect_answers": ["Virilha", "Peito", "Garganta"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Ciência e Natureza",
+    "question": "Qual desses compostos químicos NÃO é encontrado no ácido gástrico?",
+    "correct_answer": "Ácido sulfúrico",
+    "incorrect_answers": [
+      "Ácido clorídrico",
+      "Cloreto de potássio",
+      "Cloreto de sódio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Ciência e Natureza",
+    "question": "Qual foi a primeira criatura viva no espaço?",
+    "correct_answer": "Moscas-das-frutas",
+    "incorrect_answers": ["Macaco", "Cachorro", "Camundongo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Gelo seco é a forma sólida de qual substância?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": ["Nitrogênio", "Amônia", "Oxigênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dos seguintes é um músculo principal das costas?",
+    "correct_answer": "Trapézio",
+    "incorrect_answers": ["Trapézio (osso)", "Trapézioide", "Triquétrio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Onde a Grande Tempestade de 1987 atingiu a terra pela primeira vez?",
+    "correct_answer": "Cornualha",
+    "incorrect_answers": ["Surrey", "País de Gales", "The Midlands"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Estrelas são compostas principalmente por hidrogênio e qual outro gás?",
+    "correct_answer": "Hélio",
+    "incorrect_answers": ["Oxigênio", "Argônio", "Nitrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o osso mais longo do corpo humano?",
+    "correct_answer": "Fêmur",
+    "incorrect_answers": ["Escápula", "Fíbula", "Ulna"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "A maior diferença entre uma célula eucariótica e uma célula procariótica é:",
+    "correct_answer": "A presença ou ausência de um núcleo",
+    "incorrect_answers": [
+      "O tamanho geral",
+      "A presença ou ausência de certas organelas",
+      "O modo de reprodução"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o maior organismo vivo atualmente conhecido pelo homem?",
+    "correct_answer": "Fungo do mel",
+    "incorrect_answers": ["Baleia azul", "Árvore sequoia", "Recife de coral"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Um organismo descrito como \"heliotrópico\" tem tendência a se mover em direção a qual destas coisas?",
+    "correct_answer": "Luz",
+    "incorrect_answers": ["Água", "Árvores", "Pólen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Quantas pernas é biologicamente impossível um centípede ter?",
+    "correct_answer": "100",
+    "incorrect_answers": ["26", "50", "74"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome científico da patela (rótula)?",
+    "correct_answer": "Patela",
+    "incorrect_answers": ["Fêmur", "Forame magno", "Escápula"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Células humanas normalmente possuem quantas cópias de cada gene?",
+    "correct_answer": "2",
+    "incorrect_answers": ["1", "4", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Deutério é um isótopo de qual elemento?",
+    "correct_answer": "Hidrogênio",
+    "incorrect_answers": ["Nitrogênio", "Hélio", "Neônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "O que o termo \"isolamento\" significa em microbiologia?",
+    "correct_answer": "A separação de uma cepa de uma população natural e mista de microrganismos vivos",
+    "incorrect_answers": [
+      "Falta de nutrientes em microambientes",
+      "O nível de nitrogênio no solo",
+      "Testar efeitos de certos microrganismos em ambientes isolados, como cavernas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "O elemento químico Cúrio foi nomeado em homenagem a quem?",
+    "correct_answer": "Marie & Pierre Curie",
+    "incorrect_answers": ["O robô Curiosity", "Curioso George", "Stephen Curry"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Au na Tabela Periódica se refere a qual elemento?",
+    "correct_answer": "Ouro",
+    "incorrect_answers": ["Prata", "Oxigênio", "Níquel"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a idade aproximada da Terra?",
+    "correct_answer": "4,5 bilhões de anos",
+    "incorrect_answers": [
+      "3,5 bilhões de anos",
+      "2,5 bilhões de anos",
+      "5,5 bilhões de anos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual medicamento já foi comumente usado como veneno para ratos?",
+    "correct_answer": "Coumadin",
+    "incorrect_answers": ["Aspirina", "Eliquis", "Tylenol"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dessas estrelas é a maior?",
+    "correct_answer": "UY Scuti",
+    "incorrect_answers": ["VY Canis Majoris", "Betelgeuse", "RW Cephei"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual deserto é o único do mundo onde o cacto \"Saguaro\" cresce naturalmente?",
+    "correct_answer": "O Deserto de Sonora",
+    "incorrect_answers": [
+      "Deserto de Gobi",
+      "Deserto de Yuma",
+      "Deserto da Arábia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Este elemento, quando submetido a calor e pressão extrema, cria diamantes.",
+    "correct_answer": "Carbono",
+    "incorrect_answers": ["Nitrogênio", "Oxigênio", "Hidrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o maior animal atualmente na Terra?",
+    "correct_answer": "Baleia azul",
+    "incorrect_answers": ["Orca", "Lula colossal", "Girafa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dos seguintes NÃO é um elemento real?",
+    "correct_answer": "Vitrainium",
+    "incorrect_answers": ["Praseodímio", "Hássiomo", "Lutécio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome oficial da estrela localizada mais próxima do Polo Celestial Norte?",
+    "correct_answer": "Polaris",
+    "incorrect_answers": ["Eridanus", "Gama Cephei", "Iota Cephei"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Quantos cromossomos existem nas células do seu corpo?",
+    "correct_answer": "23",
+    "incorrect_answers": ["21", "22", "24"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome da ilusão auditiva de uma nota que parece subir infinitamente?",
+    "correct_answer": "Tom Shepard",
+    "incorrect_answers": [
+      "Ilusão Glissandro",
+      "Efeito Fransen",
+      "Efeito McGurk"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a \"usina de energia\" da célula animal eucariótica?",
+    "correct_answer": "Mitocôndria",
+    "incorrect_answers": ["Núcleo", "Cloroplasto", "Retículo endoplasmático"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual horizonte em um perfil de solo consiste em rocha matriz?",
+    "correct_answer": "R",
+    "incorrect_answers": ["O", "B", "D"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Coulrofobia é o medo irracional de quê?",
+    "correct_answer": "Palhaços",
+    "incorrect_answers": ["Cemitérios", "Agulhas", "Túneis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o estudo das células e tecidos de plantas e animais?",
+    "correct_answer": "Histologia",
+    "incorrect_answers": ["Microbiologia", "Anatomia", "Bioquímica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual parte da planta da maconha produz a substância psicoativa conhecida como THC?",
+    "correct_answer": "Flor feminina",
+    "incorrect_answers": ["Folhas", "Flor masculina", "Caule"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o primeiro elemento da tabela periódica?",
+    "correct_answer": "Hidrogênio",
+    "incorrect_answers": ["Hélio", "Oxigênio", "Lítio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "As luas Miranda, Ariel, Umbriel, Titânia e Oberon orbitam qual planeta?",
+    "correct_answer": "Urano",
+    "incorrect_answers": ["Júpiter", "Vênus", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "A que temperatura a água ferve?",
+    "correct_answer": "212°F",
+    "incorrect_answers": ["200°F", "181°F", "178°F"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Na tabela periódica, qual é o símbolo do estanho?",
+    "correct_answer": "Sn",
+    "incorrect_answers": ["Ti", "Ni", "Na"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual termo psicológico se refere ao estresse causado por manter crenças contraditórias?",
+    "correct_answer": "Dissonância Cognitiva",
+    "incorrect_answers": [
+      "Síndrome Flip-Flop",
+      "Cérebro Dividido",
+      "Visão Cega"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Um composto orgânico é considerado um álcool se possuir qual grupo funcional?",
+    "correct_answer": "Hidroxila",
+    "incorrect_answers": ["Carbonila", "Alquil", "Aldeído"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Com qual termo Sigmund Freud é mais associado?",
+    "correct_answer": "Psicanálise",
+    "incorrect_answers": [
+      "Terapia Cognitivo-Comportamental",
+      "Teoria da Gravidade",
+      "Terapia Comportamental Dialética"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual missão Apollo foi a primeira a pousar na Lua?",
+    "correct_answer": "Apollo 11",
+    "incorrect_answers": ["Apollo 10", "Apollo 9", "Apollo 13"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Onde se originou a raça de cachorro \"Chihuahua\"?",
+    "correct_answer": "México",
+    "incorrect_answers": ["França", "Espanha", "Rússia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Todos os seguintes elementos metálicos são líquidos à temperatura ambiente ou próxima, EXCETO:",
+    "correct_answer": "Berílio",
+    "incorrect_answers": ["Gálio", "Césio", "Mercúrio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "O que significa o nome científico da criatura marinha do período Cambriano, Anomalocaris?",
+    "correct_answer": "Camarão Anormal",
+    "incorrect_answers": [
+      "Peixe Deformado",
+      "Caranguejo Estranho",
+      "Molusco Anômalo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Onde está localizado o músculo Glúteo Máximo?",
+    "correct_answer": "Bumbum",
+    "incorrect_answers": ["Braço", "Cabeça", "Tronco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual constelação contém o centro da Via Láctea?",
+    "correct_answer": "Sagitário",
+    "incorrect_answers": ["Escorpião", "Ofiúco", "Capricórnio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Água deionizada é água da qual foi removido qual destes elementos?",
+    "correct_answer": "Ferro",
+    "incorrect_answers": ["Oxigênio", "Hidrogênio", "Átomos não carregados"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome científico do hominídeo extinto conhecido como \"Lucy\"?",
+    "correct_answer": "Australopithecus Afarensis",
+    "incorrect_answers": [
+      "Australopithecus Africanus",
+      "Australopithecus Architeuthis",
+      "Australopithecus Antaris"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual nome comum é dado à condição medial conhecida como síndrome do estresse tibial (MTSS)?",
+    "correct_answer": "Canelite",
+    "incorrect_answers": [
+      "Epicondilite lateral (cotovelo de tenista)",
+      "Síndrome do túnel do carpo",
+      "Joelho da empregada doméstica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual planeta teve imagens da superfície enviadas pela espaçonave \"Viking 1\" a partir de 1976?",
+    "correct_answer": "Marte",
+    "incorrect_answers": ["Saturno", "Júpiter", "Vênus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes é um tipo de reflexo profundo/estiramento de tendão?",
+    "correct_answer": "Reflexo do tornozelo",
+    "incorrect_answers": [
+      "Reflexo do vômito",
+      "Reflexo pupilar à luz",
+      "Reflexo de coçar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Quais dessas placas tectônicas são mais conhecidas por formarem terremotos e tsunamis?",
+    "correct_answer": "Limites de placas convergentes/Crosta oceânica",
+    "incorrect_answers": [
+      "Limites divergentes/Convergentes/Crosta oceânica",
+      "Limites transformantes/divergentes",
+      "Crosta oceânica e continental/Limites transformantes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual elemento químico era originalmente conhecido como Alabamina?",
+    "correct_answer": "Astato",
+    "incorrect_answers": ["Selênio", "Antimônio", "Molibdênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual grande evento de extinção foi causado pela colisão de um asteroide e eliminou a maioria dos dinossauros não aviários?",
+    "correct_answer": "Cretáceo-Paleógeno",
+    "incorrect_answers": [
+      "Triássico-Jurássico",
+      "Permiano-Triássico",
+      "Ordoviciano-Siluriano"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o elemento mais abundante no universo?",
+    "correct_answer": "Hidrogênio",
+    "incorrect_answers": ["Hélio", "Lítio", "Oxigênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Aproximadamente qual porcentagem da atmosfera da Terra é composta por Oxigênio?",
+    "correct_answer": "21%",
+    "incorrect_answers": ["54%", "78%", "7%"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "A \"Tíbia\" é encontrada em qual parte do corpo?",
+    "correct_answer": "Perna",
+    "incorrect_answers": ["Braço", "Mão", "Cabeça"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome linneano da macieira doméstica?",
+    "correct_answer": "Malus pumila",
+    "incorrect_answers": [
+      "Malus americana",
+      "Pomus domestica",
+      "Appelus delectica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome comum do composto químico \"dihidrogênio monóxido\"?",
+    "correct_answer": "Água",
+    "incorrect_answers": ["Metano", "Amônia", "Gás do Riso"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o termo médico para o umbigo?",
+    "correct_answer": "Umbigo (Umbilicus)",
+    "incorrect_answers": ["Nevo", "Narinas", "Paxillus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a principal substância viciante encontrada no tabaco?",
+    "correct_answer": "Nicotina",
+    "incorrect_answers": ["Catinona", "Efedrina", "Glaucina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "O que você estuda se estiver estudando entomologia?",
+    "correct_answer": "Insetos",
+    "incorrect_answers": ["Seres humanos", "Cérebro", "Peixes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a velocidade da luz no vácuo?",
+    "correct_answer": "299.792.458 m/s",
+    "incorrect_answers": [
+      "50.461 m/s",
+      "308.215.043 m/s",
+      "751.665.014.151 m/s"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dos seguintes plásticos é comumente usado para molduras de janelas, calhas e tubos de drenagem?",
+    "correct_answer": "Policloreto de vinila (PVC)",
+    "incorrect_answers": [
+      "Polietileno (PE)",
+      "Polipropileno (PP)",
+      "Poliestireno (PS)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dos seguintes NÃO é um termo usado para descrever um terremoto?",
+    "correct_answer": "Deslizamento de queda (Drop-slide)",
+    "incorrect_answers": [
+      "Pré-sismo (Foreshock)",
+      "Falha transformante (Strike-slip)",
+      "Temblor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Botanicamente falando, qual dessas frutas NÃO é uma baga (berry)?",
+    "correct_answer": "Morango",
+    "incorrect_answers": ["Mirtilo", "Banana", "Uva Concord"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual das seguintes espaçonaves nunca tocou a lua?",
+    "correct_answer": "Mariner 4",
+    "incorrect_answers": ["Apollo 11", "Luna 2", "SMART-1"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "A doença de Alzheimer afeta principalmente qual parte do corpo humano?",
+    "correct_answer": "Cérebro",
+    "incorrect_answers": ["Pulmões", "Pele", "Coração"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "O menisco medial faz parte de qual articulação no corpo humano?",
+    "correct_answer": "Joelho",
+    "incorrect_answers": ["Cotovelo", "Tornozelo", "Ombro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Após qual cidade dinamarquesa o elemento 72 da tabela periódica foi nomeado?",
+    "correct_answer": "Copenhague",
+    "incorrect_answers": ["Odense", "Herning", "Skagen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta mais quente do Sistema Solar?",
+    "correct_answer": "Vênus",
+    "incorrect_answers": ["Marte", "Mercúrio", "Júpiter"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual das seguintes é a parte masculina reprodutiva produtora de pólen de uma flor?",
+    "correct_answer": "Estame",
+    "incorrect_answers": ["Sépala", "Pistilo", "Pétala"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual lua é o único satélite do nosso sistema solar a possuir uma atmosfera densa?",
+    "correct_answer": "Titã",
+    "incorrect_answers": ["Europa", "Miranda", "Calisto"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o peso atômico padrão de um núcleo de plutônio?",
+    "correct_answer": "244",
+    "incorrect_answers": ["94", "481", "128"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Quantos tipos de quarks existem no modelo padrão da física?",
+    "correct_answer": "6",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Na física quântica, qual dessas partículas subatômicas teóricas ainda não foi observada?",
+    "correct_answer": "Graviton",
+    "incorrect_answers": ["Bóson Z", "Tau neutrino", "Gluon"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Miopia é o termo científico para qual condição?",
+    "correct_answer": "Visão curta (miopia)",
+    "incorrect_answers": [
+      "Hipermetropia (visão longa)",
+      "Visão dupla",
+      "Visão turva"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a massa atômica do Carbono?",
+    "correct_answer": "12",
+    "incorrect_answers": ["14", "16", "10"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes é um códon de parada no DNA?",
+    "correct_answer": "TAA",
+    "incorrect_answers": ["ACT", "ACA", "GTA"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Em Psicologia, qual necessidade aparece no topo da pirâmide da \"hierarquia das necessidades de Maslow\"?",
+    "correct_answer": "Estima",
+    "incorrect_answers": ["Amor", "Segurança", "Fisiológica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "A palavra \"ciência\" vem da palavra \"scire\" que significa o quê?",
+    "correct_answer": "Saber",
+    "incorrect_answers": ["Medir", "Viver", "Contar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o termo científico para \"brain freeze\" (congelamento cerebral)?",
+    "correct_answer": "Gânglio neural esfenopalatino",
+    "incorrect_answers": [
+      "Hyacinthoides Italica",
+      "Amaranthus Retroflexus",
+      "Amblyomma Americanum"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual dos seguintes termos se refere a complicações cirúrgicas causadas por esponjas cirúrgicas deixadas dentro do corpo do paciente?",
+    "correct_answer": "Gossypiboma",
+    "incorrect_answers": ["Gongoozler", "Jentacular", "Meupareunia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "correct_answer": "Marte",
+    "incorrect_answers": ["Júpiter", "Saturno", "Vênus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o maior órgão do corpo humano?",
+    "correct_answer": "Pele",
+    "incorrect_answers": ["Fígado", "Coração", "Pulmões"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual gás é mais abundante na atmosfera terrestre?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Oxigênio", "Dióxido de carbono", "Argônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual elemento químico tem o símbolo Fe?",
+    "correct_answer": "Ferro",
+    "incorrect_answers": ["Flúor", "Fósforo", "Ferrovia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a função da mitocôndria nas células?",
+    "correct_answer": "Produzir energia",
+    "incorrect_answers": [
+      "Armazenar água",
+      "Controlar o material genético",
+      "Produzir proteínas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a unidade básica da vida?",
+    "correct_answer": "Célula",
+    "incorrect_answers": ["Molécula", "Átomo", "Tecido"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual planeta do sistema solar tem os anéis mais visíveis?",
+    "correct_answer": "Saturno",
+    "incorrect_answers": ["Urano", "Júpiter", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um mamífero?",
+    "correct_answer": "Golfinho",
+    "incorrect_answers": ["Tubarão", "Pinguim", "Crocodilo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "O que significa o termo 'osmosis' em biologia?",
+    "correct_answer": "Movimento da água através de uma membrana semipermeável",
+    "incorrect_answers": [
+      "Divisão celular",
+      "Produção de energia",
+      "Transporte de oxigênio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes planetas é o maior do sistema solar?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Saturno", "Netuno", "Urano"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais pode voar?",
+    "correct_answer": "Morcego",
+    "incorrect_answers": ["Pinguim", "Avestruz", "Canguru"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o processo pelo qual as plantas produzem seu alimento?",
+    "correct_answer": "Fotossíntese",
+    "incorrect_answers": ["Respiração", "Transpiração", "Fermentação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal componente do gás natural?",
+    "correct_answer": "Metano",
+    "incorrect_answers": ["Dióxido de carbono", "Oxigênio", "Nitrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a unidade de medida da resistência elétrica?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": ["Volt", "Ampere", "Watt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses planetas é o mais próximo do Sol?",
+    "correct_answer": "Mercúrio",
+    "incorrect_answers": ["Vênus", "Terra", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "O que é a camada de ozônio?",
+    "correct_answer": "Camada da atmosfera que protege a Terra da radiação ultravioleta",
+    "incorrect_answers": [
+      "Camada de nuvens",
+      "Parte do núcleo da Terra",
+      "Zona do espaço exterior"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal componente do ar que respiramos?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Oxigênio", "Dióxido de carbono", "Argônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Quem formulou a teoria da relatividade?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Galileu Galilei", "Nikola Tesla"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a função dos glóbulos vermelhos no sangue?",
+    "correct_answer": "Transportar oxigênio",
+    "incorrect_answers": [
+      "Combater infecções",
+      "Coagular sangue",
+      "Produzir anticorpos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual partícula subatômica tem carga positiva?",
+    "correct_answer": "Próton",
+    "incorrect_answers": ["Nêutron", "Elétron", "Neutrino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o estado físico da água a 0 graus Celsius?",
+    "correct_answer": "Sólido (gelo)",
+    "incorrect_answers": ["Líquido", "Gasoso", "Plasma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da camada externa da Terra?",
+    "correct_answer": "Crosta",
+    "incorrect_answers": ["Manto", "Núcleo", "Litosfera"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o processo que transforma um líquido em gás?",
+    "correct_answer": "Evaporação",
+    "incorrect_answers": ["Condensação", "Solidificação", "Fusão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a principal função do sistema linfático?",
+    "correct_answer": "Defesa do organismo e transporte de líquidos",
+    "incorrect_answers": [
+      "Produção de hormônios",
+      "Digestão de alimentos",
+      "Controle da temperatura corporal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a fórmula química da água?",
+    "correct_answer": "H₂O",
+    "incorrect_answers": ["CO₂", "O₂", "H₂SO₄"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o principal gás causador do efeito estufa?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": ["Oxigênio", "Nitrogênio", "Hélio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual plantas e algas produzem energia a partir da luz solar?",
+    "correct_answer": "Fotossíntese",
+    "incorrect_answers": ["Respiração celular", "Fermentação", "Quimiossíntese"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o órgão responsável pela filtragem do sangue?",
+    "correct_answer": "Rins",
+    "incorrect_answers": ["Fígado", "Coração", "Pulmões"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um réptil?",
+    "correct_answer": "Cobra",
+    "incorrect_answers": ["Sapo", "Pássaro", "Peixe"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta mais próximo da Terra?",
+    "correct_answer": "Vênus",
+    "incorrect_answers": ["Marte", "Mercúrio", "Júpiter"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal componente do sangue humano?",
+    "correct_answer": "Plasma",
+    "incorrect_answers": ["Glóbulos brancos", "Glóbulos vermelhos", "Plaquetas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da partícula que mantém os prótons juntos no núcleo atômico?",
+    "correct_answer": "Nêutron",
+    "incorrect_answers": ["Elétron", "Fóton", "Neutrino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um inseto?",
+    "correct_answer": "Formiga",
+    "incorrect_answers": ["Aranha", "Lagarto", "Sapo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual órgão do corpo humano é responsável por bombear o sangue?",
+    "correct_answer": "Coração",
+    "incorrect_answers": ["Fígado", "Pulmão", "Rim"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual fenômeno físico explica o arco-íris?",
+    "correct_answer": "Refração e dispersão da luz",
+    "incorrect_answers": [
+      "Reflexão da luz",
+      "Difração da luz",
+      "Absorção da luz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a velocidade aproximada da luz no vácuo?",
+    "correct_answer": "300.000 km/s",
+    "incorrect_answers": ["150.000 km/s", "100.000 km/s", "1.000 km/s"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a principal função do fígado?",
+    "correct_answer": "Desintoxicação do organismo",
+    "incorrect_answers": [
+      "Produzir insulina",
+      "Filtrar o sangue",
+      "Armazenar oxigênio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o estado da água em temperatura ambiente?",
+    "correct_answer": "Líquido",
+    "incorrect_answers": ["Sólido", "Gasoso", "Plasma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome do processo em que o DNA é copiado para formar RNA?",
+    "correct_answer": "Transcrição",
+    "incorrect_answers": ["Tradução", "Replicação", "Mutação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a função dos ribossomos nas células?",
+    "correct_answer": "Produzir proteínas",
+    "incorrect_answers": [
+      "Produzir energia",
+      "Armazenar material genético",
+      "Transportar nutrientes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a unidade de medida da força?",
+    "correct_answer": "Newton",
+    "incorrect_answers": ["Joule", "Pascal", "Watt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual planeta é conhecido como o gigante gasoso mais próximo da Terra?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Saturno", "Urano", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual plantas convertem luz solar em energia química?",
+    "correct_answer": "Fotossíntese",
+    "incorrect_answers": ["Respiração celular", "Fermentação", "Quimiossíntese"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a principal função dos glóbulos brancos?",
+    "correct_answer": "Defender o organismo contra infecções",
+    "incorrect_answers": [
+      "Transportar oxigênio",
+      "Coagular o sangue",
+      "Regular a temperatura"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "O que é um fóssil?",
+    "correct_answer": "Restos ou vestígios de organismos antigos",
+    "incorrect_answers": [
+      "Um tipo de mineral",
+      "Um tipo de planta",
+      "Uma rocha vulcânica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal gás responsável pela respiração dos seres humanos?",
+    "correct_answer": "Oxigênio",
+    "incorrect_answers": ["Nitrogênio", "Dióxido de carbono", "Hidrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um anfíbio?",
+    "correct_answer": "Sapo",
+    "incorrect_answers": ["Cobra", "Pombo", "Tubarão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual cientista é conhecido pela teoria da evolução das espécies?",
+    "correct_answer": "Charles Darwin",
+    "incorrect_answers": ["Isaac Newton", "Albert Einstein", "Galileu Galilei"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta com um grande sistema de anéis visíveis?",
+    "correct_answer": "Saturno",
+    "incorrect_answers": ["Júpiter", "Urano", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "O que é a gravidade?",
+    "correct_answer": "A força que atrai objetos para o centro da Terra",
+    "incorrect_answers": [
+      "A força que empurra objetos para cima",
+      "Uma força magnética",
+      "Uma força elétrica"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual partícula subatômica foi descoberta por J.J. Thomson?",
+    "correct_answer": "Elétron",
+    "incorrect_answers": ["Próton", "Nêutron", "Neutrino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal gás responsável pelo efeito estufa?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": ["Oxigênio", "Nitrogênio", "Hélio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes é um mineral?",
+    "correct_answer": "Quartzo",
+    "incorrect_answers": ["Madeira", "Água", "Carvão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o processo pelo qual a água passa do estado líquido para o gasoso?",
+    "correct_answer": "Evaporação",
+    "incorrect_answers": ["Condensação", "Fusão", "Solidificação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da célula que produz anticorpos no sistema imunológico?",
+    "correct_answer": "Plasmócito",
+    "incorrect_answers": ["Linfócito T", "Macrófago", "Neutrófilo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do gás que as plantas absorvem para a fotossíntese?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": ["Oxigênio", "Nitrogênio", "Metano"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais vive na água doce?",
+    "correct_answer": "Peixe",
+    "incorrect_answers": ["Golfinho", "Foca", "Baleia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do órgão que regula os níveis de açúcar no sangue?",
+    "correct_answer": "Pâncreas",
+    "incorrect_answers": ["Fígado", "Rim", "Baço"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o órgão do corpo humano responsável pela digestão?",
+    "correct_answer": "Estômago",
+    "incorrect_answers": ["Coração", "Fígado", "Pulmão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual elemento químico é essencial para a formação da hemoglobina no sangue?",
+    "correct_answer": "Ferro",
+    "incorrect_answers": ["Cobre", "Zinco", "Magnésio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destas partículas subatômicas não possui carga elétrica?",
+    "correct_answer": "Nêutron",
+    "incorrect_answers": ["Próton", "Elétron", "Positron"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual as células se dividem para formar duas células-filhas idênticas?",
+    "correct_answer": "Mitose",
+    "incorrect_answers": ["Meiose", "Fissão binária", "Fagocitose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a camada da Terra onde ocorrem os terremotos?",
+    "correct_answer": "Litosfera",
+    "incorrect_answers": ["Manto", "Núcleo externo", "Núcleo interno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da estrela mais próxima da Terra?",
+    "correct_answer": "Sol",
+    "incorrect_answers": ["Sirius", "Alpha Centauri", "Betelgeuse"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual plantas perdem água pelas folhas?",
+    "correct_answer": "Transpiração",
+    "incorrect_answers": ["Respiração", "Fotossíntese", "Osmose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a função do ácido ribonucleico (RNA) nas células?",
+    "correct_answer": "Transferir informação genética para produção de proteínas",
+    "incorrect_answers": [
+      "Armazenar energia",
+      "Formar membranas celulares",
+      "Transportar oxigênio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses animais é conhecido por sua capacidade de regenerar membros?",
+    "correct_answer": "Estrela-do-mar",
+    "incorrect_answers": ["Polvo", "Golfinho", "Cavalo-marinho"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal componente do ar que respiramos?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Oxigênio", "Dióxido de carbono", "Argônio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome da partícula elementar que carrega carga elétrica negativa?",
+    "correct_answer": "Elétron",
+    "incorrect_answers": ["Próton", "Nêutron", "Fóton"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome do fenômeno em que ocorre a emissão de elétrons a partir de um metal quando exposto à luz?",
+    "correct_answer": "Efeito fotoelétrico",
+    "incorrect_answers": ["Efeito Doppler", "Efeito estufa", "Efeito Hall"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da estrutura que conecta músculos a ossos?",
+    "correct_answer": "Tendão",
+    "incorrect_answers": ["Ligamento", "Cartilagem", "Fáscia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta conhecido como o gigante gasoso azul?",
+    "correct_answer": "Netuno",
+    "incorrect_answers": ["Júpiter", "Urano", "Saturno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo de passagem do estado sólido para o estado gasoso, sem passar pelo estado líquido?",
+    "correct_answer": "Sublimação",
+    "incorrect_answers": ["Fusão", "Evaporação", "Condensação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a unidade de medida da intensidade da corrente elétrica?",
+    "correct_answer": "Ampere",
+    "incorrect_answers": ["Volt", "Ohm", "Watt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses é um mamífero marinho?",
+    "correct_answer": "Baleia",
+    "incorrect_answers": ["Tubarão", "Polvo", "Estrela-do-mar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes planetas tem mais luas?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Saturno", "Urano", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal órgão responsável pela filtragem do sangue?",
+    "correct_answer": "Rins",
+    "incorrect_answers": ["Fígado", "Pulmão", "Coração"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual o RNA é traduzido para formar proteínas?",
+    "correct_answer": "Tradução",
+    "incorrect_answers": ["Transcrição", "Replicação", "Mitose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destas camadas da Terra é líquida?",
+    "correct_answer": "Núcleo externo",
+    "incorrect_answers": ["Crosta", "Manto", "Núcleo interno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do satélite natural da Terra?",
+    "correct_answer": "Lua",
+    "incorrect_answers": ["Marte", "Vênus", "Estrela"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o gás mais leve da tabela periódica?",
+    "correct_answer": "Hidrogênio",
+    "incorrect_answers": ["Hélio", "Nitrogênio", "Oxigênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do princípio que afirma que 'para cada ação existe uma reação igual e contrária'?",
+    "correct_answer": "Terceira Lei de Newton",
+    "incorrect_answers": [
+      "Primeira Lei de Newton",
+      "Segunda Lei de Newton",
+      "Lei da Gravitação Universal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da parte do olho responsável pela percepção das cores?",
+    "correct_answer": "Cones",
+    "incorrect_answers": ["Bastonetes", "Cristalino", "Íris"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um mamífero?",
+    "correct_answer": "Cachorro",
+    "incorrect_answers": ["Pombo", "Cobra", "Tubarão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes é um exemplo de fonte de energia renovável?",
+    "correct_answer": "Energia solar",
+    "incorrect_answers": ["Petróleo", "Carvão", "Gás natural"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual a célula consome oxigênio para produzir energia?",
+    "correct_answer": "Respiração celular",
+    "incorrect_answers": ["Fermentação", "Fotossíntese", "Mitose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o maior planeta do sistema solar?",
+    "correct_answer": "Júpiter",
+    "incorrect_answers": ["Saturno", "Urano", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta conhecido como o Planeta Vermelho?",
+    "correct_answer": "Marte",
+    "incorrect_answers": ["Júpiter", "Saturno", "Vênus"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o órgão responsável pela produção de insulina no corpo humano?",
+    "correct_answer": "Pâncreas",
+    "incorrect_answers": ["Fígado", "Rim", "Baço"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual elemento químico tem o símbolo 'Au' na tabela periódica?",
+    "correct_answer": "Ouro",
+    "incorrect_answers": ["Prata", "Alumínio", "Alumínio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual processo celular é responsável pela produção de gametas?",
+    "correct_answer": "Meiose",
+    "incorrect_answers": ["Mitose", "Fagocitose", "Transcrição"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal gás encontrado na atmosfera terrestre?",
+    "correct_answer": "Nitrogênio",
+    "incorrect_answers": ["Oxigênio", "Dióxido de carbono", "Hélio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a função dos glóbulos vermelhos no sangue?",
+    "correct_answer": "Transportar oxigênio",
+    "incorrect_answers": [
+      "Combater infecções",
+      "Coagular o sangue",
+      "Regular a temperatura"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual as plantas absorvem água pelas raízes?",
+    "correct_answer": "Osmose",
+    "incorrect_answers": ["Transpiração", "Fotossíntese", "Difusão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses animais é um réptil?",
+    "correct_answer": "Cobra",
+    "incorrect_answers": ["Sapo", "Golfinho", "Pombo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a unidade básica da vida?",
+    "correct_answer": "Célula",
+    "incorrect_answers": ["Molécula", "Átomo", "Tecido"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo que converte glicose em energia nas células?",
+    "correct_answer": "Respiração celular",
+    "incorrect_answers": ["Fermentação", "Fotossíntese", "Mitose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual o nome da partícula responsável pela transmissão de sinais nervosos?",
+    "correct_answer": "Neurotransmissor",
+    "incorrect_answers": ["Hormônio", "Anticorpo", "Enzima"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes planetas tem anéis visíveis?",
+    "correct_answer": "Saturno",
+    "incorrect_answers": ["Marte", "Mercúrio", "Terra"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o estado físico da água a 0°C?",
+    "correct_answer": "Sólido",
+    "incorrect_answers": ["Líquido", "Gasoso", "Plasma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do mineral mais duro encontrado na natureza?",
+    "correct_answer": "Diamante",
+    "incorrect_answers": ["Quartzo", "Feldspato", "Mica"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do órgão responsável pela regulação hormonal no corpo humano?",
+    "correct_answer": "Hipotálamo",
+    "incorrect_answers": ["Pâncreas", "Tireóide", "Adrenal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a principal função dos pulmões?",
+    "correct_answer": "Troca gasosa",
+    "incorrect_answers": [
+      "Filtrar sangue",
+      "Produzir insulina",
+      "Armazenar energia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um mamífero?",
+    "correct_answer": "Cavalo",
+    "incorrect_answers": ["Crocodilo", "Águia", "Peixe"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo que gera variações genéticas durante a reprodução sexuada?",
+    "correct_answer": "Recombinação genética",
+    "incorrect_answers": ["Mutação", "Clonagem", "Transcrição"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da unidade funcional do sistema nervoso?",
+    "correct_answer": "Neurônio",
+    "incorrect_answers": ["Axônio", "Dendrito", "Sínapse"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo que envolve a absorção de nutrientes pelas raízes das plantas?",
+    "correct_answer": "Absorção",
+    "incorrect_answers": ["Transpiração", "Fotossíntese", "Osmose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um invertebrado?",
+    "correct_answer": "Polvo",
+    "incorrect_answers": ["Cavalo", "Elefante", "Águia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes elementos é um gás nobre?",
+    "correct_answer": "Neônio",
+    "incorrect_answers": ["Nitrogênio", "Oxigênio", "Hidrogênio"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual fenômeno explica o deslocamento aparente de uma fonte sonora quando ela se aproxima ou se afasta de um observador?",
+    "correct_answer": "Efeito Doppler",
+    "incorrect_answers": ["Refração", "Difração", "Interferência"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual o oxigênio é transportado no sangue?",
+    "correct_answer": "Transporte pela hemoglobina",
+    "incorrect_answers": ["Difusão simples", "Osmose", "Transporte ativo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes é um tipo de rocha?",
+    "correct_answer": "Granito",
+    "incorrect_answers": ["Areia", "Argila", "Pólen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual a unidade de medida da temperatura no Sistema Internacional?",
+    "correct_answer": "Kelvin",
+    "incorrect_answers": ["Celsius", "Fahrenheit", "Rankine"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual cientista propôs a teoria da relatividade?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Galileu Galilei"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo em que os líquidos passam para o estado sólido?",
+    "correct_answer": "Solidificação",
+    "incorrect_answers": ["Fusão", "Evaporação", "Condensação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta mais distante do Sol no sistema solar tradicional?",
+    "correct_answer": "Netuno",
+    "incorrect_answers": ["Urano", "Saturno", "Plutão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o maior órgão do corpo humano?",
+    "correct_answer": "Pele",
+    "incorrect_answers": ["Fígado", "Coração", "Pulmões"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal gás responsável pelo efeito estufa?",
+    "correct_answer": "Dióxido de carbono",
+    "incorrect_answers": ["Oxigênio", "Nitrogênio", "Metano"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da partícula subatômica com carga positiva?",
+    "correct_answer": "Próton",
+    "incorrect_answers": ["Elétron", "Nêutron", "Pósitron"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da camada mais externa da Terra?",
+    "correct_answer": "Crosta",
+    "incorrect_answers": ["Manto", "Núcleo interno", "Núcleo externo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um anfíbio?",
+    "correct_answer": "Sapo",
+    "incorrect_answers": ["Cobra", "Pomba", "Golfinho"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes planetas não possui luas?",
+    "correct_answer": "Mercúrio",
+    "incorrect_answers": ["Marte", "Vênus", "Netuno"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do cientista que formulou as leis do movimento?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": ["Albert Einstein", "Galileu Galilei", "Nikola Tesla"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o órgão do sistema circulatório responsável por bombear o sangue?",
+    "correct_answer": "Coração",
+    "incorrect_answers": ["Pulmões", "Fígado", "Rins"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o estado da água a 100°C sob pressão atmosférica normal?",
+    "correct_answer": "Gasoso",
+    "incorrect_answers": ["Sólido", "Líquido", "Plasma"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da molécula que transporta oxigênio no sangue?",
+    "correct_answer": "Hemoglobina",
+    "incorrect_answers": ["Insulina", "Colágeno", "Melatonina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual a energia luminosa é convertida em energia química nas plantas?",
+    "correct_answer": "Fotossíntese",
+    "incorrect_answers": ["Respiração celular", "Fermentação", "Mitose"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do fenômeno que causa o arco-íris?",
+    "correct_answer": "Refração da luz",
+    "incorrect_answers": [
+      "Reflexão da luz",
+      "Difração da luz",
+      "Interferência da luz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses animais é um inseto?",
+    "correct_answer": "Formiga",
+    "incorrect_answers": ["Aranha", "Águia", "Sapo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a principal função das raízes nas plantas?",
+    "correct_answer": "Absorver água e nutrientes",
+    "incorrect_answers": [
+      "Realizar fotossíntese",
+      "Produzir sementes",
+      "Atrair polinizadores"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do composto que possui a fórmula química H2SO4?",
+    "correct_answer": "Ácido sulfúrico",
+    "incorrect_answers": ["Ácido clorídrico", "Ácido nítrico", "Ácido acético"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses é um tipo de nuvem?",
+    "correct_answer": "Cúmulus",
+    "incorrect_answers": ["Tornado", "Tsunami", "Avalanche"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do órgão onde ocorre a troca gasosa em humanos?",
+    "correct_answer": "Pulmões",
+    "incorrect_answers": ["Coração", "Fígado", "Estômago"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses animais é um herbívoro?",
+    "correct_answer": "Vaca",
+    "incorrect_answers": ["Leão", "Lobo", "Tubarão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo em que uma célula engole partículas sólidas?",
+    "correct_answer": "Fagocitose",
+    "incorrect_answers": ["Pinocitose", "Mitose", "Difusão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a camada da atmosfera mais próxima da Terra?",
+    "correct_answer": "Troposfera",
+    "incorrect_answers": ["Estratosfera", "Mesosfera", "Termosfera"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o principal componente do sal de cozinha?",
+    "correct_answer": "Cloreto de sódio",
+    "incorrect_answers": [
+      "Sulfato de sódio",
+      "Carbonato de cálcio",
+      "Nitrato de potássio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é a unidade básica de medida da massa no sistema internacional?",
+    "correct_answer": "Quilograma",
+    "incorrect_answers": ["Grama", "Libra", "Onça"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual o DNA é copiado para o RNA?",
+    "correct_answer": "Transcrição",
+    "incorrect_answers": ["Tradução", "Replicação", "Mutação"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual desses é um mineral?",
+    "correct_answer": "Quartzo",
+    "incorrect_answers": ["Areia", "Argila", "Calcário"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o planeta mais próximo do Sol?",
+    "correct_answer": "Mercúrio",
+    "incorrect_answers": ["Vênus", "Terra", "Marte"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome da proteína que compõe o cabelo e as unhas?",
+    "correct_answer": "Queratina",
+    "incorrect_answers": ["Colágeno", "Elastina", "Melanina"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual cientista é conhecido pela teoria da evolução das espécies?",
+    "correct_answer": "Charles Darwin",
+    "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Isaac Newton"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual é o nome do processo pelo qual a água se transforma em vapor?",
+    "correct_answer": "Evaporação",
+    "incorrect_answers": ["Condensação", "Sublimação", "Fusão"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science%20%26%20Nature",
+    "question": "Qual destes animais é um peixe?",
+    "correct_answer": "Tubarão",
+    "incorrect_answers": ["Golfinho", "Baleia", "Pinguim"]
+  }
+]
